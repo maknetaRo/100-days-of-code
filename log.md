@@ -11,7 +11,7 @@ Work on a Django downloader app
 * Make a model Uploader.
 * Make a list view.
 * Create a template list view.
-2* Add and url.
+* Add and url.
 
 **Resources**:
 
