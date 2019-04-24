@@ -7,11 +7,11 @@
 Work on a Django downloader app
 1. Read the existing code
 2. Create a Django app (module) in which admin can upload different kind of files and users can download the files.
-2.1 Start an app, add it to settings.
-2.2 Make a model Uploader.
-2.3 Make a list view.
-2.4 Create a template list view.
-2.5 Add and url.
+* Start an app, add it to settings.
+* Make a model Uploader.
+* Make a list view.
+* Create a template list view.
+2* Add and url.
 
 **Resources**:
 
