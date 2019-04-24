@@ -11,15 +11,19 @@ Work on a Django downloader app
 * Make a model Uploader.
 * Make a list view.
 * Create a template list view.
-* Add and url.
+* Add an url.
 
 **Resources**:
 
 **Today's Progress**: 
+I managed to start an Uploader app in Django. It's a part of a bigger project. I created a Document Model and registered it in admin.py and now I can upload documents as an admin. I also created a template (HTML page) where a list of all uploaded documents is supposed to be display. 
 
 **Thoughts:** 
-
+I managed to do the simplest part of the project. The list of documents doesn't show any document :-(
 **Link to work:** 
 
 **Plans for tomorrow**:
+Find out how to display description / title of the uploaded file as an active link for download. 
+1. Display the titles of the uploaded files.
+2. Learn how a downloader works.
 
