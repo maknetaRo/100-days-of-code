@@ -37,13 +37,26 @@ https://www.youtube.com/watch?v=b43JIn-OGZU
 3. Watch videos about uploading and downloading files in Django.
 
 **Today's Progress**:
+1. Local copy of 100DaysOfCode - done.
+2. & 3. I read about working with files and start watching a few videos but they
+very mostly about uploading files or creating files.
+Unfortunately I have a problem with migrations. I had to remove part of the database
+and migrations files. And now I need time to fix migrations.
 
-**Thoughts:**
+**Thoughts:** I found it difficult to concentrate on the project due to my work
+problems. I also need to spend more time learning Python to be able to build things
+from scratch without looking for everything online. 
 
 **Link to work:**
 
 **Plans for tomorrow**:
+1. Read carefully git rep with manga_download
+2. Fix the migrations
+3. Write path to file (function)
+4. Write view to download files.
 
 **Resources**:
 1. https://help.github.com/en/articles/fork-a-repo
-2. Automate the boring stuff with Python
+2. Automate the boring stuff with Python & Python Crush Course
+3. https://github.com/m-marian/manga_download/blob/master/mdownload/custom_functions.py
+4. https://stackoverflow.com/questions/15246661/downloading-the-fileswhich-are-uploaded-from-media-folder-in-django-1-4-3
