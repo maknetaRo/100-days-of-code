@@ -45,7 +45,7 @@ and migrations files. And now I need time to fix migrations.
 
 **Thoughts:** I found it difficult to concentrate on the project due to my work
 problems. I also need to spend more time learning Python to be able to build things
-from scratch without looking for everything online. 
+from scratch without looking for everything online.
 
 **Link to work:**
 
@@ -54,9 +54,40 @@ from scratch without looking for everything online.
 2. Fix the migrations
 3. Write path to file (function)
 4. Write view to download files.
+5. Read 10 - 20 pages of a book about Python
 
 **Resources**:
 1. https://help.github.com/en/articles/fork-a-repo
 2. Automate the boring stuff with Python & Python Crush Course
 3. https://github.com/m-marian/manga_download/blob/master/mdownload/custom_functions.py
 4. https://stackoverflow.com/questions/15246661/downloading-the-fileswhich-are-uploaded-from-media-folder-in-django-1-4-3
+
+### Day 3: April 26, 2019
+
+**Plans for Today**:
+1. Read carefully git rep with manga_download
+2. Fix the migrations
+3. Write path to file (function)
+4. Write view to download files.
+5. Read 10 - 20 pages of a book about Python
+6. Solve 3rd project Euler - watch video: https://www.youtube.com/watch?v=Y3n-PA3QoAE&t=58s
+
+**Today's Progress**:
+1. Solved 2 Euler problems - finding the largest prime factor and finding
+the largest product of 2 3-digits numbers that is a palindrome.
+2. Yuppie! Managed to fix migrations.
+Articles that helped me to do it:
+* [https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html] How to reset migrations
+* [https://medium.com/@taranjeet/django-migrations-a-primer-35b0f7b87062] Django Migrations: A Primer
+Those two shows how to check, show or reset migrations properly.
+* [https://stackoverflow.com/questions/39254849/django-table-not-created-when-running-migrations-that-explicitly-create-table] Django table not created when running migrations that explicitly create table. (stackoverflow)
+I didn't know about django_migrations table in database. I removed my model migrations in this
+table and than did makemigration my_app and migrate my_app and now it's working correctly.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow**:
+
+**Resources**:
