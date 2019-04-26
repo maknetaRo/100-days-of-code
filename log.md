@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
-[Day 1: April 24, 2019](### Day 1: April 24, 2019)
-[Day 2: Arpil 25, 2019](### Day 2: April 25, 2019)
-[Day 3: April 26, 2019](### Day 3: April 26, 2019)
+[Day 1: April 24, 2019](.### Day 1: April 24, 2019)
+[Day 2: Arpil 25, 2019](.### Day 2: April 25, 2019)
+[Day 3: April 26, 2019](.### Day 3: April 26, 2019)
 
 ### Day 1: April 24, 2019
 #(delete me or comment me out)
