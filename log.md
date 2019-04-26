@@ -74,7 +74,7 @@ from scratch without looking for everything online.
 
 **Today's Progress**:
 1. Solved 2 Euler problems - finding the largest prime factor and finding
-the largest product of 2 3-digits numbers that is a palindrome.
+the largest product of 2 3-digits numbers that is a palindrome. (spent 3.5h)
 2. Yuppie! Managed to fix migrations.
 Articles that helped me to do it:
 * [https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html] How to reset migrations
@@ -85,9 +85,16 @@ I didn't know about django_migrations table in database. I removed my model migr
 table and than did makemigration my_app and migrate my_app and now it's working correctly.
 
 **Thoughts:**
+Writing down plans and achievement really helps (at least so far).
+I'm very happy I managed to fix the migration and I'm also glad that I solved two Euler problems. My code is not the most efficient but I've also learnt new ways. I hope working everyday on those problems will help to move my brain cells and teach me more mathematical thinking. I was pretty good at Math at school but it was years ago.
+Feel to tried to work more on points 1, 3 and 4.
 
 **Link to work:**
 
 **Plans for tomorrow**:
+1. Solve 5th Project Euler problem.
+2. Write path to file (function)
+3. Write view to download files.
+4. Read 10 - 20 pages of a book about Python
 
 **Resources**:
