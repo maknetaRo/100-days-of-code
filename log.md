@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log Round 4
 [Day 1: April 24, 2019](.### Day 1: April 24, 2019)
 [Day 2: Arpil 25, 2019](.### Day 2: April 25, 2019)
 [Day 3: April 26, 2019](.### Day 3: April 26, 2019)
@@ -18,11 +18,17 @@
 
 **Thoughts:**
 Project Euler mathematical problems are really tiring.
+I usually plan a lot on Saturday or Sunday but then I have not enough time to do it. And today I only managed to do project Euler and read a few articles on PythonAnywhere about deploying Django app.
+Need to learn how to solve problem when I have a few app that use Postgresql or MySQL.
 
 **Link to work:**
 
 **Plans for tomorrow:**
-
+1. Find out how to prepare Django app to deployment on PythonAnywhere
+* how to hide secret keys
+* how to use postgres database on PA
+2. Deploy my blog
+3. Write the first article
 **Resources:**
 1. https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment
 2. https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
