@@ -1,7 +1,56 @@
 # 100 Days Of Code - Log Round 4
-[Day 1: April 24, 2019](.### Day 1: April 24, 2019)
-[Day 2: Arpil 25, 2019](.### Day 2: April 25, 2019)
-[Day 3: April 26, 2019](.### Day 3: April 26, 2019)
+
+### Day 5: April 28, 2019
+
+**Plans for Today:**
+
+1. Manage docker to use django blog app locally
+2. Check blog app and fix small issues
+3. Deploy my blog
+* how to hide secret keys
+* how to use postgres database
+
+**Today's Progress:**
+
+Spent almost 4 hours coding - even more looking for solution.
+1. I managed docker to run postgres  and then fixed small issues in the blog app itself.
+2. But deployment is a nightmare.
+I used python-decouple module to create .env file with secrets - secret_key, postgres user and password and so.
+Important:
+To add all dependences from requirements.txt to pipenv shell use:
+$ pipenv install -r requirements.txt
+
+I have done a lot to setup everything to deployment. First I wanted to deploy it to PythonAnywhere but it costs too much to have an app with postgres there. When I changed everything for Heroku, now I have problem with wsgi and such an error:
+"File "/home/magda/.local/share/virtualenvs/myblog-F1Ww9ekw/lib/python3.7/site-packages/django/core/servers/basehttp.py", line 50, in get_internal_wsgi_application
+    ) from err
+django.core.exceptions.ImproperlyConfigured: WSGI application 'mysite.wsgi.application' could not be loaded; Error importing module."
+
+And my app has been deployed on Heroku but there is an application error
+"our WhiteNoise configuration is incompatible with WhiteNoise v4.0"
+
+**Thoughts:**
+A bit dissapointed that I haven't managed to deploy this app today.
+No time for Python and project Euler.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Work on WhiteNoise configuration
+2. Deploy
+3. Move back to building downloader.
+* writing path to files
+* writing view to download file
+
+**Resources:**
+1. https://www.pythonsetup.com/what-should-i-check-deploying-my-django-application-production/
+2. https://github.com/kennethreitz/dj-database-url?fbclid=IwAR1n0U6lDd9aP3hYnGvIcJ7kdZ4NQuy9AllTGjV_SeqhnokwuTsGRLrHVQI
+3. https://djangobook.com/deploying-django/
+4. https://simpleisbetterthancomplex.com/series/2017/10/16/a-complete-beginners-guide-to-django-part-7.html
+5. https://medium.com/@nithinkvijayan/https-medium-com-nithinkvijayan-separating-django-application-config-and-secrets-from-code-python-decouple-e0787d2bcc2a
+6. https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html
+7. https://dev.to/achiengcindy/laughing-blog-tutorial-part-1-project-structure-21fi
+8. https://realpython.com/pipenv-guide/
+
 
 ### Day 4: April 27, 2019
 
@@ -19,7 +68,7 @@
 **Thoughts:**
 Project Euler mathematical problems are really tiring.
 I usually plan a lot on Saturday or Sunday but then I have not enough time to do it. And today I only managed to do project Euler and read a few articles on PythonAnywhere about deploying Django app.
-Need to learn how to solve problem when I have a few app that use Postgresql or MySQL.
+Need to learn how to solve problem when I have a few app that use Postgresql or MySQL as I am not able to run my blog locally due to server already in use problem.
 
 **Link to work:**
 
@@ -29,7 +78,9 @@ Need to learn how to solve problem when I have a few app that use Postgresql or 
 * how to use postgres database on PA
 2. Deploy my blog
 3. Write the first article
+
 **Resources:**
+
 1. https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment
 2. https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 3. https://help.pythonanywhere.com/pages/environment-variables-for-web-apps/
@@ -143,7 +194,7 @@ https://simpleisbetterthancomplex.com/tutorial/2016/08/01/how-to-upload-files-wi
 https://www.youtube.com/watch?v=MjwWzBiAMck
 https://www.youtube.com/watch?v=b43JIn-OGZU
 
-##Template
+<!-- ##Template
 ### Day 0: April 01, 2019
 
 **Plans for Today:**
@@ -156,4 +207,4 @@ https://www.youtube.com/watch?v=b43JIn-OGZU
 
 **Plans for tomorrow:**
 
-**Resources:**
+**Resources:** -->
