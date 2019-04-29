@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 6: April 29, 2019
+
+**Plans for Today:**
+1. Work on WhiteNoise configuration
+2. Deploy
+3. Write first blog post
+4. Move back to building downloader
+* writing path to files
+* writing view to download file
+
+**Today's Progress:**
+Tasks 1 and 2 completed!!!
+I need to learn testing my Django apps, it will save a lot of time during deployment.
+But without tests and with server error (500), change DEBUG to True for a while to check what causes the problem. My problem was missing static/favicon.png file. I had the info locally but didn't pay the attention to it as the app worked on local server. After fixing errors turn DEBUG to False again.
+
+**Thoughts:**
+I'm pretty excited I managed to deploy the app on Heroku.
+
+**Link to work:**
+https://makneta.herokuapp.com/post/1/
+
+**Plans for tomorrow:**
+1. Get through this tutorial: https://realpython.com/working-with-files-in-python/
+
+**Resources:**
+1. Found and stored for later use: https://composingprograms.com/
+2. Interesting but I don't know if helpful: https://medium.com/@flouss/streaming-a-file-through-django-a6dcff21e046
+3. Another course to try: https://codefellows.github.io/sea-python-401d4/index.html#course-objectives
+
+
 ### Day 5: April 28, 2019
 
 **Plans for Today:**
