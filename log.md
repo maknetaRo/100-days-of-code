@@ -1,5 +1,49 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 7bis: May 01, 2019
+
+**Plans for Today:**
+1. Work on file downloader
+2. Project Euler problem 6
+
+**Today's Progress:**
+1. Managed to display active links, but only if they don't have polish letters in the description.
+2. 6th problem of PE was very easy.
+3. Started solving Python tasks from Mega Project List. Did one (printing pi to nth digit) and started another - change return program where I have to figure out the change (done) and the number of quarters, dimes and so.  I'm going to use Polish currency.
+
+**Thoughts:**
+I spent so many hours and it occurred that I needed only small amount of code and I was overcomplicating everything as usually.
+
+**Link to work:**
+https://github.com/maknetaRo/mega_list
+
+**Plans for tomorrow:**
+1. Creating blog post about Django
+2. Project Euler problem 7
+3. Read about slug and publish_date in Django app and changing model in blog app.
+4. Finish Change Return Program
+
+**Resources:**
+https://github.com/maknetaRo/Projects
+
+### Day 7: April 30, 2019
+
+**Plans for Today:**
+Get through this tutorial: https://realpython.com/working-with-files-in-python/
+
+**Today's Progress:**
+Read the tutorial.
+
+**Thoughts:**
+Too tired to do anything more than reading.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+
 ### Day 6: April 29, 2019
 
 **Plans for Today:**
