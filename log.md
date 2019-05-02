@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 8: May 02, 2019
+
+**Plans for Today:**
+1. Resolve problem with using polish letters in a description and in document title.
+2. Finish Change Return Program
+3. Read about slug and publish_date in Django app and changing model in blog app.
+4. Project Euler problem 7
+5. Creating blog post about Django
+
+**Today's Progress:**
+1. So resolving the problem with polish letters was pretty easy - I had to change from latin-swedish to utf8-polish-ci in database. I'm using phpmyadmin in this project so it was an easy task.
+2. I have had a few ideas how to solve this tasks. But my code is very long and I haven't finished it yet. I'm using only if statements. And they are a bit complicated.
+
+**Thoughts:**
+I have a feeling that there must be a better way to write this change return program. Perhaps I should have used classes or at least functions. 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Add categories and slugs to the list of files in Django.
+2. Link the download app to the main page.
+3. Finish Change Return Program
+
+**Resources:**
+
 ### Day 7bis: May 01, 2019
 
 **Plans for Today:**
