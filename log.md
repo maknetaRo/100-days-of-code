@@ -1,5 +1,61 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 9: May 04, 2019
+
+**Plans for Today:**
+1. Finish Change Return Program
+2. Start a new Python program.
+3. Link the download app to the main page.
+4. Read about slug and publish_date in Django app and change model in blog app.
+5. Add categories and slugs to the list of files in Django.
+
+
+**Today's Progress:**
+#### 1. Finished Change Return Program.
+I had to look a bit for a solution. Using if-clauses generated many lines of code and a lot of repetition. I didn't like that solution so I checked and found out a shorter and much better solution.
+In this solution the number is first divided by the biggest number -the biggest note value (or coin) and then the modulo is divided by the next number. And so on, until nothing is left.
+
+If the change (in my code it's called zlotych) equals 78
+`fifty_zloty = zlotych // 50`
+this division equal 1 - it means it is 1 50zl note.
+and now the modulo of 78 and 50
+`zlotych %= 50`
+equals 28
+Now 28 is divided by 20
+`twenty_zloty = zlotych // 20`
+and it equals 1 - it means it is 1 20zl note
+After the next operation
+`zlotych %= 20`
+we've got 8zl left
+8 zloty divided by 10 equals 0 - so there are 0 10zl notes.
+`ten_zloty = zlotych // 10`
+`zlotych %= 10`
+so we still have 8 zloty left and this 8 zloty is used in the next operation
+`five_zloty = zlotych // 5`
+`zlotych %= 5`
+it gives 1 5zl coin and there is still 3 zloty left
+In the next step we divide 3 by 2
+`two_zloty = zlotych // 2`
+and we have 1 2zl coin and 1 zloty left.
+`zlotych %= 2`
+And it means there is also 1 coin 1zl
+`one_zloty = zlotych // 1`
+2. I did the next coding task from mega_list, credit card validation, using Luhn algorithm.
+In this algorithm firstly, we have to drop the last digit and then reverse the number. The next step is to double every second digit and if the value of the multiplied digit is bigger than 9 we have to subtract nine from the number. Than we have to sum all the digits together and if the modulo 10 of this sum equals the value of the digit we dropped at the beginning, the credit card is valid. 
+
+
+
+**Thoughts:**
+Pretty like mathematical exercises.
+
+**Link to work:**
+1. https://github.com/maknetaRo/mega_list/blob/master/numbers2.py
+2.
+**Plans for tomorrow:**
+
+**Resources:** -->
+
+
 ### Day 8: May 02, 2019
 
 **Plans for Today:**
@@ -10,11 +66,11 @@
 5. Creating blog post about Django
 
 **Today's Progress:**
-1. So resolving the problem with polish letters was pretty easy - I had to change from latin-swedish to utf8-polish-ci in database. I'm using phpmyadmin in this project so it was an easy task.
+1. So resolving the problem with polish letters was pretty easy - I had to change encoding from latin-swedish to utf8-polish-ci in database. I'm using phpmyadmin in this project so it was an easy task.
 2. I have had a few ideas how to solve this tasks. But my code is very long and I haven't finished it yet. I'm using only if statements. And they are a bit complicated.
 
 **Thoughts:**
-I have a feeling that there must be a better way to write this change return program. Perhaps I should have used classes or at least functions. 
+I have a feeling that there must be a better way to write this change return program. Perhaps I should have used classes or at least functions.
 
 **Link to work:**
 
@@ -22,6 +78,8 @@ I have a feeling that there must be a better way to write this change return pro
 1. Add categories and slugs to the list of files in Django.
 2. Link the download app to the main page.
 3. Finish Change Return Program
+4. Read about slug and publish_date in Django app and changing model in blog app.
+5. Creating blog post about Django
 
 **Resources:**
 
