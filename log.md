@@ -15,33 +15,33 @@
 I had to look a bit for a solution. Using if-clauses generated many lines of code and a lot of repetition. I didn't like that solution so I checked and found out a shorter and much better solution.
 In this solution the number is first divided by the biggest number -the biggest note value (or coin) and then the modulo is divided by the next number. And so on, until nothing is left.
 
-If the change (in my code it's called zlotych) equals 78
-`fifty_zloty = zlotych // 50`
-this division equal 1 - it means it is 1 50zl note.
-and now the modulo of 78 and 50
-`zlotych %= 50`
-equals 28
-Now 28 is divided by 20
-`twenty_zloty = zlotych // 20`
-and it equals 1 - it means it is 1 20zl note
-After the next operation
-`zlotych %= 20`
-we've got 8zl left
-8 zloty divided by 10 equals 0 - so there are 0 10zl notes.
-`ten_zloty = zlotych // 10`
-`zlotych %= 10`
-so we still have 8 zloty left and this 8 zloty is used in the next operation
-`five_zloty = zlotych // 5`
-`zlotych %= 5`
-it gives 1 5zl coin and there is still 3 zloty left
-In the next step we divide 3 by 2
-`two_zloty = zlotych // 2`
-and we have 1 2zl coin and 1 zloty left.
-`zlotych %= 2`
-And it means there is also 1 coin 1zl
-`one_zloty = zlotych // 1`
+If the change (in my code it's called zlotych) equals 78\
+`fifty_zloty = zlotych // 50`\
+this division equal 1 - it means it is 1 50zl note.\
+and now the modulo of 78 and 50\
+`zlotych %= 50`\
+equals 28\
+Now 28 is divided by 20\
+`twenty_zloty = zlotych // 20`\
+and it equals 1 - it means it is 1 20zl note\
+After the next operation\
+`zlotych %= 20`\
+we've got 8zl left\
+8 zloty divided by 10 equals 0 - so there are 0 10zl notes.\
+`ten_zloty = zlotych // 10`\
+`zlotych %= 10`\
+so we still have 8 zloty left and this 8 zloty is used in the next operation\
+`five_zloty = zlotych // 5`\
+`zlotych %= 5`\
+it gives 1 5zl coin and there is still 3 zloty left\
+In the next step we divide 3 by 2\
+`two_zloty = zlotych // 2`\
+and we have 1 2zl coin and 1 zloty left.\
+`zlotych %= 2`\
+And it means there is also 1 coin 1zl\
+`one_zloty = zlotych // 1`\
 2. I did the next coding task from mega_list, credit card validation, using Luhn algorithm.
-In this algorithm firstly, we have to drop the last digit and then reverse the number. The next step is to double every second digit and if the value of the multiplied digit is bigger than 9 we have to subtract nine from the number. Than we have to sum all the digits together and if the modulo 10 of this sum equals the value of the digit we dropped at the beginning, the credit card is valid. 
+In this algorithm firstly, we have to drop the last digit and then reverse the number. The next step is to double every second digit and if the value of the multiplied digit is bigger than 9 we have to subtract nine from the number. Than we have to sum all the digits together and if the modulo 10 of this sum equals the value of the digit we dropped at the beginning, the credit card is valid.
 
 
 
