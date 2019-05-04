@@ -6,9 +6,8 @@
 1. Finish Change Return Program
 2. Start a new Python program.
 3. Link the download app to the main page.
-4. Read about slug and publish_date in Django app and change model in blog app.
-5. Add categories and slugs to the list of files in Django.
-
+4. Add categories and slugs to the list of files in Django.
+5. Read about slug and publish_date in Django app and change model in blog app.
 
 **Today's Progress:**
 #### 1. Finished Change Return Program.
@@ -40,20 +39,31 @@ and we have 1 2zl coin and 1 zloty left.\
 `zlotych %= 2`\
 And it means there is also 1 coin 1zl\
 `one_zloty = zlotych // 1`\
+
 2. I did the next coding task from mega_list, credit card validation, using Luhn algorithm.
 In this algorithm firstly, we have to drop the last digit and then reverse the number. The next step is to double every second digit and if the value of the multiplied digit is bigger than 9 we have to subtract nine from the number. Than we have to sum all the digits together and if the modulo 10 of this sum equals the value of the digit we dropped at the beginning, the credit card is valid.
 
+3. Module linked to the main page navigation 
 
+4. Added new model FileCategory with title and unique slug. Now need to work on displaying files by categories in the main document list view. I'd like to choose one default category but don't know it is possible.
 
 **Thoughts:**
-Pretty like mathematical exercises.
+Pretty like mathematical exercises. I was a bit avoiding working on Django.
+I've been planning to write at least one post on my blog a week but now I feel hesitant as I'm afraid I have nothing important to write and my Django knowledge is not enough to write about creating an app.
 
 **Link to work:**
 1. https://github.com/maknetaRo/mega_list/blob/master/numbers2.py
-2.
-**Plans for tomorrow:**
+2. https://github.com/maknetaRo/mega_list/blob/master/card_validation.py
 
-**Resources:** -->
+**Plans for tomorrow:**
+1. Working on categories in file downloader app
+2. Write a blog post
+3. Start a new Python task from Project Euler or Mega List.  
+
+**Resources:**
+Creating categories in Django
+1. https://www.google.com/search?client=ubuntu&channel=fs&q=categories+in+django&ie=utf-8&oe=utf-8
+2. https://stackoverflow.com/questions/38024594/how-to-add-categories-at-my-django-blog
 
 
 ### Day 8: May 02, 2019
