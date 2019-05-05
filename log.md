@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 10: May 05, 2019
+
+**Plans for Today:**
+1. Write a blog post
+2. Working on categories in file downloader app
+3. Start a new Python task from Project Euler or Mega List.
+
+**Today's Progress:**
+1. I managed to write a blog post about starting a Django project.
+2. Started a new Python project: binary to decimal. So far managed only to check if the user is giving no more than 8 digits and if all the digits are 0 or 1.
+
+**Thoughts:**
+I like writing about Django even though it's very tiring. And to write regularly I need to create these blog posts in chunks.
+I still can't remember how to convert binary numbers into decimal ones. Creating the converter needs a lot of reading.
+
+**Link to work:**
+1. Link to blog post: https://makneta.herokuapp.com/post/3/
+ * and to source code on Github: https://github.com/maknetaRo/website/tree/master
+
+**Plans for tomorrow:**
+1. Read about binary and decimal numbers.
+2. Write a binary to decimal converter.
+3. Work on displaying categories in Django file downloader. 
+
+**Resources:**
+1. This blog post and all the links that are at the end of it.
+ https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa
+
 ### Day 9: May 04, 2019
 
 **Plans for Today:**
@@ -43,7 +71,7 @@ And it means there is also 1 coin 1zl\
 2. I did the next coding task from mega_list, credit card validation, using Luhn algorithm.
 In this algorithm firstly, we have to drop the last digit and then reverse the number. The next step is to double every second digit and if the value of the multiplied digit is bigger than 9 we have to subtract nine from the number. Than we have to sum all the digits together and if the modulo 10 of this sum equals the value of the digit we dropped at the beginning, the credit card is valid.
 
-3. Module linked to the main page navigation 
+3. Module linked to the main page navigation
 
 4. Added new model FileCategory with title and unique slug. Now need to work on displaying files by categories in the main document list view. I'd like to choose one default category but don't know it is possible.
 
