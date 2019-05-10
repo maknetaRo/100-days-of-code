@@ -1,5 +1,56 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 12: May 10, 2019
+
+**Plans for Today:**
+1. 1 hour of C++
+2. Review functions in Python
+3. HTTP and Web Servers 1 hour
+
+**Today's Progress:**
+1. Managed to start C++ course on Udacity. I'm in the middle of the first lesson.
+2. Did two tasks from Rosetta Code website
+3. Started HTTP and Web Servers course
+
+**Thoughts:**
+Unfortunately my family problems have been a big issue for last days and I can't concentrate fully on learning. I feel tired and irritated almost all the time.
+I'm glad I managed to overcome my fear connected wit using Git and managed to merge a conflicting file and added a repository from my new computer to a Github repo created a few months ago.
+I really like doing Python exercises.
+
+**Link to work:**
+https://github.com/maknetaRo/learn_cplusplus
+
+**Plans for tomorrow:**
+1. Continue C++ course
+2. Work on downloader app - showing all categories with links in each
+3. Review functions in Python: esp. lambda and using  args and kwargs
+4. Continue HTTP & Web Servers Course
+
+**Resources:**
+* https://classroom.udacity.com/courses/ud210/lessons/1343a461-102f-41e1-b505-bf9ec62f427b/concepts/60086a00-e0b3-417f-8f73-77fd16314b9e
+* https://classroom.udacity.com/courses/ud303
+
+
+### Day 11: May 08, 2019
+
+**Plans for Today:**
+1. Python Official Tutorial (I need some Python revision)
+
+**Today's Progress:**
+1. Almost no progress, only I reminded myself a fibonacci algorithm
+
+**Thoughts:**
+Haven't been coding recently mostly because of my addiction to crime stories but today I couldn't been able to concentrate because of my son's meltdown.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+<!-- * https://stackabuse.com/introduction-to-pythons-collections-module/
+* https://www.youtube.com/watch?v=8DvywoWv6fI&t=80s -->
+* https://docs.python.org/3/tutorial/controlflow.html
+
 ### Day 10: May 05, 2019
 
 **Plans for Today:**
@@ -22,7 +73,7 @@ I still can't remember how to convert binary numbers into decimal ones. Creating
 **Plans for tomorrow:**
 1. Read about binary and decimal numbers.
 2. Write a binary to decimal converter.
-3. Work on displaying categories in Django file downloader. 
+3. Work on displaying categories in Django file downloader.
 
 **Resources:**
 1. This blog post and all the links that are at the end of it.
