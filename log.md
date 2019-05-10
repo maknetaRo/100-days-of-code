@@ -18,7 +18,9 @@ I'm glad I managed to overcome my fear connected wit using Git and managed to me
 I really like doing Python exercises.
 
 **Link to work:**
-https://github.com/maknetaRo/learn_cplusplus
+* https://github.com/maknetaRo/learn_cplusplus
+* https://github.com/maknetaRo/mega_list/blob/master/beer_song.py
+* https://github.com/maknetaRo/mega_list/blob/master/christmas_song.py
 
 **Plans for tomorrow:**
 1. Continue C++ course
