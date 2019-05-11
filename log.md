@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 13: May 11, 2019
+
+**Plans for Today:**
+1. Continue C++ course
+2. Work on downloader app - showing all categories with links in each
+3. Review functions in Python: esp. lambda and using  args and kwargs
+4. Continue HTTP & Web Servers Course
+
+**Today's Progress:**
+1. Finished first lesson of C++ course - 14 to go.
+2. Spent sometime taking notes while reading Lesson 1 of HTTP & Web Servers Udacity course. Learnt about URIs, hostnames and ports.
+
+**Thoughts:**
+* I'm a bit surprised that I really like both Udacity courses. They are interesting, the videos are rather short and the texts and exercises are easy to understand.
+
+* The HTTP & Web Servers Course helps me to neaten my knowledge.
+
+**Link to work:**
+1. C++ exercises:
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/yardage.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/workCin.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/withMain.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/roomArea.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/name.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/factfile.cpp
+
+**Plans for tomorrow:**
+1. Work on downloader app - showing all categories with links in each
+2. Review functions in Python: esp. lambda and using  args and kwargs
+
+**Resources:**
+* https://classroom.udacity.com/courses/ud210
+* https://classroom.udacity.com/courses/ud303
+
 ### Day 12: May 10, 2019
 
 **Plans for Today:**
@@ -39,7 +73,7 @@ I really like doing Python exercises.
 1. Python Official Tutorial (I need some Python revision)
 
 **Today's Progress:**
-1. Almost no progress, only I reminded myself a fibonacci algorithm
+1. Almost no progress, only I reminded myself a Fibonacci algorithm
 
 **Thoughts:**
 Haven't been coding recently mostly because of my addiction to crime stories but today I couldn't been able to concentrate because of my son's meltdown.
