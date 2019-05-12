@@ -1,5 +1,88 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 14: May 12, 2019
+
+**Plans for Today:**
+1. Work on downloader app - showing all categories with links in each
+2. Review functions in Python: esp. lambda and using  args and kwargs
+
+**Today's Progress:**
+1. Learnt to remove a git commit if it hasn't been pushed to remote:
+`git reset HEAD~1`
+than check if working copy is clean by `git status``
+* If the changes have been pushed to remote, the `git revert HEAD` should work.
+1. All categories with links in one template - DONE
+* In filecategory_list.html I used category.document_set.all to do it.
+My code in filecategory_list.html
+```
+{% extends "two_column.html" %}
+{% load staticfiles %}
+
+{% block main %}
+
+<h2 id="title">Lista dokumentów do pobrania</h1>
+  {% for category in object_list %}
+<h3> {{ category }}</h3>  
+
+  <ul>
+    {% for document in category.document_set.all %}
+
+  <h3><a href="{{ document.document_url }}">
+    {{ document.description }}</a></h3>
+
+    {% empty %}
+      None
+    {% endfor %}
+  </ul>
+
+  {% endfor %}
+{% endblock %}
+```
+
+* Worked also on auto generating slug. I've got two models in this app - Document and FileCategory and I added slug to FileCategory model. I needed to import slugify from django.utils.text and then create a get_unique_slug function and a save function.
+
+* I wanted also to have a default category called 'INNE' (others) so I added this feature in title
+Part of my models.py code:
+```
+from django.db import models
+from django.utils.text import slugify
+
+class FileCategory(models.Model):
+    title = models.CharField(max_length=250, default='INNE')
+    slug = models.SlugField(max_length=250, unique=True, blank=True)
+
+    class Meta:
+        verbose_name = 'Kategoria Plików'
+        verbose_name_plural = 'Kategorie Plików'
+        ordering = ('title',)
+
+    def __str__(self):
+        return self.title
+
+    def _get_unique_slug(self):
+        slug = slugify(self.title)
+        unique_slug = slug
+        num = 1
+        while FileCategory.objects.filter(slug=unique_slug).exists():
+            unique_slug = '{}-{}'.format(slug, num)
+            num += 1
+        return unique_slug
+
+    def save(self, *args, **kwargs):
+        if not self.slug:
+            self.slug = self._get_unique_slug()
+        super(FileCategory, self).save(*args, **kwargs)
+```
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+* https://fazle.me/auto-generating-unique-slug-in-django/
+
 ### Day 13: May 11, 2019
 
 **Plans for Today:**
