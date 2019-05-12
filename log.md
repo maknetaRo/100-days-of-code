@@ -12,7 +12,9 @@
 than check if working copy is clean by `git status``
 * If the changes have been pushed to remote, the `git revert HEAD` should work.
 2. Learnt also how to remove file from repository
-~git rm --cached `git ls-files -i -X .gitignore`~
+```
+git rm --cached `git ls-files -i -X .gitignore`
+```
 3. All categories with links in one template - DONE
 * In filecategory_list.html I used category.document_set.all to do it.
 My code in filecategory_list.html
@@ -87,7 +89,7 @@ It was such a long day.
 **Plans for tomorrow:**
 1. Read about lambda functions on Python Official Tutorial
 2. Read about reusable apps in Django
-3. I almost forget that tomorrow starts the 3rd part of Machine Learning Challenge, so make the first day tasks. 
+3. I almost forget that tomorrow starts the 3rd part of Machine Learning Challenge, so make the first day tasks.
 
 **Resources:**
 * https://fazle.me/auto-generating-unique-slug-in-django/
