@@ -81,7 +81,7 @@ class FileCategory(models.Model):
 
 **Thoughts:**
 It was such a long day.
-* I finished one Django module, manage to push it on bitbucket and then make a pull requests.
+* I finished one Django module, manage to push it on bitbucket and then made a pull requests.
 * Talked to my colleague about the next module in our Django app - events with location and the other one Categories which should be a reusable app (at least I think so)
 * I really wish I had more time to do everything that seems interesting.  
 **Link to work:**
