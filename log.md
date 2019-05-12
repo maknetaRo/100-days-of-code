@@ -11,7 +11,9 @@
 `git reset HEAD~1`
 than check if working copy is clean by `git status``
 * If the changes have been pushed to remote, the `git revert HEAD` should work.
-1. All categories with links in one template - DONE
+2. Learnt also how to remove file from repository
+~git rm --cached `git ls-files -i -X .gitignore`~
+3. All categories with links in one template - DONE
 * In filecategory_list.html I used category.document_set.all to do it.
 My code in filecategory_list.html
 ```
@@ -73,15 +75,27 @@ class FileCategory(models.Model):
             self.slug = self._get_unique_slug()
         super(FileCategory, self).save(*args, **kwargs)
 ```
+4. I'm going through Python Official tutorial because I can see I forget a lot of Python. Today was reading about defining functions and using default, keyword arguments as well as args and kwargs
 
 **Thoughts:**
-
+It was such a long day.
+* I finished one Django module, manage to push it on bitbucket and then make a pull requests.
+* Talked to my colleague about the next module in our Django app - events with location and the other one Categories which should be a reusable app (at least I think so)
+* I really wish I had more time to do everything that seems interesting.  
 **Link to work:**
 
 **Plans for tomorrow:**
+1. Read about lambda functions on Python Official Tutorial
+2. Read about reusable apps in Django
+3. I almost forget that tomorrow starts the 3rd part of Machine Learning Challenge, so make the first day tasks. 
 
 **Resources:**
 * https://fazle.me/auto-generating-unique-slug-in-django/
+* For tomorrow:
+* https://www.afternerd.com/blog/python-lambdas/
+* https://django-reusable-app-docs.readthedocs.io/en/latest/
+* https://anthony-monthe.me/weblog/2018/01/02/50-tips-maintain-django-reusable-app/
+* https://stackoverflow.com/questions/21811851/how-do-you-actually-use-a-reusable-django-app-in-a-project
 
 ### Day 13: May 11, 2019
 
