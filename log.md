@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 15: May 13, 2019
+
+**Plans for Today:**
+1. DataWorkShop challenge day 1
+2. Read about lambda functions on Python Official Tutorial
+2. Read about reusable apps in Django
+
+**Today's Progress:**
+1. DataWorkshop challenge Day1
+* Installed pyenv to be able to use anaconda, although I'm not sure if it wouldn't be enough only uncomment some code in ./bashrc
+
+* installed new libraries socketio, flask and evenlet and then package udacity/self-driving-car-sim https://github.com/udacity/self-driving-car-sim and played for a while.
+
+![](images/Screenshot_from_2019-05-13.png)
+
+**Thoughts:**
+* I'm curious what we will be doing through the next days of the challenge. I'm not particularly interested in ML but it's good to broaden horizons and I have an ability to learn at least a bit about different Python libraries. 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:** -->
+
+
 ### Day 14: May 12, 2019
 
 **Plans for Today:**
@@ -84,6 +109,7 @@ It was such a long day.
 * I finished one Django module, manage to push it on bitbucket and then made a pull requests.
 * Talked to my colleague about the next module in our Django app - events with location and the other one Categories which should be a reusable app (at least I think so)
 * I really wish I had more time to do everything that seems interesting.  
+
 **Link to work:**
 
 **Plans for tomorrow:**
