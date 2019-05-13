@@ -5,7 +5,7 @@
 **Plans for Today:**
 1. DataWorkShop challenge day 1
 2. Read about lambda functions on Python Official Tutorial
-2. Read about reusable apps in Django
+3. Read about reusable apps in Django
 
 **Today's Progress:**
 1. DataWorkshop challenge Day1
@@ -15,15 +15,25 @@
 
 ![](images/Screenshot_from_2019-05-13.png)
 
+2. Finished chapter 4 of The Python Tutorial and additional article about lambda.
+Not much code written, only a few examples.
+
+3. Decided not to do reusable app in Django (at least for now)
+
 **Thoughts:**
-* I'm curious what we will be doing through the next days of the challenge. I'm not particularly interested in ML but it's good to broaden horizons and I have an ability to learn at least a bit about different Python libraries. 
+* I'm curious what we will be doing through the next days of the challenge. I'm not particularly interested in ML but it's good to broaden horizons and I have an ability to learn at least a bit about different Python libraries.
+* I've known about lambda but haven't used it on my own. Really don't know where to use except coding exercises.
 
 **Link to work:**
 
 **Plans for tomorrow:**
+1. Start creating a new app Django app with events and location. Need to create a table in a template to add there town, voivodeship, postal zip and geographic coordinates. Should I use GeoDjango?  
+2. Python Tutorial chapter 5 Data Structures
 
-**Resources:** -->
-
+**Resources:**
+1. https://books.agiliq.com/projects/django-orm-cookbook/en/latest/table_name.html?fbclid=IwAR2ZbHX70u6zk1A-oeys1ljQoHVgvrFoxTxmas0m9zIpYTwnLeCyklRA9wI
+2. https://realpython.com/courses/make-location-based-web-app-django-and-geodjango/
+3. https://realpython.com/location-based-app-with-geodjango-tutorial/
 
 ### Day 14: May 12, 2019
 
