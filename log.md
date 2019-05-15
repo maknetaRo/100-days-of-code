@@ -5,18 +5,31 @@
 **Plans for Today:**
 1. Start creating Event module in Django edu_app - first plan and write a bit of pseudo-code on paper.
 2. Python Tutorial chapter 5 Data Structures
-3. C++ course
+3. C++ Course
 4. DataWorkshop day 2 and 3
 
 **Today's Progress:**
+1. Did dataworkshop challenge day 2
+![](images/Screenshot_from_2019-05-15.png)
+2. And workshop challenge day 3: first drive one lap in simulator while recording and then using data from csv file to create graph and a new image
+![](images/Screenshot_from_2019-05-15_18-06-55.png)
+3. Finished lesson 1 of HTTP & Web Server
+4. Finished reading Data Structures chapter of the Official Python Tutorial
+
 
 **Thoughts:**
+* I was wrong, I like self driving cars. The model is a better driver than I am (at least in this simulator)
+* I wasn't planning to do HTTP & Web Servers today, but eventually why not. I understand the lesson, but can I tell somebody about it. I doubt. The next lesson is about creating the web from Python.
+* I feel a bit lost. Doing Django projects takes quite a lot of time. I like it, but I can see that my level of Python is not enough. But I don't know how to practice Python. Should I do rather short exercises on Edabit, Codewars or w3resources or should I do more complex tasks? I have a book called Impractical Python with such bigger projects. Or A Practical Introduction to Python Programming with easier and more advanced exercises. But the problem with this book is that there are some mathematical problems I have never learnt.
 
 **Link to work:**
 
 **Plans for tomorrow:**
+1. DataWorkshop day 4
+2. Start creating Event module in Django edu_app - first plan and write a bit of pseudo-code on paper.
 
 **Resources:**
+* https://www.brianheinold.net/python/python_book.html
 
 ### Day 16: May 14, 2019
 
