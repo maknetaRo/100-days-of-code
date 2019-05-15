@@ -1,5 +1,51 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 17: May 15, 2019
+
+**Plans for Today:**
+1. Start creating Event module in Django edu_app - first plan and write a bit of pseudo-code on paper.
+2. Python Tutorial chapter 5 Data Structures
+3. C++ course
+4. DataWorkshop day 2 and 3
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+### Day 16: May 14, 2019
+
+**Plans for Today:**
+1. Start creating Event module in Django edu_app
+2. Python Tutorial chapter 5 Data Structures
+3. C++ course
+4. DataWorkshop day 2
+
+**Today's Progress:**
+1. Started only watching DataWorkshop video and doing the task when my computer froze for several minutes and then shut down all the programs I was using.
+2. Did lesson 2 of C++ course  
+
+**Thoughts:**
+* Unfortunately I'm not interested in self driving cars.
+* Didn't have much time for coding as I wrongly planned my free time. I simply forgot that I promised my daughter to watch Eurovision with her.
+
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Start creating Event module in Django edu_app
+2. Python Tutorial chapter 5 Data Structures
+3. C++ course
+4. DataWorkshop day 2 and 3
+
+**Resources:**
+* https://dev.to/aspittel/moving-past-tutorials-8-tips-for-problem-solving-3e0p
+
 ### Day 15: May 13, 2019
 
 **Plans for Today:**
