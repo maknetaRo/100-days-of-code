@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 18: May 16, 2019
+
+**Plans for Today:**
+1. DataWorkshop day 4
+2. Start creating Event module in Django edu_app - first plan and write a bit of pseudo-code on paper.
+3. HTTP & Web Servers course
+
+**Today's Progress:**
+1. DataWorkshop done - today we were using google colab account and models trained yesterday. We were changing a bit pictures using imgaug library https://github.com/aleju/imgaug
+- Image augmentation for machine learning experiments.
+![](images/Screenshot_from_2019-05-16.png)
+2. HTTP & Web servers:
+I'm in lesson 2. Started using Python's libraries: http.server and urllib.parse to create webserver
+
+**Thoughts:**
+* I'm pretty happy because of the DataWorkshop challenge. I might start doing more ML on my own.
+* I haven't started the Django app because I am still not sure what exactly should I do and how.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. DataWorkshop challenge day 5 (the last one)
+2. HTTP & Web Servers
+
+**Resources:**
+* https://imgaug.readthedocs.io/en/latest/
+
 ### Day 17: May 15, 2019
 
 **Plans for Today:**
