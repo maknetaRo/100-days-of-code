@@ -1,5 +1,42 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 19: May 17, 2019
+
+**Plans for Today:**
+1. DataWorkshop challenge day 5 (the last one)
+2. HTTP & Web Servers
+
+**Today's Progress:**
+1. Finished the challenge. My car doesn't drive very well but it's been a great fun.
+![](images/Screenshot_00.png)
+![](images/Screenshot_30.png)
+![](images/Screenshot_35.png)
+
+2. HTTP & Web Servers lesson 2 part 5 and 6
+'URL quoting' means translating a string into a form that doesn't have any special characters in it, but in a way that can be reversed (unquoted) later.
+We can use urrlib.parse.quote to do it.
+`quote(string, safe='/', encoding=None, errors=None)`
+Letters, digits and characters `_.-~` are never quoted.
+If there are spaces or other special characters they will be replaced using %xx escape.
+`quote('/Los Angeles/')` yields '/Los%20Angeles/'
+
+**Thoughts:**
+* I might start learning Machine Learning for real not only during 5 days of challenge. But I don't know how I fit it into my schedule because I should concentrate more on building portfolio and looking for a junior dev job.
+
+**Link to work:**
+1. https://github.com/maknetaRo/ml_beginnings/blob/master/Untitled0.ipynb
+
+**Plans for tomorrow:**
+1. Django Event app - start working on it!!!
+2. ML project
+3. Finish lesson 2 of HTTP & Web Servers course
+
+**Resources:**
+For tomorrow:
+* https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+* https://dev.to/liveedutv/a-simple-machine-learning-project-in-python-5d11
+* https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/3ce8f45c-39a3-46ac-80bf-6dc318218b71
+
 ### Day 18: May 16, 2019
 
 **Plans for Today:**
