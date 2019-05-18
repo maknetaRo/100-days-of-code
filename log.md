@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 20: May18, 2019
+
+**Plans for Today:**
+1. Django Event app - start working on it!!!
+2. ML project
+3. Finish lesson 2 of HTTP & Web Servers course
+
+**Today's Progress:**
+1. Watched a "Machine Learning - what to begin with?"" video in Polish - full of resources.
+2. I wrote a plan of action about Django Event Module
+3. Started doing new machine learning project from Python Data Science Essentials using Iris Dataset
+
+**Thoughts:**
+Because of the headache during the day and watching Eurovision with my daughter in the evening I haven't done much. 
+
+**Link to work:**
+https://github.com/maknetaRo/ml_beginnings/blob/master/learn_iris.ipynb
+
+**Plans for tomorrow:**
+1. Django blog
+2. Iris project continue
+3. Finish lesson 2 of HTTP & Web Servers course
+
+**Resources:**
+1. Machine Learning - what to begin with? video in Polish https://www.youtube.com/watch?v=Zn5aMfbn_Kk
+blog: http://dataworkshop.eu/howtostartml
+
 ### Day 19: May 17, 2019
 
 **Plans for Today:**
