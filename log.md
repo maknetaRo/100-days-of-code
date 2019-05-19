@@ -1,5 +1,46 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 21: May 19, 2019
+
+**Plans for Today:**
+1. Iris project continue
+2. Finish lesson 2 of HTTP & Web Servers course
+3. Django blog
+
+**Today's Progress:**
+1. Spent sometime reading about Iris project and adding some line of code.
+2. Did a bit of lesson 2 - learnt about POST request
+3. Tried to fix adding images to my app on heroku but only managed to get to know that it is not possible to upload media files to Heroku server and that I have to use AWS or any other sever for it. I gathered some links to read in near future.
+4. And for the end of a day I did one exercise in C++
+
+
+**Link to work:**
+1. https://github.com/maknetaRo/ml_beginnings/blob/master/learn_iris.ipynb
+2. https://github.com/maknetaRo/learn_cplusplus/blob/master/volumes.cpp
+
+**Thoughts:**
+1. I don't understand much about this Iris model. But at the beginning I couldn't understand what I'm doing with Django and now I'm a bit more aware so this time I'm not going to quit machine learning only because it's difficult.
+
+2. I'm thinking about changing a bit my process of learning. Currently I'm doing 4 different things: developing Django apps, building web server in Python(learning Python itself), starting with machine learning and learning C++. So I want to divide my coding time into chunks - 45 minutes (or 30) each and spend one chunk on one of my topics. It seems I will have to assign at least 3 hours for coding everyday. So I'm going to see how it will work this week.
+
+**Plans for tomorrow:**
+1. Find a server for my media files in Django app and make it works
+2. Follow the HTTP & Web Server course
+3. Follow the C++ course
+4. More on Iris dataset
+
+**Resources:**
+1.
+* https://dev.to/perborgen/machine-learning-in-a-week-3jh9
+* https://dev.to/apoorvadave/beginning-with-machine-learning---part-1-pbl - first article out of a series
+2.
+* http://www.gettingstartedwithdjango.com/introduction-and-launch.html#what-heroku-does-every-time-you-push-to-them-is
+* https://stackoverflow.com/questions/13104771/images-disappear-in-django-app-when-deployed-to-heroku
+* https://djangobook.com/serving-files-production/
+* https://devcenter.heroku.com/articles/slug-compiler
+* https://devcenter.heroku.com/articles/s3-upload-python
+* https://django-storages.readthedocs.io/en/latest/backends/dropbox.html
+
 ### Day 20: May18, 2019
 
 **Plans for Today:**
@@ -13,7 +54,7 @@
 3. Started doing new machine learning project from Python Data Science Essentials using Iris Dataset
 
 **Thoughts:**
-Because of the headache during the day and watching Eurovision with my daughter in the evening I haven't done much. 
+Because of the headache during the day and watching Eurovision with my daughter in the evening I haven't done much.
 
 **Link to work:**
 https://github.com/maknetaRo/ml_beginnings/blob/master/learn_iris.ipynb
