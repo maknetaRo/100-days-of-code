@@ -1,5 +1,43 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 22: May 20, 2019
+
+**Plans for Today:**
+1. Find a server for my media files in Django app and make it works
+2. Follow the HTTP & Web Server course
+3. Follow the C++ course
+4. More on Iris dataset
+
+**Today's Progress:**
+1. Finished lesson 3 - Arithmetic Operations in C++ Udacity Course - spent almost an hour and 20 minutes instead of 45 minutes.
+2. Created AWS account to have a bucket for my media files for Django blog application and made some changes in my code but the app doesn't work on heroku. I'll think about it tomorrow.
+
+**Thoughts:**
+* It's pretty strange that only yesterday I got to know that to have images displayed on heroku I need a storage somewhere else.
+* My chunking is not working. I really cannot stop working on any problem in a middle at least as long as I don't feel very tired.
+
+
+**Link to work:**
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/area.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/coeff.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/division.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/implicitAssignments.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/operators.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/preAndPosFix.cpp
+* https://github.com/maknetaRo/learn_cplusplus/blob/master/sum.cpp
+
+**Plans for tomorrow:**
+1. Watch another Corey Schafer's video to solve my problems with heroku:
+https://www.youtube.com/watch?v=6DI_7Zja8Zc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=17
+2. Solve the problem with adding images to my Django app
+3. Work on HTTP & Web Servers course
+4. Iris dataset - read what else can I do with it.
+
+
+**Resources:**
+1. This video helped me a lot with AWS storage and adding it to Django: https://www.youtube.com/watch?v=kt3ZtW9MXhw
+
+
 ### Day 21: May 19, 2019
 
 **Plans for Today:**
