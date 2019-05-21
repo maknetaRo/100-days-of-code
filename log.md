@@ -1,5 +1,38 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 23: May 21, 2019
+
+**Plans for Today:**
+1. Watch another Corey Schafer's video to solve my problems with heroku:
+https://www.youtube.com/watch?v=6DI_7Zja8Zc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=17
+2. Solve the problem with adding images to my Django app
+3. Work on HTTP & Web Servers course
+4. Iris dataset - read what else can I do with it.
+5. C++ course
+
+
+**Today's Progress:**
+1. Changed a bit model adding status of my posts. Need to resolve migrations problem. Small changes in model are not detected at once and I need to do it manually. Eventually I managed to do these migrations locally but not on Heroku and now my blog doesn't work - Server Error (500).
+2. Haven't done much of C++ course. I was trying to rewrite code from the course but couldn't execute it due to errors:  * Segmentation fault (core dumped)
+* ERROR: Syscall param write(buf) points to unaddressable byte(s), which I don't understand.
+
+
+**Thoughts:**
+1. Now I have problem with adding images even while working on my local server :-(
+  I will work on it in the afternoon as I want to have it done today!!!
+  The more I try to fix the problem with migrations on heroku the more lost I feel.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Work on HTTP & Web Servers course
+2. Iris dataset - read what else can I do with it.
+3. C++ course
+
+
+**Resources:**
+
+
 ### Day 22: May 20, 2019
 
 **Plans for Today:**
