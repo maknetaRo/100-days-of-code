@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 24: May 22, 2019
+
+**Plans for Today:**
+1. Work on HTTP & Web Servers course
+2. Iris dataset - read what else can I do with it.
+3. C++ course
+4. Fix Django blog problems
+
+**Today's Progress:**
+1. I changed permissions on AWS and thanks to this now I can upload photos locally.
+I was using a step by step tutorial from caktusgroup.com (link in resources)
+The images are visible!
+
+**Thoughts:**
+* I don't know how to work with migrations on heroku. I tried to remove every migration once today. But I wish I could avoid it. Or I will have to rest with adding new post until my all blog will be finished.
+* My aim to chunk my work is not possible to acquire when I'm working on Django. No time for anything else. 
+
+**Link to work:**
+* https://makneta.herokuapp.com/post/2/
+
+**Plans for tomorrow:**
+1. Work on HTTP & Web Servers course
+2. Iris dataset - read what else can I do with it.
+3. C++ course
+4. Django Events app
+
+**Resources:**
+ * https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/
+
 ### Day 23: May 21, 2019
 
 **Plans for Today:**
