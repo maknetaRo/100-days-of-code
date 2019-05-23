@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 25: May 23, 2019
+
+**Plans for Today:**
+1. Work on HTTP & Web Servers course
+2. Iris dataset - read what else can I do with it.
+3. C++ course
+4. Django Events app
+5. Python exercises
+
+**Today's Progress:**
+1. Did a bit of HTTP & Web Servers tutorial: learnt about Post-Redirect-Get and about using requests library.
+2. Followed the tutorial on Kaggle called ML From Scratch with IRIS. Managed to do half of it.
+3. No time for C++
+4. Created new module in Django app and two models: Event and Subject.
+5. Solved one python exercise from Daily Coding Problems. My solution is long and I can't do it in one pass but it's better  than nothing.
+
+**Thoughts:**
+1. I'm still not sure what is more important: building projects or learning to solve interview tasks. It's difficult to have time for everything.
+2. I think it's high time to start learning as I was at school. As I'm taking notes during the course I need to read them and learn by heart or at least repeat them out loud, because I don't remember much from the beginning of the course.  
+3. Remember when you are starting to lose focus, put on your headphones and play alpha brain waves music for study, meditation from Youtube. 
+
+**Link to work:**
+* https://github.com/maknetaRo/ml_beginnings/blob/master/learn_iris2.ipynb
+
+**Plans for tomorrow:**
+1. Add templates event_detail and event_by_subject to Django app. And views and urls. Add the app to the main app in settings and in urls. And create admin, of course.
+
+**Resources:**
+* https://www.kaggle.com/maknetaro/ml-from-scratch-with-iris/edit (kaggle)
+* https://www.kaggle.com/ash316/ml-from-scratch-part-2/notebook (kaggle)
+
+ * https://gist.github.com/renyi/3385043 - geodjango
+ * https://realpython.com/location-based-app-with-geodjango-tutorial/ -
+
 ### Day 24: May 22, 2019
 
 **Plans for Today:**
