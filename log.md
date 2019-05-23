@@ -19,13 +19,15 @@
 **Thoughts:**
 1. I'm still not sure what is more important: building projects or learning to solve interview tasks. It's difficult to have time for everything.
 2. I think it's high time to start learning as I was at school. As I'm taking notes during the course I need to read them and learn by heart or at least repeat them out loud, because I don't remember much from the beginning of the course.  
-3. Remember when you are starting to lose focus, put on your headphones and play alpha brain waves music for study, meditation from Youtube. 
+3. Remember when you are starting to lose focus, put on your headphones and play alpha brain waves music for study, meditation from Youtube.
 
 **Link to work:**
 * https://github.com/maknetaRo/ml_beginnings/blob/master/learn_iris2.ipynb
 
 **Plans for tomorrow:**
 1. Add templates event_detail and event_by_subject to Django app. And views and urls. Add the app to the main app in settings and in urls. And create admin, of course.
+2. Python exercises
+3. Iris dataset
 
 **Resources:**
 * https://www.kaggle.com/maknetaro/ml-from-scratch-with-iris/edit (kaggle)
