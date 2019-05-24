@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 26: May 24, 2019
+
+**Plans for Today:**
+1. Add templates event_detail and event_by_subject to Django app. And views and urls. Add the app to the main app in settings and in urls. And create admin, of course.
+2. Python exercises
+3. Iris dataset
+4. Start watching Python Algorithms for Interviews
+
+**Today's Progress:**
+1. Created templates and added views and urls but have problem with database. I don't think it's a big problem but I'm simply to tired today to think about it.
+2. Followed IRIS model tutorial, but faced ValueError which I'm not able to fix.
+
+**Thoughts:**
+Too tired today for looking for errors.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Fix errors with Django app and continue working on it.
+2. Read about fixing Value Error in train_test_split
+3. Python exercises and algorthms (at least one chunk (45minutes))
+4. C++ course (one chunk 45minutes)
+
+**Resources:**
+* https://www.youtube.com/watch?v=p65AHm9MX80 or from this playlist: https://www.youtube.com/watch?v=iK97XmalhRQ&list=PLQh6rb1mrE_YhTROnFct4EZMDzbJ_vkby
+
 ### Day 25: May 23, 2019
 
 **Plans for Today:**
