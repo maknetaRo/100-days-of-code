@@ -1,5 +1,49 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 27: May 25, 2019
+
+**Plans for Today:**
+
+1. Fix errors with Django app and continue working on it.
+2. Start Intro to Machine Learning with Scikit Learn and Python (45 minutes)
+3. Python exercises and algorithms (at least one chunk (45minutes))
+4. C++ course (one chunk 45minutes)
+
+
+**Today's Progress:**
+1.Worked for a few hours rebuilding Django module. Created app called Happenings instead of Events as Events are already in database. Created two models - Happening and Subject. Styled happenings_list.
+2. Created short ml model using digits dataset according to Sendex tutorial
+3. Got through half of Lesson 4 of C++ course: if-else and switch statements
+4. Managed only to watch several minutes of a video about Big O Notation
+5. Made a few of very easy Python tasks on edabit
+
+**Thoughts:**
+* Unfortunately Sendex tutorial is too wordy for me and I can't concentrate on it.
+* I still don't know why I should learn switch statements. They are not shorter than if else statements.
+* Algorithms are too difficult to do them at the end of the day. I need to start my coding session from them.
+
+**Link to work:**
+* https://github.com/maknetaRo/ml_beginnings/blob/master/digits_dataset1.ipynb
+
+**Plans for tomorrow:**
+1. Algorithm: Big 0 Notation
+2. Work on styling happening_detail page in #Django
+3. Work on url with title of event
+4. How to sing up for an event/happening?
+
+
+**Resources:**
+1. https://www.youtube.com/watch?v=p65AHm9MX80
+2. https://pythonprogramming.net/machine-learning-python-sklearn-intro/
+* For tomorrow: https://www.youtube.com/watch?v=07YSCsscYhc
+or
+Python for Data Science on udemy https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
+or this one
+https://www.coursera.org/learn/machine-learning
+or this one (it is only reading)
+https://www.kaggle.com/learn/intro-to-machine-learning
+
+
 ### Day 26: May 24, 2019
 
 **Plans for Today:**
