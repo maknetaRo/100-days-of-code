@@ -1,8 +1,5 @@
 # 100 Days Of Code - Log Round 4
-1. Algorithm: Big 0 Notation
-2. Work on styling happening_detail page in #Django
-3. Work on url with title of event
-4. How to sing up for an event/happening?
+
 
 ### Day 28: May 26, 2019
 
