@@ -1,4 +1,41 @@
 # 100 Days Of Code - Log Round 4
+1. Algorithm: Big 0 Notation
+2. Work on styling happening_detail page in #Django
+3. Work on url with title of event
+4. How to sing up for an event/happening?
+
+### Day 28: May 26, 2019
+
+**Plans for Today:**
+1. Algorithm: Big 0 Notation
+2. Work on styling happening_detail page in Django
+3. Work on url with title of event
+4. How to sing up for an event/happening?
+5. https://pyvideo.org/pycon-us-2019/ace-your-technical-interview-using-python.html
+6. Some Python exercises
+
+**Today's Progress:**
+1. Worked only on Django event module - recreated one more time the whole module, styled detail page, added new fields to model (to table in a database)
+2. Watched video from PyCon about preparing for technical interviews using python.
+
+**Thoughts:**
+I've been mostly thinking how to make a sign for an event form. Should Attendee be a new model? How should I style sign up form. What tables should it have?
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Create sign for an event form.
+2. Find out how to make it possible for a user to see only one part of the admin section.
+3. Choose one book about Python and algorithms and stick to it!!!!!!!!!!
+
+**Resources:**
+1. https://stackoverflow.com/questions/9606781/most-effective-way-to-create-attending-event-option-button-django-python ?
+2. https://stackoverflow.com/questions/45702548/django-button-for-attending-events
+3. https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
+4. https://django-book.readthedocs.io/en/latest/chapter14.html
+5. https://medium.com/@alfarhanzahedi/customizing-modelmultiplechoicefield-in-a-django-form-96e3ae7e1a07
+6. https://rk.edu.pl/en/django-class-based-views-action-forms-handling/
+
 
 ### Day 27: May 25, 2019
 
@@ -27,7 +64,7 @@
 
 **Plans for tomorrow:**
 1. Algorithm: Big 0 Notation
-2. Work on styling happening_detail page in #Django
+2. Work on styling happening_detail page in Django
 3. Work on url with title of event
 4. How to sing up for an event/happening?
 
