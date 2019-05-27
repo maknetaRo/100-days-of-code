@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 29: May 27, 2019
+
+**Plans for Today:**
+1. Create sign for an event form.
+2. Find out how to make it possible for a user to see only one part of the admin section.
+3. Choose one book about Python and algorithms and stick to it!!!!!!!!!!
+4. Kaggle intro to ml
+5. REST tut 1
+
+**Today's Progress:**
+1. Started following official Django REST framework tutorial. Managed to do part 1
+2. Started once again TDD approach towards writing Django code -  "Obey the testing goat" book https://www.obeythetestinggoat.com/
+**Thoughts:**
+1. Following tutorials is more boring that solving my own problems.
+2. It's my second or third time with this book. I haven't gone more than a few pages so far. I hope this time I'll manage to do the whole tutorial because I really want to learn writing tests for my Django apps.
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Create sign for an event form.
+2. Find out how to make it possible for a user to see only one part of the admin section.
+3. TDD Django
+4. Kaggle intro to ml
+
+**Resources:**
+https://www.kaggle.com/learn/intro-to-machine-learning
+* https://www.django-rest-framework.org/tutorial/1-serialization/
+* for tomorrow: https://www.django-rest-framework.org/tutorial/2-requests-and-responses/
 
 ### Day 28: May 26, 2019
 
