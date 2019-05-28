@@ -14,6 +14,7 @@
 1. Solved one task on Hackerrank
 2. Finished one chapter of Obey the testing goat (ch4 What Are We Doing Wit All These Tests? (And, Refactoring))
 3. Read only a bit Intro to Machine Learning on Kaggle.
+
 **Thoughts:**
 1. I decided to do some Python tasks on Hackerrank but the instructions are written in such a way, that I'm mostly struggling to understand what should I do.
 2. TDD is such a slow process but I'm starting to understand the basic rules (at least I hope so)
