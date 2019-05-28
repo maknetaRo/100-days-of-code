@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 30: May 28, 2019
+
+**Plans for Today:**
+1. Create sign for an event form.
+2. Add email confirmation
+3. Create view with table of attendees visible only for admins
+4. TDD Django
+5. Kaggle intro to ml
+6. Python exercises
+
+**Today's Progress:**
+1. Solved one task on Hackerrank
+2. Finished one chapter of Obey the testing goat (ch4 What Are We Doing Wit All These Tests? (And, Refactoring))
+3. Read only a bit Intro to Machine Learning on Kaggle.
+**Thoughts:**
+1. I decided to do some Python tasks on Hackerrank but the instructions are written in such a way, that I'm mostly struggling to understand what should I do.
+2. TDD is such a slow process but I'm starting to understand the basic rules (at least I hope so)
+3. I really need more sleep, I'm too tired to understand what I am reading, what about remebering what to do or finding the solution :-( A short nap during the day was not enough.
+* I always plan so many things but I am rarely able to do everything as planned.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Create sign for an event form.
+2. Add email confirmation
+3. Create view with table of attendees visible only for admins
+4. TDD Django
+5. Kaggle intro to ml
+6. Python exercises
+
+**Resources:**
+1. https://www.obeythetestinggoat.com/book/chapter_post_and_database.html - for tomorrow
+2. https://www.kaggle.com/maknetaro/your-first-machine-learning-model
+
 ### Day 29: May 27, 2019
 
 **Plans for Today:**
