@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 31: May 29, 2019
+
+**Plans for Today:**
+1. TDD Django
+2. Kaggle intro to ml
+3. Python exercises
+
+**Today's Progress:**
+1. One exercise on HackerRank.
+2. Spent 45 minutes on TDD (managed to get through half of chapter 5)
+
+**Thoughts:**
+Too tired to do something meaningful.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. TDD Django
+2. Working on Django project
+3. Python exercise
+
+**Resources:**
+
 ### Day 30: May 28, 2019
 
 **Plans for Today:**
@@ -1105,7 +1128,7 @@ https://www.youtube.com/watch?v=MjwWzBiAMck
 https://www.youtube.com/watch?v=b43JIn-OGZU
 
 <!-- ##Template
-### Day 0: April 01, 2019
+### Day 0: June , 2019
 
 **Plans for Today:**
 
