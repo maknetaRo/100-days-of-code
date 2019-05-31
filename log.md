@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 32: May 31, 2019
+
+**Plans for Today:**
+1. Work on Django project
+2. Data science from Scratch
+3. Python ???
+
+**Today's Progress:**
+1. Managed only to go through two chapters of Data Science from Scratch
+
+**Thoughts:**
+Yesterday I had a day off from learning, but today I'm still tired.
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Work on Django project
+2. Data science from Scratch
+**Resources:**
+
 ### Day 31: May 29, 2019
 
 **Plans for Today:**
