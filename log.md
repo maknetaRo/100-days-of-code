@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 33: June 2 , 2019
+
+**Plans for Today:**
+1. Impractical Python
+2. Data science from scratch
+3. Django Event app
+4. TDD
+5. C++
+
+**Today's Progress:**
+1. Made 4 small projects from Impractical Python chapter 1
+2. Data Science form Scratch chapter 3 about visualization and started chapter 4
+**Thoughts:**
+1. I was trying to understand how collections and defaultdict work. I feel disappointed with myself, because after a dozen or so months of learning Python I still can't easily solve not so difficult tasks.
+2. I really don't know why I didn't read the book "Data Science form Scratch" last year when I was doing Intro to Data Science on Udacity, now I need to repeat everything once again. 
+
+**Link to work:**
+* https://github.com/maknetaRo/impractical_python_my_solution
+
+**Plans for tomorrow:**
+1. Impractical Python
+2. Data science from scratch
+**Resources:**
+
 ### Day 32: May 31, 2019
 
 **Plans for Today:**
