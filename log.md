@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 34: June 3 , 2019
+
+**Plans for Today:**
+
+1. Impractical Python (one project or 45 minutes)
+2. Data science from scratch
+
+**Today's Progress:**
+
+1. Chapter 4 about Linear Algebra from Data Science from Scratch done
+2. Repeated how to use data from txt files in Python code and wrote short script to check how many palindromes are in the dictionary file.
+
+**Thoughts:**
+* Really like working with Python and linear algebra isn't so scary as I thought. I have simply forgotten how much I liked Maths when I was at school even though I didn't learn
+matrix.
+
+**Link to work:**
+
+https://github.com/maknetaRo/impractical_python_my_solution
+
+**Plans for tomorrow:**
+
+1. Impractical Python (one project or 45 minutes)
+2. Data science from scratch
+
+**Resources:**
+
 ### Day 33: June 2 , 2019
 
 **Plans for Today:**
@@ -10,18 +37,23 @@
 5. C++
 
 **Today's Progress:**
+
 1. Made 4 small projects from Impractical Python chapter 1
 2. Data Science form Scratch chapter 3 about visualization and started chapter 4
+
 **Thoughts:**
+
 1. I was trying to understand how collections and defaultdict work. I feel disappointed with myself, because after a dozen or so months of learning Python I still can't easily solve not so difficult tasks.
-2. I really don't know why I didn't read the book "Data Science form Scratch" last year when I was doing Intro to Data Science on Udacity, now I need to repeat everything once again. 
+2. I really don't know why I didn't read the book "Data Science form Scratch" last year when I was doing Intro to Data Science on Udacity, now I need to repeat everything once again.
 
 **Link to work:**
 * https://github.com/maknetaRo/impractical_python_my_solution
 
 **Plans for tomorrow:**
+
 1. Impractical Python
 2. Data science from scratch
+
 **Resources:**
 
 ### Day 32: May 31, 2019
