@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 35: June 4 , 2019
+
+**Plans for Today:**
+
+1. Impractical Python (one project or 45 minutes)
+2. Data science from scratch
+3. Django Event app
+4. Django app as PWA - check the tutorial
+5. Twitter bot tutorial
+
+**Today's Progress:**
+
+1. Get through half of the Chapter 5 about statistics from Data Science book.
+2. Checked the tutorial Convert Django Website to a Progressive Web App part 1.
+2. Spent about 45 minutes on Impractical Python writing code for finding palingrams. Although I think the code is broken because not all results are palingrams.
+
+**Thoughts:**
+
+1. I wanted to see what the Progressive Web Apps are and that's why I started following the tutorial. But got an error and there is too much JavaScript to get through it. But PWAs look promising. And I have an idea how I could use it.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Impractical Python (one project or 45 minutes)
+2. Data science from scratch
+3. Django Event app
+4. Django app as PWA - check the tutorial part 2
+5. Twitter bot tutorial
+
+**Resources:**
+* https://realpython.com/twitter-bot-python-tweepy/
+
 ### Day 34: June 3 , 2019
 
 **Plans for Today:**
