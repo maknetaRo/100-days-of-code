@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 36: June 6, 2019
+
+**Plans for Today:**
+1. Django Event app
+
+**Today's Progress:**
+1. Event app in progress. Spent 5 pomodoro chunks (25 minutes each) building the app.  Changed a bit models: removed EventRegistration model and now I have only Attendee model and also created Location model and joined it with Event model using ForeignKey relationship. Unfortunately I also broke database a bit and can't log to admin, so I can't check if my changes work and have to wait until the project owner comes back from holidays.
+
+**Thoughts:**
+* I wrote on twitter that I'm hopeless because instead on focusing on real tasks I read stupid books or starting some courses or tutorials to check something. And this is true. I skipped yesterday as I was pretty tired and wanted to go to bed earlier. Yes, I went to bed earlier but was reading till midnight and today I'm not well-rested again.
+* I'm afraid that if I say about my plans out loud I will freeze in frighten at all. I decided not to wait to be a developer until someone allows me. I decided but still haven't convinced my inner self
+* So I want to write it down here. I'm a developer and I develop stuff. And no more learning for the sake of learning!!! Tutorials or courses? Yes please, but only to implement features I need in my projects or after a big portion of working on real projects.
+* This month I want to finish my blog and Event module in educational project.
+* I will create one real project a month starting on July 1, 2019 mostly in Django or Python and won't bother that nothing good can be build within such a short period of time.  
+What do I mean by creating a real project? If it's a website I will have to create and deploy it within one month, if it is a Python script, I will have to make it as a package and put it on GitHub with instruction how to use it.
+*  I have few ideas what I would like to build, but nothing is written in stone. And because my knowledge about software is limited I might be using standard ideas like to-do list or taking notes app.
+* And because learning different things in chunks has failed I'm hibernating all my other plans like data science, machine learning or C++. And for the time being I'm going not to worry about looking for a programming job.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. My blog: use slugify, change model to add draft and published, add pagination.
+
+**Resources:**
+* https://www.dev2qa.com/how-to-force-reset-django-models-migrations/
+
 ### Day 35: June 4 , 2019
 
 **Plans for Today:**
