@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 37: June 7, 2019
+
+**Plans for Today:**
+1. blog: add slugify, draft and published and pagination
+
+**Today's Progress:**
+1. added slugify, draft and published but have problem with creating an appropriate url, keep having "django.urls.exceptions.NoReverseMatch: Reverse for 'post_detail' with keyword arguments '{'pk': 4}' not found. 1 pattern(s) tried: ['post/(?P<slug>[-a-zA-Z0-9_]+)/(?P<pk>[0-9]+)/$']"
+
+**Thoughts:**
+1. Url and using id or pk are my main problems in Django.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. resolve NoReverseMatch error.
+2. add date to url
+3. add pagination
+
+**Resources:**
+
 ### Day 36: June 6, 2019
 
 **Plans for Today:**
