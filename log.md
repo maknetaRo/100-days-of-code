@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 38: June 8, 2019
+
+**Plans for Today:**
+1. resolve NoReverseMatch error.
+2. add date to url
+3. add pagination
+
+**Today's Progress:**
+Unfortunately I am at the same place as yesterday. I changed model a bit, and used <slug:slug> in url instead of <int:pk> because I want to have a nice address of every post, but still can't add comment. When I'm trying to add comment I get this error:
+Reverse for 'post_detail__add_comment' with arguments '('',)' not found. 1 pattern(s) tried: ['post/(?P<slug>[-a-zA-Z0-9_]+)/add_comment/$']
+I changed also add_comment method and used render instead of redirect and now have problem with redirecting to add comment template that is a partial template (additional to post_detail).
+
+**Thoughts:**
+Today I started thinking about another project that I want to start after finishing the blog. I'm going to build a website for my husband. It's going to be a photo gallery with his images from different musical events. And I asked on twitter what technology would be the best. And the most popular answer was gatsby.js. Never tried before but I think I will be able to check it.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. resolve NoReverseMatch error.
+2. add pagination
+3. check what is the difference between tags and categories.
+
+**Resources:** -->
+
+
 ### Day 37: June 7, 2019
 
 **Plans for Today:**
