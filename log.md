@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 39: June 9, 2019
+
+**Plans for Today:**
+
+1. resolve NoReverseMatch error.
+2. add pagination
+3. check what is the difference between tags and categories.
+
+**Today's Progress:**
+
+1. Managed to resolve the problem although not sure what was wrong. I pulled back almost everything I had rewritten for last two days. Only all the pk changed into slug because I wanted to use slug in url. And it clicked.
+2. Added model category
+
+**Thoughts:**
+
+* Haven't done much today. Wanted to add status of the posts - draft and published but I might not understand it fully and that's why I'm not able to do it using class based view.
+* I have now category and tags in my project but I'm not sure if I should use both or should I use only category? Have to think about it a bit longer.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+1. make list of posts by category
+2. if I decide to have tags - add tags to each post
+3. add pagination
+
+**Resources:**
+* https://djangopy.org/how-to/how-to-implement-categories-in-django/
+* https://realpython.com/get-started-with-django-1/
+
+
 ### Day 38: June 8, 2019
 
 **Plans for Today:**
