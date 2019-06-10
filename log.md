@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 40: June 10, 2019
+
+**Plans for Today:**
+
+1. make list of posts by category
+2. if I decide to have tags - add tags to each post
+3. add pagination
+
+**Today's Progress:**
+
+1. Can make list of posts by category when I write the category name in the url, but I'm not able to display categories in the sidebar and can't create a working link to a category.
+
+**Thoughts:**
+
+* I know that I know nothing. I'll think about it later. I decided to use mostly Generic Views (I mean classes) in this app and that's why I have a problem because most of the tutorials are written using functions.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+1. add pagination
+2. last 5 posts in the right column
+
+**Resources:**
+
+
 ### Day 39: June 9, 2019
 
 **Plans for Today:**
