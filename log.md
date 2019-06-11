@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 41: June 11, 2019
+
+**Plans for Today:**
+
+1. add pagination
+2. latest 5 posts in the right column
+3. finish tags
+
+**Today's Progress:**
+
+1. added pagination
+2. fixed tags
+3. added list of posts in the right column but it isn't working correctly
+4. started Advanced Web Development with Django course on Packt, because I really need to understand Class Base Views in Django
+
+**Thoughts:**
+
+* Today is too hot to think and it's only the beginning of summer.
+* I hope I understand Class Based Views in Django thanks to the course I started. I could have done latest posts and categories easily if I would like to create new templates for each, but I don't. I have to learn how it can be done without repeating the same templates. If it is possible with tags, it should be possible with everything.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+1. More of Advanced Web Development course
+2. latest posts in right column
+
+**Resources:**
+
+* https://subscription.packtpub.com/video/web_development/9781788628587
+
 ### Day 40: June 10, 2019
 
 **Plans for Today:**
