@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 42: June 12 , 2019
+
+**Plans for Today:**
+
+1. More of Advanced Web Development course - take notes!!!
+2. latest posts in right column
+
+**Today's Progress:**
+
+1. Watched one part of the course
+2. Started another project and watched a bit about unittests
+3. Created 2 functions of a game and wrote simple unittests.
+
+**Thoughts:**
+
+The weather doesn't allow to work normally or even to think. It was more than 30 degrees Celsius during the day and even now (it's almost midnight) the thermometer shows 27 degrees Celsius. So my thoughts are mostly around weather and water.
+
+**Link to work:**
+
+* https://github.com/maknetaRo/bullscows
+
+**Plans for tomorrow:**
+
+1. Finish the Python part of bulls and cows game
+2. Previous and next to each post in Django blog ???
+
+**Resources:**
+
+
 ### Day 41: June 11, 2019
 
 **Plans for Today:**
