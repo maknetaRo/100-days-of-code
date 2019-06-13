@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 43: June 13, 2019
+
+**Plans for Today:**
+
+1. Finish the Python part of bulls and cows game
+2. Previous and next to each post in Django blog ???
+3. TDD in Python
+
+**Today's Progress:**
+1. Added two functions: play_game and play_again but without counting points as rules of adding points in this game are unclear for me.But it occurred that the rules are a bit different and I have to change the game a bit.
+2. No time for Django
+3. Trying to write the new version of the bulls and cows game using Test Driven Development.
+
+**Thoughts:**
+
+I might even like writing tests and TDD approach. It makes me think more about the goal of each function.
+
+**Link to work:**
+
+* https://github.com/maknetaRo/bullscows
+
+**Plans for tomorrow:**
+
+1. Finish the Python part of bulls and cows game with tests.
+2. Previous and next to each post in Django blog ???
+
+**Resources:**
+
 ### Day 42: June 12 , 2019
 
 **Plans for Today:**
