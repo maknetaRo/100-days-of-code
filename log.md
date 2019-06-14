@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 44: June 14 , 2019
+
+**Plans for Today:**
+1. Finish the Python part of bulls and cows game
+
+**Today's Progress:**
+1. Was working on bulls and cows game but with more complex rules the code is more complex and I made more complex mistakes ;-)
+
+**Thoughts:**
+1. I hope the logic of the game until the last function is pretty correct. Now I have problem with using all the previous functions correctly to make the game.
+2. And Unfortunately I had big problem with test. I have no idea how to test the code in which I use random.
+
+**Link to work:**
+* https://github.com/maknetaRo/bullscows/blob/master/game2.py
+
+**Plans for tomorrow:**
+1. Finish the Python part of bulls and cows game
+2. Previous and next to each post in Django blog ??? (look at the pagination code)
+
+**Resources:**
+
 ### Day 43: June 13, 2019
 
 **Plans for Today:**
@@ -27,6 +48,11 @@ I might even like writing tests and TDD approach. It makes me think more about t
 2. Previous and next to each post in Django blog ???
 
 **Resources:**
+
+* https://kapeli.com/cheat_sheets/Python_unittest_Assertions.docset/Contents/Resources/Documents/index
+* https://docs.python.org/3/library/unittest.html
+* https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137
+
 
 ### Day 42: June 12 , 2019
 
