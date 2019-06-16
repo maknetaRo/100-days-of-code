@@ -1,5 +1,54 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 46: June 16, 2019
+
+**Plans for Today:**
+
+1. Learn more about Class Based views
+2. Work on one of Django Projects
+3. Add posts to my django blog - the two I lost and one new.  
+4. Come back to JS
+
+**Today's Progress:**
+
+1. Tried to use some get_context_method or get_query in my class based views. Need to work on it more.
+3. Added lost posts and created a new one
+
+**Thoughts:**
+
+**Link to work:**
+
+* https://makneta.herokuapp.com/post/my-summer-of-code/
+
+**Plans for tomorrow:**
+1. More about Class Based views
+2. Work on one of Django Projects
+
+**Resources:**
+
+* https://spapas.github.io/2018/03/19/comprehensive-django-cbv-guide/
+* https://www.codingforentrepreneurs.com/projects/class-based-views
+
+### Day 45: June 15, 2019
+
+**Plans for Today:**
+1. Finish the Python part of bulls and cows game
+2. Previous and next to each post in Django blog
+
+**Today's Progress:**
+1. Finished the game in Python. I hope it meets requirements now.
+2. Made migrations on Heroku. A nice guy from fb group helped me. I needed to heroku run python manage.py migrate zero first and now I don't have any posts live, but I also get to know that what ever I do with database locally I have to do on heroku too.
+
+**Thoughts:**
+
+**Link to work:**
+* https://github.com/maknetaRo/bullscows/blob/master/game2.py
+
+**Plans for tomorrow:**
+1. Learn more about Class Based views
+
+**Resources:**
+
 ### Day 44: June 14 , 2019
 
 **Plans for Today:**
@@ -12,7 +61,7 @@
 1. I hope the logic of the game until the last function is pretty correct. Now I have problem with using all the previous functions correctly to make the game.
 2. And Unfortunately I had big problem with test. I have no idea how to test the code in which I use random.
 
-**Link to work:**
+**Link to work:**git
 * https://github.com/maknetaRo/bullscows/blob/master/game2.py
 
 **Plans for tomorrow:**
