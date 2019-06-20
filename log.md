@@ -1,5 +1,57 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 48: June 20, 2019
+
+**Plans for Today:**
+1. 25 minutes of JavaScript for kids
+2. More about Class Based views
+3. Work on one of Django Projects
+4. tests in Python
+
+**Today's Progress:**
+1. spent about an hour learning jquaries from "JavaScript for kids"
+2. still was trying to get previous and next post in my Django blog app
+
+**Thoughts:**
+I am blocked. I've been looking for information about using Generic Classes in Django Views but I can't make myself to read or listen it properly and with understanding. And that's why I'm stuck.
+I think I'll start tomorrow another project and in the meantime I will read about Class Based Views in Django because now I'm stressed that whatever I'm trying to do in my project it doesn't work.
+I also tried to add custom tags but failed once again. And I think firstly I need resolve the problem with draft and published post and only then I can add new functionalities.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. draft and published
+2. JS 25 minutes
+3. Event app 
+
+**Resources:**
+* https://stackoverflow.com/questions/53598294/how-to-retrieve-previous-next-entry-in-a-django-detailview-view
+* https://stackoverflow.com/questions/38762146/django-single-post-view-prev-next-links
+* https://stackoverflow.com/questions/6021694/getting-next-and-previous-objects-in-django
+* https://www.programcreek.com/python/example/82544/django.views.generic.DetailView
+* https://codefellows.github.io/sea-python-401d5/lectures/django_cbv2.html
+*
+
+### Day 47: June 17, 2019
+
+**Plans for Today:**
+1. 25 minutes of JavaScript for kids
+2. More about Class Based views
+3. Work on one of Django Projects
+
+**Today's Progress:**
+1. 50 minutes of JavaScript
+2. 25 minutes trying to learn unittest
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+
 ### Day 46: June 16, 2019
 
 **Plans for Today:**
@@ -29,7 +81,7 @@
 * https://spapas.github.io/2018/03/19/comprehensive-django-cbv-guide/
 * https://www.codingforentrepreneurs.com/projects/class-based-views
 
-### Day 45: June 15, 2019
+### Day 45: June 15, 2019-
 
 **Plans for Today:**
 1. Finish the Python part of bulls and cows game
