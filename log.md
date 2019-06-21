@@ -1,5 +1,42 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 49: June 21, 2019
+
+**Plans for Today:**
+1. One video of JS DOM
+2. draft and published
+3. Event app
+
+**Today's Progress:**
+1. Watched the first video from Traversy Media JavaScript DOM series and took notes. It's like JS DOM dictionary.
+2. Added draft and publish to model in Django.
+in models.py
+```
+STATUS = (
+  (0, 'draft'),
+  (1, 'publish')
+  )
+class Post(models.Model):
+  ...
+  status = models.IntegerField(choices=STATUS, default=0)
+  ```
+  in views.py
+  ```
+  class PostListView(generic.ListView):
+  queryset = Post.objects.filter(status=1).order_by('-created_on')
+  ```
+
+
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. One video of JS DOM
+
+**Resources:**
+
 ### Day 48: June 20, 2019
 
 **Plans for Today:**
@@ -22,7 +59,7 @@ I also tried to add custom tags but failed once again. And I think firstly I nee
 **Plans for tomorrow:**
 1. draft and published
 2. JS 25 minutes
-3. Event app 
+3. Event app
 
 **Resources:**
 * https://stackoverflow.com/questions/53598294/how-to-retrieve-previous-next-entry-in-a-django-detailview-view
