@@ -23,17 +23,20 @@ class Post(models.Model):
   in views.py
   ```
   class PostListView(generic.ListView):
-  queryset = Post.objects.filter(status=1).order_by('-created_on')
+    queryset = Post.objects.filter(status=1).order_by('-created_on')
   ```
-
-
+  3. Worked a bit on Event app - imported missing part of sql and checked if app works.
 
 **Thoughts:**
+* Really like JavaScript DOM videos by Traversy Media. I watched it with pleasure and learnt a lot. Tomorrow the next video.
+* I'm glad I managed to make small steps forward in my blog app as well as in the Event app because I started feeling very disappointed and now I again feel the joy of writing code.
 
 **Link to work:**
 
 **Plans for tomorrow:**
-1. One video of JS DOM
+1. JS DOM part 2 video
+2. Add sign up for event to the detail_view
+3. Create view for admin with the list of participants in the Event.
 
 **Resources:**
 
