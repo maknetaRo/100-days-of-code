@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 50: June 22, 2019
+
+**Plans for Today:**
+1. search in my blog
+2. JS DOM part 2 video
+3. Add sign up for event to the detail_view
+4. Create view for admin with the list of participants in the Event.
+
+**Today's Progress:**
+No progress - spent 3 or so hours trying to build search in my blog.
+Found a bunch of articles, tried 3 or 4 of them and my search still doesn't want to work.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+* https://github.com/etianen/django-watson
+* https://docs.djangoproject.com/en/2.2/ref/contrib/postgres/search/
+* http://logan.tw/posts/2017/12/30/full-text-search-with-django-and-postgresql/
+* https://czep.net/17/full-text-search.html
+* https://emptyhammock.com/blog/Postgres-full-text-search-with-Django.html
+* http://blog.lotech.org/postgres-full-text-search-with-django.html
+* https://www.thebookofjoel.com/blog/full-text-search-django-postgres
+* https://speakerdeck.com/pauloxnet/full-text-search-in-django-with-postgresql-pycon8
+* https://dev.to/danihodovic/optimizing-postgres-full-text-search-with-django-42hg
+* https://simonwillison.net/2017/Oct/5/django-postgresql-faceted-search/
+
+
 ### Day 49: June 21, 2019
 
 **Plans for Today:**
