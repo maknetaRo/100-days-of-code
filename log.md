@@ -112,12 +112,31 @@ I have also some lines of code in the sidebar - the search form:
 
     </div>
 ```
+* Yuppie!!! I did it. Of course not by myself but I'm still happy. I asked for help on facebook Django group and it occurred that I needed only to add one line of code to my class
+`context_object_name = 'results'`
+ and change one word in a template
+ ` {% if results %} ` instead of `{% if query %}`
+ * I also had to add get_context_data method to display the word that was searched
+ ```
+ def get_context_data(self, **kwargs):
+       data = super().get_context_data(**kwargs)
+       data['results'] = self.get_queryset()
+       data['query'] = self.request.GET.get('query')
+       return data
+ ```
+ * You can replace results by object_list in your template because of the default context in listview
 
 **Thoughts:**
+I'm glad that I'm getting more and more courageous to ask my questions on forums. I hope one day I will be able to help others, too.
 
 **Link to work:**
+* https://makneta.herokuapp.com/
 
 **Plans for tomorrow:**
+1. Finish writing about the first week of my summer of code
+2. Event app
+3. JavaScript 1/2 hour
+4. TDD 1/2 hour
 
 **Resources:**
 
