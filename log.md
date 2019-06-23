@@ -1,5 +1,126 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 51: June 23, 2019
+
+**Plans for Today:**
+1. search in my blog
+
+**Today's Progress:**
+1. I've been working on search in my Django blog.
+first I built a function `def search(request):`
+```
+def search(request):
+    form = SearchForm()
+    query = None
+    results = []
+    if 'query' in request.GET:
+        form = SearchForm(request.GET)
+        if form.is_valid():
+            query = form.cleaned_data['query']
+
+            results = Post.objects.filter(status=1).annotate(search=SearchVector('title', 'text'),).filter(search=query)
+        print(results)
+    return render(request, 'blog/search.html', {'form':form, 'query':query, 'results':results})
+```
+and it worked pretty good. The only drawback was the lack of Tag list in the sidebar.
+So I decided to check the function into a class with generic.ListView but something doesn't work. No matter what I have *There are no results for your query.* output.
+* My forms.py code
+```
+class SearchForm(forms.Form):
+    query = forms.CharField()
+```
+* My views.py code
+```
+class PostSearchListView(PostListView):
+    model = Post
+    paginate_by =10
+    template_name = 'blog/search.html'
+
+    def get_queryset(self):
+        qs = Post.objects.filter(status=1)
+        keywords = self.request.GET.get('query')
+        results = qs.annotate(search=SearchVector('title', 'text'),).filter(search=keywords)
+        print(results)
+        return results
+```
+* I'm using print(results) to see the output in the command line and the output is the same as it was in search function. For query "post":
+```
+<QuerySet [<Post: My first post NEW>, <Post: Next post>, <Post: Second blog post>, <Post: My first post>]>
+[23/Jun/2019 17:41:18] "GET /search?query=post HTTP/1.1" 200 8831
+```
+* So there must be a problem in a template but I can't find it.
+* search.html:
+```
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Search{% endblock %}
+
+{% block content %}
+<div id="content-wrap">
+
+ <div class="row">
+
+   <div id="main" class="eight columns">
+    {% if query %}
+        <h2>Posts containing "{{ query }}"</h2>
+        <h3>
+            {% with results.count as total_results %}
+                Found {{ total_results }} result{{ total_results|pluralize }}
+            {% endwith %}
+        </h3>
+       <p></p>
+       {% for post in results %}
+       <article class="entry">
+
+       <header class="entry-header">
+
+         <h2 class="entry-title">
+           <a href="{{ post.get_absolute_url }}">{{ post.title }}</a>
+         </h2>
+       </header>
+        <div class="entry-content">
+         <p>{{ post.text|safe|truncatewords:"5" }}</p>
+         <a href="{% url 'post_detail' post.slug %}">Read More</a>
+         <p></p>
+
+       </div>
+           {% endfor %}
+        {% else %}
+
+            <p>There are no results for your query.</p>
+
+
+          </article>
+        {% endif %}
+      {% include 'partials/_pagination.html' with page=posts %}
+    </div>
+     {% include 'partials/_sidebar.html' %}
+  </div>
+
+</div>
+{% endblock %}
+```
+I have also some lines of code in the sidebar - the search form:
+```
+<div class="widget widget_search">
+        <h3>Search</h3>
+         <form action="{% url 'search' %}" method="get">
+            <input type="text" name="query" placeholder="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }" onfocus="if (this.value == 'Search here...') { this.value = ''; }" class="text-search">
+                <input type="submit" class="submit-search" value="">
+            </form>
+
+    </div>
+```
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
 ### Day 50: June 22, 2019
 
 **Plans for Today:**
@@ -29,6 +150,9 @@ Found a bunch of articles, tried 3 or 4 of them and my search still doesn't want
 * https://speakerdeck.com/pauloxnet/full-text-search-in-django-with-postgresql-pycon8
 * https://dev.to/danihodovic/optimizing-postgres-full-text-search-with-django-42hg
 * https://simonwillison.net/2017/Oct/5/django-postgresql-faceted-search/
+
+* https://stackoverflow.com/questions/51688849/getting-data-from-html-files-and-saving-it-to-models-django
+* https://stackoverflow.com/questions/38006125/how-to-implement-search-function-in-django
 
 
 ### Day 49: June 21, 2019
