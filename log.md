@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 52: June 24, 2019
+
+**Plans for Today:**
+1. Finish writing about the first week of my summer of code
+2. Event app
+3. JavaScript 1/2 hour
+4. TDD 1/2 hour
+
+**Today's Progress:**
+1. Wrote the blog post about previous week and my plans for a new week:
+https://makneta.herokuapp.com/post/my-summer-of-code-week-1/
+2. Spent more than 50 minutes starting TDD project following Obey the Testing Goat book.
+3. Followed one episode of JavaScript DOM by TraversyMedia
+4. Was working on adding sign for event form to Event app in Django
+5. Did a few easy challenges on Edabit.
+
+**Thoughts:**
+I thought that I know how to works with forms in Django but it was quite a long time ago so I need to refresh my knowledge.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Finish the sign for event form - read django documentation and take some notes ?
+2. Create view with a list of attendees
+3. One chunk of TDD
+4. One chunk of JavaScript 
+
+
 ### Day 51: June 23, 2019
 
 **Plans for Today:**
