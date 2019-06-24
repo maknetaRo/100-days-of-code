@@ -25,7 +25,16 @@ I thought that I know how to works with forms in Django but it was quite a long 
 1. Finish the sign for event form - read django documentation and take some notes ?
 2. Create view with a list of attendees
 3. One chunk of TDD
-4. One chunk of JavaScript 
+4. One chunk of JavaScript
+
+**Resources:**
+1. Read properly!!!
+* https://docs.djangoproject.com/en/2.2/topics/forms/
+* https://docs.djangoproject.com/en/2.2/ref/forms/fields/
+* https://docs.djangoproject.com/en/2.2/ref/forms/validation/
+* https://docs.djangoproject.com/en/2.2/ref/forms/
+2. https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html
+3. https://www.youtube.com/watch?v=wK2cBMcDTss
 
 
 ### Day 51: June 23, 2019
