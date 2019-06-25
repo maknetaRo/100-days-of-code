@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 53: June 25, 2019
+
+**Plans for Today:**
+1. Finish the sign for event form - read django documentation and take some notes ?
+2. Create view with a list of attendees
+3. One chunk of TDD
+4. One chunk of JavaScript
+
+**Today's Progress:**
+1. Managed only to do a bit of TDD - chapter 3 and 4 of Obey the testing goat book.
+
+**Thoughts:**
+My children and me at home != not as much time for coding as I would like as I don't have to go to work.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Finish the sign for event form - read django documentation and take some notes ?
+2. Create view with a list of attendees
+3. One chunk of TDD
+4. One chunk of JavaScript
+
+**Resources:**
+* Chapter 5: http://www.obeythetestinggoat.com/book/chapter_post_and_database.html
+
 ### Day 52: June 24, 2019
 
 **Plans for Today:**
