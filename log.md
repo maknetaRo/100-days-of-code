@@ -15,8 +15,8 @@
 2. Reading docs and trying to resolve my problem with sign for event form.
 3. CSS drawing
 **Thoughts:**
-I can't sit still while watching tv or looking at my son, so I started CSS drawing.
-Some days I hate Django. I was rewriting the code several times and it stills doesn't work and I don't know why. The sad thing is that I have similar problems over and over again. I've been doing FORMs several times and still have some issues.
+* I can't sit still while watching tv or looking at my son, so I started CSS drawing.
+* Some days I hate Django. I was rewriting the code several times and it stills doesn't work and I don't know why. The sad thing is that I have similar problems over and over again. I've been doing FORMs several times and still have some issues.
 
 **Link to work:**
 
@@ -25,6 +25,7 @@ Some days I hate Django. I was rewriting the code several times and it stills do
 2. Write a blog post
 3. TDD
 4. JS
+5. Finish CSS drawing
 
 **Resources:**
 
