@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 54: June 26, 2019
+
+**Plans for Today:**
+1. Finish the sign for event form - read django documentation and take some notes ?
+2. Create view with a list of attendees
+3. One chunk of TDD
+4. One chunk of JavaScript
+5. <sub> Blog article about layouts in Django</sub>
+6. <sub> J on HS</sub>
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
 ### Day 53: June 25, 2019
 
 **Plans for Today:**
