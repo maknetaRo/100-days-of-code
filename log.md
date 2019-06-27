@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 55: June 27, 2019
+
+**Plans for Today:**
+1. Finish those forms.
+2. Write a blog post
+3. TDD
+4. JS
+5. Finish CSS drawing
+
+**Today's Progress:**
+1. Was learning TDD doing 2 or 3 codewars kata.
+2. Managed to add custom tags to my Django blog and have number of posts, latest posts. Added also social share links using django-social-share library.
+* Was also working on adding sitemap and RSS feed but have an error: Site matching query does not exist. Need to work on it another day.
+Although on heroku after adding sitemap.xml I have something like this:
+![](images/Screenshot_from_2019-06-27.png)
+and I am not sure if it is what it should be.
+
+**Thoughts:**
+Today I really happy because I spent more than 6 hours coding. And I'm doing some progress!!!
+
+**Link to work:**
+https://makneta.herokuapp.com/
+
+**Plans for tomorrow:**
+1. More on my blog - resolve problems with site matching query.
+2. TDD
+3. Write a blog post. 
+
+**Resources:**
+* https://www.bedjango.com/blog/how-generate-feeds-using-django/
+
+
 ### Day 54: June 26, 2019
 
 **Plans for Today:**
@@ -14,6 +46,7 @@
 1. TDD - 2 or 3 chunks (25 minutes each)
 2. Reading docs and trying to resolve my problem with sign for event form.
 3. CSS drawing
+
 **Thoughts:**
 * I can't sit still while watching tv or looking at my son, so I started CSS drawing.
 * Some days I hate Django. I was rewriting the code several times and it stills doesn't work and I don't know why. The sad thing is that I have similar problems over and over again. I've been doing FORMs several times and still have some issues.
