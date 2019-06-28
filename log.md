@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 56: June 28, 2019
+
+**Plans for Today:**
+1. More on my blog - resolve problems with site matching query.
+2. TDD
+3. Write a blog post.
+4. JS
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:** -->
+
+
 ### Day 55: June 27, 2019
 
 **Plans for Today:**
@@ -26,7 +45,7 @@ https://makneta.herokuapp.com/
 **Plans for tomorrow:**
 1. More on my blog - resolve problems with site matching query.
 2. TDD
-3. Write a blog post. 
+3. Write a blog post.
 
 **Resources:**
 * https://www.bedjango.com/blog/how-generate-feeds-using-django/
