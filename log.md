@@ -9,15 +9,30 @@
 4. JS
 
 **Today's Progress:**
+1. Added similar posts using  get_context_data method in PostDetailView
+`context['similar_posts'] = self.object.tags.similar_objects[:4]`
+I added them as a unordered list below comments but would like to change it later on.
+2. To solve problem with site matching query in feeds I had to add SITE = 1 in settings.py and migrate.
+3. Watched 4 companion videos to revise things I've already done in TDD project.
+Find the error I made in this project.
 
 **Thoughts:**
+1. Need to work on CSS to display 3 similar posts in one line with photos attached to each title. I might start Web Development course on Fronted Masters.
+2. I also got an idea to display header_images above the title and that their hight and width should be the same in each post and it should be changing automatically. Need to learn how to do it.
+
+* Today I have had to spend sometime doing yoga or stretching because my back has been aching and it's been difficult to sit in front of the computer for a longer while.
 
 **Link to work:**
 
 **Plans for tomorrow:**
+1. Write a post about using layouts in Django
+2. TDD Django
 
-**Resources:** -->
-
+**Resources:**
+* https://stackoverflow.com/questions/52193393/how-to-use-django-taggit-similar-objects-with-class-based-views
+* https://frontendmasters.com/courses/web-development-v2/
+* For tomorrow with TDD: http://www.obeythetestinggoat.com/book/chapter_post_and_database.html#_three_strikes_and_refactor
+* https://learning.oreilly.com/videos/test-driven-development/9781491919163/9781491919163-video192337
 
 ### Day 55: June 27, 2019
 
