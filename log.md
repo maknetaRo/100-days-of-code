@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 57: June 29, 2019
+
+**Plans for Today:**
+1. Write a post about using layouts in Django
+2. TDD Django
+3. Blog archive
+
+**Today's Progress:**
+1. Finished chapter 5(out of 26) of "Obey the Testing Goat!" - TDD in Django
+`Item.objects.count()` is a shorthand for `Item.objects.all().count()`
+and
+`Item.objects.first()` is the same as doing `Item.objects.all()[0]`
+`Item.objects.create(text=new_item_text)` is a shorthand for creating a new Item, without needing to call `.save()`
+2. Was working on archive of my Django blog.
+
+**Thoughts:**
+1. Decided that I don't need archive for now. And that I will stop working on blog now. I need to move on to another project. I mean to concentrate more on TDD course before I start working on a new Django project.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Watch video - https://learning.oreilly.com/videos/test-driven-development/9781491919163/9781491919163-video192337 to revise what I learnt today.
+2. Continue learning TDD
+3.  Write a blog post about templates in Django.
+
+**Resources:**
+* https://unweb.me/blog/monthly-archives-on-Django
+* https://docs.djangoproject.com/pl/2.2/ref/class-based-views/generic-date-based/
+* https://www.smartfile.com/blog/captchas-dont-work-how-to-trick-spam-bots-with-a-smarter-honey-pot/
+* For tomorrow with TDD http://www.obeythetestinggoat.com/book/chapter_explicit_waits_1.html
+
 ### Day 56: June 28, 2019
 
 **Plans for Today:**
