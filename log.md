@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 58: June 30, 2019
+
+**Plans for Today:**
+1. Watch video - https://learning.oreilly.com/videos/test-driven-development/9781491919163/9781491919163-video192337 to revise what I learnt today.
+2. Continue learning TDD
+3.  Write a blog post about templates in Django.
+
+**Today's Progress:**
+1. Watched the video as planned
+2. Followed chapter 6 of TDD in Python course
+3. I'm in chapter 7.10 http://www.obeythetestinggoat.com/book/chapter_working_incrementally.html#_each_list_should_have_its_own_url
+but facing the error I can't find - have too many tests. There should be 6 and I have got 7 and don't know which is redundant and causing my error.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. TDD http://www.obeythetestinggoat.com/book/chapter_working_incrementally.html#_each_list_should_have_its_own_url
+
+**Resources:**
+
 ### Day 57: June 29, 2019
 
 **Plans for Today:**
