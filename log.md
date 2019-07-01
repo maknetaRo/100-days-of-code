@@ -47,6 +47,7 @@ but facing the error I can't find - have too many tests. There should be 6 and I
 *  I know why I had been postponing writing blog posts. Writing technical things are so difficult and time consuming.
 
 **Link to work:**
+* http://makneta.herokuapp.com/post/my-summer-of-code-week-2/
 
 **Plans for tomorrow:**
 1. TDD http://www.obeythetestinggoat.com/book/chapter_working_incrementally.html#_each_list_should_have_its_own_url
