@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 4
 
+
+### Day 59: July1, 2019
+
+**Plans for Today:**
+1. Finish post about templates.
+2. Finish chapter 7 of TDD.
+3. Start CSS Grid by Wes Bos
+
+**Today's Progress:**
+1. I wrote a post about my plans for this week. It is not technical post but while learning to code I'm also learning to plan my work and achieve my goals.
+2. Started CSS Grid by Wes Bos. Watched 8 videos.
+Learned about grid-template-columns, grid-template-rows and grid-gap. And about fraction units. 1fr means that the element fills the left space. If in grid-template-columns we write
+200px 1fr 1fr - it means that those units 1fr each fill the left space and both will be equal.
+3. Started reading Python without fear - in chapter 2.
+
+**Thoughts:**
+I like the Bos tutorial so far. And there will be also lesson about CSS Grid Image Gallery in part 20 so I am super duper excited for it.
+Need to go to bed earlier because I'm too tide for anything else.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Finish post about templates.
+2. Finish chapter 7 of TDD.
+3. Continue CSS Grid by Wes Bos (part 9)
+
+**Resources:**
+* https://cssgrid.io/
+
 ### Day 58: June 30, 2019
 
 **Plans for Today:**
@@ -15,7 +44,7 @@ but facing the error I can't find - have too many tests. There should be 6 and I
 4. Started writing blog post about templates in my Django blog.
 
 **Thoughts:**
-*  I know why I have been postponing writing blog posts. Writing technical things are so difficult and time consuming.
+*  I know why I had been postponing writing blog posts. Writing technical things are so difficult and time consuming.
 
 **Link to work:**
 
