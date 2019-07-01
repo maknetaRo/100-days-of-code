@@ -12,8 +12,10 @@
 2. Followed chapter 6 of TDD in Python course
 3. I'm in chapter 7.10 http://www.obeythetestinggoat.com/book/chapter_working_incrementally.html#_each_list_should_have_its_own_url
 but facing the error I can't find - have too many tests. There should be 6 and I have got 7 and don't know which is redundant and causing my error.
+4. Started writing blog post about templates in my Django blog.
 
 **Thoughts:**
+*  I know why I have been postponing writing blog posts. Writing technical things are so difficult and time consuming.
 
 **Link to work:**
 
