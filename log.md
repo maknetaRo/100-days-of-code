@@ -1,7 +1,34 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 60: July 2, 2019
 
-### Day 59: July1, 2019
+**Plans for Today:**
+1. Finish post about templates.
+2. Finish chapter 7 of TDD.
+3. Continue CSS Grid by Wes Bos (part 9)
+
+**Today's Progress:**
+1. Wrote the post about first views in Django.
+2. Did CSS Grid course from part 9 to 16.
+
+**Thoughts:**
+* I decided to divide the post about templates into two parts and today I finished writing about first views and next time I will write about adjusting theme I downloaded from the internet.
+I don't like how the code snippets look on my blog. And it goes on my list things to fix.
+* Can't concentrate on learning b/c my son has a rather bad day today. It's been raining and the wind has been very strong so we haven't gone for a walk or he couldn't spend time in the garden. And he is angry about it. The other thing is that I didn't sleep well. I went to bed pretty early (about 11 pm) but couldn't fall asleep until half past 2 am. I'm dreaming about remote job, but I'm not sure if it's something for me, as when I don't go "physically" to work, I can't sleep at night. 
+
+**Link to work:**
+* http://makneta.herokuapp.com/post/first-views-in-my-django-blog-project/
+
+**Plans for tomorrow:**
+1. Continue CSS Grid course
+2. Finish chapter 7 of TDD
+3. Start writing about using layout theme in Django.
+
+**Resources:**
+* https://courses.wesbos.com/account/access/5adf4e6942c2397eec31fe51/view/249558283
+*  TDD http://www.obeythetestinggoat.com/book/chapter_working_incrementally.html#_each_list_should_have_its_own_url
+
+### Day 59: July 1, 2019
 
 **Plans for Today:**
 1. Finish post about templates.
