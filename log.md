@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 61: July 3 , 2019
+
+**Plans for Today:**
+1. Continue CSS Grid course
+2. Finish chapter 7 of TDD
+3. Start writing about using layout theme in Django.
+
+**Today's Progress:**
+1. Couldn't resist a new challenge. Started a new small Django REST app to practice TDD.
+2. Installed pre-commit and black.
+
+**Thoughts:**
+I have a very weak will power. And start new things before finishing the planned ones. Tomorrow I want to return to the old ones.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Continue CSS Grid course
+2. Finish chapter 7 of TDD
+3. Start writing about using layout theme in Django.
+4. Django REST app,  but only after doing a bit of the first 3.
+
+**Resources:**
+* https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/
+* https://medium.com/crowdbotics/how-to-write-an-api-in-3-lines-of-code-with-django-rest-framework-59b0971edfa4
+* https://scotch.io/tutorials/build-a-rest-api-with-django-a-test-driven-approach-part-1
+
 ### Day 60: July 2, 2019
 
 **Plans for Today:**
@@ -14,7 +41,7 @@
 **Thoughts:**
 * I decided to divide the post about templates into two parts and today I finished writing about first views and next time I will write about adjusting theme I downloaded from the internet.
 I don't like how the code snippets look on my blog. And it goes on my list things to fix.
-* Can't concentrate on learning b/c my son has a rather bad day today. It's been raining and the wind has been very strong so we haven't gone for a walk or he couldn't spend time in the garden. And he is angry about it. The other thing is that I didn't sleep well. I went to bed pretty early (about 11 pm) but couldn't fall asleep until half past 2 am. I'm dreaming about remote job, but I'm not sure if it's something for me, as when I don't go "physically" to work, I can't sleep at night. 
+* Can't concentrate on learning b/c my son has a rather bad day today. It's been raining and the wind has been very strong so we haven't gone for a walk or he couldn't spend time in the garden. And he is angry about it. The other thing is that I didn't sleep well. I went to bed pretty early (about 11 pm) but couldn't fall asleep until half past 2 am. I'm dreaming about remote job, but I'm not sure if it's something for me, as when I don't go "physically" to work, I can't sleep at night.
 
 **Link to work:**
 * http://makneta.herokuapp.com/post/first-views-in-my-django-blog-project/
