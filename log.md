@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 62 July 4, 2019
+
+**Plans for Today:**
+1. Continue CSS Grid course
+2. Finish chapter 7 of TDD
+3. Start writing about using layout theme in Django.
+4. Django REST app,  but only after doing a bit of the first 3.
+
+**Today's Progress:**
+1. Finished part 20 of CSS GRID course by Wes Bos. We were building a photo gallery using grid-auto-flow: dense; to display different size pictures one next to another.
+2. Django REST api - started reading about connecting postgresql to the app. E
+
+**Thoughts:**
+1. CSS course is great. But the only thing I changed was the background and adding grid-gap between pictures.
+2. Every time I want to use postgres in my app I need to learn from the beginning. This time I have to take solid notes.
+
+**Link to work:**
+![](Screenshot2019-07-04.png)
+
+**Plans for tomorrow:**
+1. Continue CSS Grid from part 21 Flexbox vs CSS Grid
+2. TDD - 7
+3. Blog post.
+
+**Resources:**
+* https://courses.wesbos.com/account/access/5adf4e6942c2397eec31fe51/view/249564244
+*  TDD http://www.obeythetestinggoat.com/book/chapter_working_incrementally.html#_each_list_should_have_its_own_url
+
 ### Day 61: July 3 , 2019
 
 **Plans for Today:**
