@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 63: July 5, 2019
+
+**Plans for Today:**
+1. Continue CSS Grid from part 21 Flexbox vs CSS Grid
+2. TDD - 7
+3. Blog post.
+4. Frontend masters course
+5. Django REST
+
+**Today's Progress:**
+1. Watched only one part of CSS Grid course.
+2. Still in chapter 7 of TDD in Python but found mistake I made last time.
+3. -
+4. Started FM - watched more than 1 hour of Complete Intro to Web Development
+5. Added Postgresql into the project.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. TDD http://www.obeythetestinggoat.com/book/chapter_working_incrementally.html#_one_more_view_to_handle_adding_items_to_an_existing_list
+2. CSS Grid part 22
+3. Blog post.
+4. Django REST
+
+**Resources:**
+* https://frontendmasters.com/courses/web-development-v2/
+* https://wsvincent.com/django-rest-framework-user-authentication-tutorial/
+
 ### Day 62 July 4, 2019
 
 **Plans for Today:**
