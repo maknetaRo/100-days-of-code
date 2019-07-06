@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log Round 4
 
-### Day 64: June , 2019
+### Day 64: July 6, 2019
 
 **Plans for Today:**
 1. TDD - finish chapter 7 and watch some videos to finish part One.
