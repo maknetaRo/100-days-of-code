@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 64: June , 2019
+
+**Plans for Today:**
+1. TDD - finish chapter 7 and watch some videos to finish part One.
+2. CSS Grid part 22 or more.
+3. Start writing a blog post.
+4. Django REST - custom user model.
+
+**Today's Progress:**
+1. Finished chapter 7 (book, but can't make myself to watch videos.)
+2. Finished part 22 and 23 of CSS GRID course.
+3. Added CustomUser model. Could do it more quickly  but wanted to write tests first.
+4. Started writing the post. Wrote almost 2 pages.
+
+**Thoughts:**
+I don't get much out of TDD in Python. It is still very confusing. But I'm trying to use what I've learnt in another projects. Practice is the only way to make me understand it better.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Finish the CSS GRID course.
+2. Finish the blog post.
+3. Work on Django REST User Authentication writing tests first.
+
+**Resources:**
+* chapter 8: http://www.obeythetestinggoat.com/book/chapter_prettification.html
+* watch https://learning.oreilly.com/videos/test-driven-development/9781491919163/9781491919163-video192339
+
 ### Day 63: July 5, 2019
 
 **Plans for Today:**
