@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 65: July 7 , 2019
+
+**Plans for Today:**
+1. Finish the CSS GRID course.
+2. Finish the blog post.
+3. Work on Django REST User Authentication writing tests first.
+
+**Today's Progress:**
+1. Finished CSS Grid course.
+2. Worked on Django REST User Authentication but without test.
+3. Finished the first draft of the post.
+
+**Thoughts:**
+1. I learnt a lot during CSS Grid course. Now it's time to use the knowledge and build a page or two on my own.
+2. Writing tech posts is slow and difficult. I couldn't decide what tense should I use. And I keep repeating the same words, even sentences over and over again. The other thing is I don't know how much code should I write in articles. Should I write all the html code? Even if I only copy and paste it from another file?
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Start creating main page of photo gallery in HTML and CSS.
+2. Chapter 8 of TDD in Python
+3. Write summery of the last week and set goals for the new week on my blog.
+4. Work more on blog post about adjusting free website template to my Django blog. 
+
+**Resources:**
+
+
 ### Day 64: July 6, 2019
 
 **Plans for Today:**
@@ -2176,7 +2203,7 @@ https://www.youtube.com/watch?v=MjwWzBiAMck
 https://www.youtube.com/watch?v=b43JIn-OGZU
 
 <!-- ##Template
-### Day 0: June , 2019
+### Day 0: July , 2019
 
 **Plans for Today:**
 
