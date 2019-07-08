@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 66: July 8, 2019
+
+**Plans for Today:**
+1. Start creating main page of photo gallery in HTML and CSS.
+2. Chapter 8 of TDD in Python
+3. Write summery of the last week and set goals for the new week on my blog.
+4. Work more on blog post about adjusting free website template to my Django blog.
+
+**Today's Progress:**
+1. Wrote some basic html code and started building the layout with CSS GRID.
+2. Read most of the chapter 8.
+
+**Thoughts:**
+1. And now I get to remember, I don't like CSS because I always have problems that something doesn't work and I don't know why. And this time the Grid works as I wanted (almost) on firefox but it doesn't work on Chrome at all.
+
+**Link to work:**
+1. https://github.com/maknetaRo/my-templates/tree/master/templates-for-photo-gallery
+2. http://makneta.herokuapp.com/post/my-summer-of-code-week-3/
+
+**Plans for tomorrow:**
+* I'm taking day off.
+- But the next day:
+1. Find and solve the issue with my CSS Grid layout
+2. Finish chapter 8 of TDD
+3. Finish blog post
+4. Work on Django REST project - need to remove parts of the code and correct the Custom User model. 
+
+**Resources:**
+1. To finish chapter 8: http://www.obeythetestinggoat.com/book/chapter_prettification.html#_using_our_own_css
+
 ### Day 65: July 7 , 2019
 
 **Plans for Today:**
@@ -22,7 +52,7 @@
 1. Start creating main page of photo gallery in HTML and CSS.
 2. Chapter 8 of TDD in Python
 3. Write summery of the last week and set goals for the new week on my blog.
-4. Work more on blog post about adjusting free website template to my Django blog. 
+4. Work more on blog post about adjusting free website template to my Django blog.
 
 **Resources:**
 
