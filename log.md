@@ -22,11 +22,14 @@
 
 **Plans for tomorrow:**
 1. Finish blog post
-2. Add fonts and shadows and a bit of color to the main page of PG
+2. Add fonts and shadows and a bit of color to the main page of PG, add drop-down menu,  work on media query,  create hamburger menu for smaller devices.
 3. Start creating detail view template (for each gallery)
 4. Read / watch about (UI) design for developers.
 
 **Resources:**
+* Drop-down menu: https://www.w3schools.com/howto/howto_css_dropdown.asp
+* UX Process Simplified: https://www.skillshare.com/classes/UX-Process-Simplified-From-User-Research-to-Usability-Testing/1101776743?teacherRef=1830675&via=teacher-referral&utm_campaign=teacher-referral&utm_source=ShortUrl&utm_medium=teacher-referral
+
 
 ### Day 66: July 8, 2019
 
