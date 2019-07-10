@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 67: July 10, 2019
+
+**Plans for Today:**
+1. Django REST project
+2. Work on photo gallery
+3. Finish blog post
+4. Finish chapter 8 of TDD in Python
+
+**Today's Progress:**
+1. Django REST project - I needed to stash all my local changes to change the branch to master. I saw the power of git for the first time. All the changes, I had made, vanished without me diligently deleting them one by one.
+2. Worked on CSS layout, fixed the problem with different output in firefox and chrome. Aligned all photos to the right.
+![photo gallery](./images/2019-07-10.png)
+3. Finished chapter 8 of TDD in Python.
+
+**Thoughts:**
+1. I'd like to learn creating really modern looking templates in HTML and CSS.
+
+**Link to work:**
+* https://github.com/maknetaRo/my-templates/tree/master/templates-for-photo-gallery
+
+**Plans for tomorrow:**
+1. Finish blog post
+2. Add fonts and shadows and a bit of color to the main page of PG
+3. Start creating detail view template (for each gallery)
+4. Read / watch about (UI) design for developers.
+
+**Resources:**
+
 ### Day 66: July 8, 2019
 
 **Plans for Today:**
@@ -11,6 +39,7 @@
 **Today's Progress:**
 1. Wrote some basic html code and started building the layout with CSS GRID.
 2. Read most of the chapter 8.
+
 
 **Thoughts:**
 1. And now I get to remember, I don't like CSS because I always have problems that something doesn't work and I don't know why. And this time the Grid works as I wanted (almost) on firefox but it doesn't work on Chrome at all.
@@ -25,7 +54,7 @@
 1. Find and solve the issue with my CSS Grid layout
 2. Finish chapter 8 of TDD
 3. Finish blog post
-4. Work on Django REST project - need to remove parts of the code and correct the Custom User model. 
+4. Work on Django REST project - need to remove parts of the code and correct the Custom User model.
 
 **Resources:**
 1. To finish chapter 8: http://www.obeythetestinggoat.com/book/chapter_prettification.html#_using_our_own_css
