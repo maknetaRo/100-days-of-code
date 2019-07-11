@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 68: July 11, 2019
+
+**Plans for Today:**
+1. Finish blog post
+2. Add fonts and shadows and a bit of color to the main page of PG, add drop-down menu,  work on media query,  create hamburger menu for smaller devices.
+3. Start creating detail view template (for each gallery)
+4. Read / watch about (UI) design for developers.
+
+**Today's Progress:**
+1. I couldn't finish the blog post because I had overwritten it with another post blog. Stupid me! So I started writing it once again, but I wrote only a few sentences so far.
+2. I decided not to build drop down menu as I don't think I need it. Created my first hamburger menu, but need to work on its position.
+3. Didn't work on this.
+4. Instead of reading or watching about UI design for developers I took a course by Aga Naplocha called "Boost Personal Branding by Coding Your Own Website (HTML & CSS Basics)". It was a great refresher and design was absolute gorgeous, so I hope it can be 2 in 1.
+5. Not planned, but did 2 kata with tests first.
+
+**Thoughts:**
+* I might even like creating layouts and websites using html and css.
+
+**Link to work:**
+I want to move nav bar from left side to the right top when the screen gets smaller.
+![photo gallery with hamburger menu](./images/imageedit_5.png)
+
+**Plans for tomorrow:**
+1. Work on hamburger menu
+2. Django REST project - continue: docs, dockerfile, login endpoint
+3. Blog post recreate.
+4. Design Rules - course on skillshare
+
+**Resources:**
+* https://www.skillshare.com/classes/DESIGN-RULES-Fundamental-Principles-Practices-for-Great-UI-Design/739408485?via=browse-rating-ui-ux-design
+* how to make hamburger menu using only css: https://code-boxx.com/simple-responsive-pure-css-hamburger-menu/
+
 ### Day 67: July 10, 2019
 
 **Plans for Today:**
@@ -28,8 +60,7 @@
 
 **Resources:**
 * Drop-down menu: https://www.w3schools.com/howto/howto_css_dropdown.asp
-* UX Process Simplified: https://www.skillshare.com/classes/UX-Process-Simplified-From-User-Research-to-Usability-Testing/1101776743?teacherRef=1830675&via=teacher-referral&utm_campaign=teacher-referral&utm_source=ShortUrl&utm_medium=teacher-referral
-
+* Visula Design for Web UI Designers & Developers https://www.skillshare.com/classes/Visual-Design-for-Web-UI-Designers-Developers-%E2%86%92-Getting-Better-at-Design/734157389/classroom/discussions
 
 ### Day 66: July 8, 2019
 
