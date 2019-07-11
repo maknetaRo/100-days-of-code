@@ -31,6 +31,7 @@ I want to move nav bar from left side to the right top when the screen gets smal
 **Resources:**
 * https://www.skillshare.com/classes/DESIGN-RULES-Fundamental-Principles-Practices-for-Great-UI-Design/739408485?via=browse-rating-ui-ux-design
 * how to make hamburger menu using only css: https://code-boxx.com/simple-responsive-pure-css-hamburger-menu/
+* Aga Naplocha course: https://www.skillshare.com/classes/Boost-Personal-Branding-by-Coding-Your-Own-Website-HTML-CSS-Basics/1551945410/projects
 
 ### Day 67: July 10, 2019
 
