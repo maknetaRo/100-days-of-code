@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 69: July 12, 2019
+
+**Plans for Today:**
+1. Work on hamburger menu
+2. Django REST project - continue: docs, dockerfile, login endpoint
+3. Recreate blog post
+4. Design Rules - course on skillshare
+
+**Today's Progress:**
+1. Tried to work on hamburger menu and watched another great Youtube tutorial:
+https://www.youtube.com/watch?v=sjrp1FEHnyA
+2. Django REST - I added only a few libraries and 2 lines of code to add documentation
+3. No
+4. Watched 2 parts.
+
+**Thoughts:**
+My jaw dropped down and I couldn't find it on the floor because I liked the effect of hamburger menu created with only CSS so much. I'm going to add this tomorrow to my photo gallery.
+
+**Link to work:**
+1. Add hamburger menu to photo gallery
+2. Recreate blog post!!!
+
+**Plans for tomorrow:**
+
+**Resources:**
+Links for tomorrow
+* https://codepen.io/lassediercks/pen/VMqMBm - square grid
+* https://spin.atomicobject.com/2015/07/14/css-responsive-square/ - responsive square
+* https://learn.shayhowe.com/advanced-html-css/responsive-web-design/ - responsive web design
+
 ### Day 68: July 11, 2019
 
 **Plans for Today:**
