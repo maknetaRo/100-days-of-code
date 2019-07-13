@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 70: July 13, 2019
+
+**Plans for Today:**
+1. Add hamburger menu to photo gallery, make sure that the page looks good on mobiles
+
+**Today's Progress:**
+1. Hamburger menu is added but I'm not satisfied with grid
+
+**Thoughts:**
+1. Need to learn CSS more. I want to have images as a perfect square no matter what is their real shape.
+2. But I am also a bit tired of perfecting the layout so tomorrow I'm starting building the backend part.
+
+**Link to work:**
+* https://github.com/maknetaRo/my-templates
+
+**Plans for tomorrow:**
+1. Photo Gallery backend.
+2. Advanced CSS and Sass course 
+
+**Resources:**
+
+
 ### Day 69: July 12, 2019
 
 **Plans for Today:**
