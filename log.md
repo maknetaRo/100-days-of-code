@@ -13,11 +13,11 @@
 2. But I am also a bit tired of perfecting the layout so tomorrow I'm starting building the backend part.
 
 **Link to work:**
-* https://github.com/maknetaRo/my-templates
+* https://github.com/maknetaRo/my-templates/tree/master/templates-for-photo-gallery
 
 **Plans for tomorrow:**
 1. Photo Gallery backend.
-2. Advanced CSS and Sass course 
+2. Advanced CSS and Sass course
 
 **Resources:**
 
