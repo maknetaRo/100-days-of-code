@@ -1,5 +1,59 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 72: July 15, 2019
+
+**Plans for Today:**
+1. Start backend part of photo gallery.
+2. More TDD with udemy course or chapter 9 of Obey the Testing Goat
+3. Simple about page in html and css
+4. CSS & Sass course - continue
+5. Kata
+
+**Today's Progress:**
+1. One Kata with test as a warm-up
+2. Read a bit of TDD with Python
+3. Created a simple website using CSS GRID
+
+**Thoughts:**
+
+
+**Link to work:**
+1.
+* https://github.com/maknetaRo/python-katas-with-test/blob/master/set_alarm.py
+* https://github.com/maknetaRo/python-katas-with-test/blob/master/test_set_alarm.py
+3. https://github.com/maknetaRo/projects-makneta
+
+**Plans for tomorrow:**
+1. Start backend of photo gallery
+2. continue css and sass course 
+
+**Resources:**
+
+### Day 71: July 14, 2019
+
+**Plans for Today:**
+1. Review chap 1-8 of TDD in Python.
+2. Plan features of photo gallery app
+3. Continue Advanced CSS & Sass course
+
+**Today's Progress and Thoughts:**
+1. Wrote down what features should have the photo gallery app.
+2. Tried to review TDD chapters 1-8 but managed only to went through 3 first chapter and decided that it is pointless. I find it difficult to use this approach, especially that I started wondering how I can implement it in my photo gallery project.
+3. Didn't do any bit of  CSS & Sass course.
+* It was a bit lazy day.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Start backend part of photo gallery.
+2. More TDD with udemy course or chapter 9 of Obey the Testing Goat
+3. Simple about page in html and css
+4. CSS & Sass course - continue
+5. Kata
+
+
+**Resources:**
+
 ### Day 70: July 13, 2019
 
 **Plans for Today:**
