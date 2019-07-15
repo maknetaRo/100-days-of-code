@@ -14,6 +14,8 @@
 2. Read a bit of TDD with Python
 3. Created a simple website using CSS GRID
 
+![my new simple website](./images/projects-makneta1.png)
+
 **Thoughts:**
 
 
@@ -25,7 +27,7 @@
 
 **Plans for tomorrow:**
 1. Start backend of photo gallery
-2. continue css and sass course 
+2. continue css and sass course
 
 **Resources:**
 
