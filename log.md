@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 73: July , 2019
+
+**Plans for Today:**
+1. 1 hour of Python (kata or something else)
+2. Start backend of photo gallery
+3. Follow CSS course
+4. Meditate
+
+**Today's Progress:**
+1. Meditated
+2. 1 hour of Python - tried to create Conway's Game of Life
+3. Started the Photo Gallery backend, created only simple views to see if my html & css work.
+4. Finished lecture 8 of Advanced CSS and Sass course
+
+**Thoughts:**
+1. It seems I can't read much about being developer, need to avoid facebook and even twitter or dev.to because whenever I start thinking about dev job I start feeling knocked down by the level of stress and anxiety. I'm afraid that I will never be ready for the job.
+Really need to work on it.
+2. Spent sometime reading a Django for beginners. It was an excellent revision and I'm going to continue reading and coding along even though most things from this book I've already done.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Meditate, scripting
+2. Continue reading Django for Beginners
+3. Django models: photo, album, category in PG
+4. Continue CSS and Sass course
+5. Python 1 hour 
+
+**Resources:**
+
 ### Day 72: July 15, 2019
 
 **Plans for Today:**
