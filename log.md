@@ -1,12 +1,52 @@
 # 100 Days Of Code - Log Round 4
 
-### Day 73: July , 2019
+### Day 74: July 17, 2019
+
+**Plans for Today:**
+1. Meditate 2
+2. Django for beginners
+3. Django models in PG - photo, album, category with tests(?)
+4. Continue CSS and Sass course
+5. Python 1 hour
+
+**Today's Progress:**
+1. Meditated
+2. Created python site generator using this tutorial: https://dev.to/nqcm/making-a-static-site-generator-with-python-part-2-4al and I think it's awesome.
+3. Read one chapter of the book and added simple tests to my own blog app based on tests from this book.
+4. Started creating Photo model.
+
+**Thoughts:**
+I want my photo gallery to have categories and subcategories. On the front page I want to display albums of one category for example concerts. Each photo displayed on the front page would be a cover photo to an album. When user hovers photos pop up a bit, but when user clicks the photo it goes to an album page. There should be a title of an album. The photos should like like on the front page but when a user click the photo the bigger photo shows up with a caption (title or description) and the photo is a part of a slider.
+There should be also links to other albums from the same subcategory. But I'm not sure about it. I may also add a Table of Content - albums by categories and subcategories.
+And I'm not sure if I can create slider using only CSS.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Meditate  
+2. Read more Django for beginners
+3. Create Album and Category models, add views and urls
+4. CSS & Sass course.
+
+**Resources:**
+Different link that can be useful or loosely connected with using photos in Django. 
+* http://starcross.eu/blog/4/using-images-in-django/
+* https://codefellows.github.io/sea-python-401d7/assignments/django_3_photo_models.html
+* https://code.google.com/archive/p/django-photologue/
+* https://github.com/matthewwithanm/django-imagekit
+* https://docs.djangoproject.com/en/2.2/topics/forms/modelforms/#model-formsets
+* https://cloudinary.com/documentation/django_image_manipulation
+* https://books.agiliq.com/projects/django-admin-cookbook/en/latest/imagefield.html
+* https://www.calazan.com/adding-drag-and-drop-image-uploads-to-your-django-site-in-5-minutes-with-dropzonejs/
+* https://stackoverflow.com/questions/34006994/how-to-upload-multiple-images-to-a-blog-post-in-django
+
+### Day 73: July 16, 2019
 
 **Plans for Today:**
 1. 1 hour of Python (kata or something else)
 2. Start backend of photo gallery
 3. Follow CSS course
-4. Meditate
+4. Meditate 1
 
 **Today's Progress:**
 1. Meditated
@@ -26,7 +66,7 @@ Really need to work on it.
 2. Continue reading Django for Beginners
 3. Django models: photo, album, category in PG
 4. Continue CSS and Sass course
-5. Python 1 hour 
+5. Python 1 hour
 
 **Resources:**
 
