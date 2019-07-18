@@ -17,6 +17,7 @@
 4. 2 or 3 simple kata.
 
 **Thoughts:**
+My questions to rethink: what kind of generic view should I use to display photos in each album, what should I do to add all photos to an album at once not one by one. 
 
 **Link to work:**
 
