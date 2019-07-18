@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 75: July 18, 2019
+
+**Plans for Today:**
+1. Meditation, yoga.  
+2. Read more Django for beginners
+3. Create Album and Category models, add views and urls
+4. CSS & Sass course.
+5. Start SVG.
+6. Python kata on codewars.
+
+**Today's Progress:**
+1. One session of meditation and one walk - done
+2. Created Album model and url and view, but the view doesn't work.  I need to think what kind of generic view should I use to display all photos in an album.
+3. One hour of CSS & Sass course  - done.
+4. 2 or 3 simple kata.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Meditate, yoga/
+2. Django for Beginners
+3. Django Database Essentials course
+4. CSS and Sass course
+5. Work on Photo Gallery project
+
+**Resources:**
+* https://stackoverflow.com/questions/16290559/django-manytomany-with-ability-to-order-and-to-add-remove-relationships
+Because I have problems with relationships in Django I should take this Database Essentials course:
+* https://courses.prettyprinted.com/courses/enrolled/303769
+
 ### Day 74: July 17, 2019
 
 **Plans for Today:**
@@ -29,7 +61,9 @@ And I'm not sure if I can create slider using only CSS.
 4. CSS & Sass course.
 
 **Resources:**
-Different link that can be useful or loosely connected with using photos in Django. 
+Calendar using CSS Grid:
+* https://www.freecodecamp.org/news/how-to-build-a-calendar-with-css-grid/
+Different link that can be useful or loosely connected with using photos in Django.
 * http://starcross.eu/blog/4/using-images-in-django/
 * https://codefellows.github.io/sea-python-401d7/assignments/django_3_photo_models.html
 * https://code.google.com/archive/p/django-photologue/
