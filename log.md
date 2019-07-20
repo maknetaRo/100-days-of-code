@@ -1,5 +1,46 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 77: July , 2019
+
+**Plans for Today:**
+1. Django for Beginners continue
+
+**Today's Progress:**
+1. Was reviewing CRUD in Django and using User Authentication.
+
+**Thoughts:**
+* I'm thinking about recreating my old Django project. I would like to try writing tests first (at least some of them). It is a simple CRUD application.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Give it a try and use Lektor (instead of Django) to create photo gallery website for my husband
+2. Continue Django for Beginners
+3. Create at least 1 animation using SVG from Aga Naplocha course.
+
+**Resources:**
+
+
+### Day 76: July 19, 2019
+
+**Plans for Today:**
+1. Meditation, yoga, walk or bike
+2. Experiment a bit with Lektor site generator.
+3. Get to know a bit what is SVG
+
+**Today's Progress:**
+1. Tried Lektor a bit.
+2. Did 2 short tutorials about animating SVG
+
+**Thoughts:**
+I'm not sure if I want to use Lektor.
+Animating SVG is nice and working with SVG is worth more of my attention.
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
 ### Day 75: July 18, 2019
 
 **Plans for Today:**
@@ -17,7 +58,7 @@
 4. 2 or 3 simple kata.
 
 **Thoughts:**
-My questions to rethink: what kind of generic view should I use to display photos in each album, what should I do to add all photos to an album at once not one by one. 
+My questions to rethink: what kind of generic view should I use to display photos in each album, what should I do to add all photos to an album at once not one by one.
 
 **Link to work:**
 
