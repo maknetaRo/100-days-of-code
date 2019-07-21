@@ -1,6 +1,49 @@
 # 100 Days Of Code - Log Round 4
 
-### Day 77: July , 2019
+### Day 78: July 21, 2019
+
+**Plans for Today:**
+1. Give it a try and use Lektor (instead of Django) to create photo gallery website for my husband
+2. Continue Django for Beginners
+3. Create at least 1 animation using SVG from Aga Naplocha course.
+
+**Today's Progress:**
+1. Django for Beginners - refreshing knowledge about creating registration forms.
+2. Spent sometime creating animations in CSS but didn't like the effect.
+3. Learn more about Lektor.
+
+**Thoughts:**
+Yesterday I was a bit disappointed with Lektor. Or rather with myself. I started reading and didn't understand everything at once. But I know that I learn the best while writing code and checking. So today I started reading, writing and checking once again. Not much, only a bit. At the beginning of my learning process I was told: "It's not a bomb, if you mess up with your code, it won't explode." So I think it is the best approach. Try, write code, check, experiment. I like coding, but I haven't been playing with it almost at all. Time to change the approach. Time to be more brave while programming and stop being depressed when something doesn't click for the first time. Or for the second, third or hundredth.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Django API - create users endpoints
+2. Django for beginners continue
+3. More with Lektor.
+
+**Resources:**
+Posts about Lektor, some of them are only informative and some may be useful. 
+* http://lucumr.pocoo.org/2015/12/21/introducing-lektor/
+* https://www.liip.ch/en/blog/lektor-static-cms-put-fun-back-content-management
+* https://www.davidbaumgold.com/blog/2016/05/learning-lektor/
+* https://medium.com/aerobatic-blog/how-to-deploy-a-lektor-static-site-a6b83a062d75
+* https://2016.ploneconf.org/talks/static-websites-with-lektor.html
+* https://animesh.blog/building-a-static-blog-with-lektor/
+* https://www.futurehosting.com/blog/lektor-is-a-static-site-generator-that-can-be-used-by-non-developers/
+* https://humberto.io/en/blog/static-websites-with-lektor/
+* https://archive.org/details/ploneconf-2016-static-sites-lektor/page/n9
+* https://wsvincent.com/the-next-wordpress/
+* https://wsvincent.com/what-is-a-static-site-generator/
+* https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/
+* http://ihorsakivskyi.com/blog/how-to-start-with-lektor-cms/
+* https://www.jurgengeitner.com/blog/lektor-bulma-markdown-and-netlify/
+* https://terminallabs.com/blog/lektor-tutorial/
+* https://github.com/GeneKao/geneatcg
+* http://spenczar.com/posts/2015/Dec/24/lektor-publisher-plugin/
+
+
+### Day 77: July 20, 2019
 
 **Plans for Today:**
 1. Django for Beginners continue
