@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 79: July 22, 2019
+
+**Plans for Today:**
+1. Django REST users endpoints
+2. Django for Beginners - continue
+3. More experiments with Lektor
+
+**Today's Progress:**
+1. Read and code along chapter 12 and 13 of Django for beginners
+2. Followed along one tutorial on Django REST framework. It wasn't about adding users endpoint but a very basic tutorial.
+3. No time for Lektor.  
+4. Wrote a blog post about the last two weeks and my short  term goals for the next week.
+
+**Thoughts:**
+It's a long way for me to understand Django REST framework. Unfortunately I don't understand the magic behind this. Need to read a few articles, tutorials, watch a few videos and maybe I would know what I'm trying to do.
+
+**Link to work:**
+http://makneta.herokuapp.com/post/summer-of-code-weeks-4-5/
+
+**Plans for tomorrow:**
+1. Write a blog post (1h)
+2. Python exercises 1(h)
+3. Django for Beginners chapters 14 and 15
+4. Read more DRF tutorials
+
+**Resources:**
+For further reading about DRF
+* https://www.django-rest-framework.org/topics/tutorials-and-resources/
+* https://www.django-rest-framework.org/community/tutorials-and-resources/
+* https://www.youtube.com/watch?v=tzlT__hx6sk&list=PLbpAWbHbi5rMV3H0S5IDK3cSRC1Jas3VP
+
+
 ### Day 78: July 21, 2019
 
 **Plans for Today:**
@@ -23,7 +55,7 @@ Yesterday I was a bit disappointed with Lektor. Or rather with myself. I started
 3. More with Lektor.
 
 **Resources:**
-Posts about Lektor, some of them are only informative and some may be useful. 
+Posts about Lektor, some of them are only informative and some may be useful.
 * http://lucumr.pocoo.org/2015/12/21/introducing-lektor/
 * https://www.liip.ch/en/blog/lektor-static-cms-put-fun-back-content-management
 * https://www.davidbaumgold.com/blog/2016/05/learning-lektor/
