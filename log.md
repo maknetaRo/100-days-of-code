@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 80: July 23, 2019
+
+**Plans for Today:**
+1. Write a blog post (1h)
+2. Python exercises 1(h)
+3. Django for Beginners chapters 14 and 15
+4. Read more DRF tutorials
+5. Lektor
+
+**Today's Progress:**
+1. 58 lines of blog post
+2. 1 hour of Learn Python 3 the Hard Way
+3. Finished the Django for Beginners book.
+4. Read about Django REST trying to understand the bases. Started a new Udemy course:
+The complete Guide to Django REST Framework and Vue JS.
+5. No time for Lektor but instead I have a stand desk.
+
+
+**Thoughts:**
+1. I like that I put writing blog on my schedule and now I need to stick to it.
+2. I know that LPHW is a book for beginners but before I move further I want to sort everything I know in my head. I think I miss some patterns and hope to find them in this book and the second part of the book, too.
+3. Reading Django for Beginners was a very good way to review and sort the bases of Django. Now I'm ready to rewrite My_Books app.
+4. I'm really happy I have a stand desk. My husband made me it using different materials mainly found in our basement. 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+* https://www.udemy.com/share/101fx8AkQfdFpVTHg=/
+
 ### Day 79: July 22, 2019
 
 **Plans for Today:**
