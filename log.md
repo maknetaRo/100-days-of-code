@@ -22,11 +22,15 @@ The complete Guide to Django REST Framework and Vue JS.
 1. I like that I put writing blog on my schedule and now I need to stick to it.
 2. I know that LPHW is a book for beginners but before I move further I want to sort everything I know in my head. I think I miss some patterns and hope to find them in this book and the second part of the book, too.
 3. Reading Django for Beginners was a very good way to review and sort the bases of Django. Now I'm ready to rewrite My_Books app.
-4. I'm really happy I have a stand desk. My husband made me it using different materials mainly found in our basement. 
+4. I'm really happy I have a stand desk. My husband made me it using different materials mainly found in our basement.
 
 **Link to work:**
 
 **Plans for tomorrow:**
+1. One hour of writing tech post
+2. One hour of Python
+3. Lektor
+4. DRF project - create endpoints. 
 
 **Resources:**
 * https://www.udemy.com/share/101fx8AkQfdFpVTHg=/
