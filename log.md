@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 81: July 24, 2019
+
+**Plans for Today:**
+1. One hour of writing tech post
+2. One hour of Python
+3. Lektor docs
+4. DRF project - create endpoints.
+
+**Today's Progress:**
+1. writing a tech post - done
+2. an hour of Python - done
+3. Lektor docs - read and tried but not satisfied
+4. DRF project - login/logout endpoint created
+
+**Thoughts:**
+1. Writing a blog post was a pleasure. I hope to finish it tomorrow, need to add a sentence or two and edit.
+2. I'm not sure if Lektor is good for my photo gallery project. Or one more time I don't know Python enough to adjust it to my needs.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. One hour of writing tech post
+2. One hour of Python
+3. Lektor docs
+4. DRF project - create endpoints.
+
+**Resources:**
+
 ### Day 80: July 23, 2019
 
 **Plans for Today:**
@@ -30,7 +58,7 @@ The complete Guide to Django REST Framework and Vue JS.
 1. One hour of writing tech post
 2. One hour of Python
 3. Lektor
-4. DRF project - create endpoints. 
+4. DRF project - create endpoints.
 
 **Resources:**
 * https://www.udemy.com/share/101fx8AkQfdFpVTHg=/
