@@ -16,15 +16,15 @@
 
 **Thoughts:**
 1. Writing a blog post was a pleasure. I hope to finish it tomorrow, need to add a sentence or two and edit.
-2. I'm not sure if Lektor is good for my photo gallery project. Or one more time I don't know Python enough to adjust it to my needs.
+2. I'm not sure if Lektor is good for my photo gallery project. Or one more time I don't know Python enough to adjust it to my needs.I think I put this project on hold until I figure out what I really want to do with it.
 
 **Link to work:**
 
 **Plans for tomorrow:**
 1. One hour of writing tech post
 2. One hour of Python
-3. Lektor docs
-4. DRF project - create endpoints.
+3. Start rewriting my old project trying to use TDD approach.
+4. DRF project - create registration and start creating user endpoints.
 
 **Resources:**
 
