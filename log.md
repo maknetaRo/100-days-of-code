@@ -1,9 +1,38 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 82: July 25, 2019
+
+**Plans for Today:**
+1. One hour of writing tech post - finish and publish the post.
+2. One hour of Python
+3. Start rewriting my old project trying to use TDD approach.
+4. DRF project - create registration and start creating user endpoints.
+
+**Today's Progress:**
+1. Almost finished writing a tech post,
+2. Learn Python 3 the Hard Way - one hour
+3. Started rewriting #Django app about books, added CustomUser and tests.
+4. Tried to add registration but got a bug I couldn't figure out. More tomorrow.
+
+**Thoughts:**
+* I've started learning Python about a year and half ago and has been using different resources but I regret not using Learn Python the Hard Way earlier. I think that this book teaches not only Python but programming. Most of the courses teach syntax, this book teaches programming thinking.
+* Rewriting Django mybooks app. It's difficult to create tests first. Of course I have to use Obey the Testing Goat and tests from Python for Beginners. I also want to add some new feature as I've learnt some cool things since I did this project.
+
+**Link to work:**
+Mybooks app: https://github.com/maknetaRo/books-app
+
+**Plans for tomorrow:**
+1. One hour of writing tech post
+2. One hour of Python
+3. Django books app - add signup form, login/logout, change/reset the password. Try to use tests first when it is possible and needed.
+4. Resolve problem in DRF project, add registration through social media.
+
+**Resources:**
+
 ### Day 81: July 24, 2019
 
 **Plans for Today:**
-1. One hour of writing tech post
+1. One hour of writing tech post  
 2. One hour of Python
 3. Lektor docs
 4. DRF project - create endpoints.
