@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 83: July 26, 2019
+
+**Plans for Today:**
+1. One hour of writing tech post
+2. One hour of Python
+3. Django books app - add signup form, login/logout, change/reset the password. Try to use tests first when it is possible and needed.
+4. Resolve problem in DRF project, add registration through social media.
+
+**Today's Progress:**
+1. Published the tech post. I wasn't almost writing but adding the post online for one and half an hour.
+2. LPTHW - 1 hour, great fun.
+3. Was working on adding login/logout and registration to Django books app but something messed up. In the original app I was using functions and now I want to use only classes if it is possible. So I have to write this part almost from the beginning. I wrote tests first. I'm not sure if I should tests so many things at once.
+
+**Thoughts:**
+Feel tired. It's my third day of working in front of stand desk. And even though I've got a high chair (it's not too comfortable) I feel tired faster than usually. I might go and read django-rest-auth or watch some videos about DRF lying down.
+
+**Link to work:**
+* My blog post:
+http://makneta.herokuapp.com/post/how-i-adjusted-ready-to-use-layout-in-my-django-blog-part1/
+* Books app repo: https://github.com/maknetaRo/books-app
+
+**Plans for tomorrow:**
+1. One hour of writing tech post - active links in Django
+2. One hour of Python
+3. Django books app - check carefully why login/logout doesn't work
+4. Resolve problem in DRF project, add registration through social media.
+
+**Resources:**
+Django for Beginners, Learn Python 3 the Hard Way
+
 ### Day 82: July 25, 2019
 
 **Plans for Today:**
@@ -28,6 +58,7 @@ Mybooks app: https://github.com/maknetaRo/books-app
 4. Resolve problem in DRF project, add registration through social media.
 
 **Resources:**
+Django for Beginners, Learn Python 3 the Hard Way
 
 ### Day 81: July 24, 2019
 
