@@ -1,5 +1,44 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 84: July 27, 2019
+
+**Plans for Today:**
+1. Start new tech post -1h
+2. Python -1h
+3. Django books app - check carefully why login/logout doesn't work
+4. Resolve problem in DRF project, add registration through social media.
+5. JavaScript -1h
+
+**Today's Progress:**
+1. Started Learn JavaScript on Youtube
+2. Wrote a short tech post - first draft
+3. Python - 1h
+
+**Thoughts:**
+I can't postpone learning JavaScript any longer. I found a great position for a Django junior developer, but in the application form there were more JavaScript questions than Django :-( . So an easy conclusion is that I won't find a job in web development without JavaScript. I have known about it for a longer while. Now time to finish this childish behavior "I don't like JavaScript. JavaScript is weird. I don't want to learn it." No more.
+So far the youtube course (that is based on freeCodeCamp curriculum) is a repetition for me. But I hope to learn new things pretty soon.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. One hour of writing tech post
+2. One hour of Python
+3. Django books app - add signup form, login/logout, change/reset the password. Try to use tests first when it is possible and needed.
+4. Resolve problem in DRF project, add registration through social media.
+5. Learn JavaScritp on youtube continue
+
+**Resources:**
+* https://stackoverflow.com/questions/36698456/django-rest-auth-email-instead-of-username
+* https://github.com/Tivix/django-rest-auth/issues/53
+* https://medium.com/@katherinekimetto/simple-facebook-social-login-using-django-rest-framework-e2ac10266be1
+* https://stackoverflow.com/questions/36910373/django-rest-auth-allauth-registration-with-email-first-and-last-name-and-witho/44689509
+* https://stackoverflow.com/questions/28954508/django-rest-framework-and-python-social-auth-for-registration-login-user
+* https://stackoverflow.com/questions/17861846/plug-in-django-allauth-as-endpoint-in-django-rest-framework?rq=1
+* https://django-rest-auth.readthedocs.io/en/latest/api_endpoints.html
+* https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html
+* https://github.com/st4lk/django-rest-social-auth
+* https://www.toptal.com/django/integrate-oauth-2-into-django-drf-back-end
+
 ### Day 83: July 26, 2019
 
 **Plans for Today:**
@@ -15,6 +54,9 @@
 
 **Thoughts:**
 Feel tired. It's my third day of working in front of stand desk. And even though I've got a high chair (it's not too comfortable) I feel tired faster than usually. I might go and read django-rest-auth or watch some videos about DRF lying down.
+
+* how to remove cache files from git
+`git rm *.pyc`
 
 **Link to work:**
 * My blog post:
