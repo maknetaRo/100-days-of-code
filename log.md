@@ -1,5 +1,43 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 85: July 28, 2019
+
+**Plans for Today:**
+1. Write & publish tech post about links and adding the next html files.
+2. Resolve problem in DRF project, add registration through social media.
+3. Django books app - check carefully why login/logout doesn't work
+4. JavaScript (1h)
+5. Python (1h)
+
+**Today's Progress:**
+1. Wrote & published the post
+2. Fixed my problem with username. Started adding registration through facebook. Registrated on fb for developers.
+3. One hour of JavaScript - done
+
+
+**Thoughts:**
+
+**Link to work:**
+http://makneta.herokuapp.com/post/active-links-in-django-and-detail-post-template/
+
+**Plans for tomorrow:**
+1. Write blog summary of the last week
+2. Work with DRF - adding Facebook registration and login
+3. JavaScript (1h)
+4. Python (1h)
+
+**Resources:**
+1. Learn JavaScript - youtube: https://www.youtube.com/watch?v=PkZNo7MFNFg&t=3s
+2. Django for Beginners
+3. Learn Python 3 the Hard Way (ebook in my native language: Python 3 Proste wprowadzenie do fascynującego świata programowania)
+4. Django Rest Auth documentation: https://django-rest-auth.readthedocs.io/en/latest/index.html
+5. Django allauth docs: https://django-allauth.readthedocs.io/en/latest/
+
+**Useful links:**
+* https://medium.com/@gajeshbhat/django-allauth-setup-and-configuration-tutorial-63417bba339c
+* https://medium.com/@gajeshbhat/extending-and-customizing-django-allauth-eed206623a1a
+* https://medium.com/@gajeshbhat/django-allauth-social-login-tutorial-ad021c24d666
+
 ### Day 84: July 27, 2019
 
 **Plans for Today:**
@@ -38,6 +76,7 @@ So far the youtube course (that is based on freeCodeCamp curriculum) is a repeti
 * https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html
 * https://github.com/st4lk/django-rest-social-auth
 * https://www.toptal.com/django/integrate-oauth-2-into-django-drf-back-end
+* https://django-rest-auth.readthedocs.io/en/latest/faq.html?fbclid=IwAR2loJv9WWTrdjE33_CL9nh7XIAvODU7LssRSeFDyX2NKeBLjKu35-jV6OQ
 
 ### Day 83: July 26, 2019
 
