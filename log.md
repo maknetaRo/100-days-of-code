@@ -1,5 +1,48 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 86: July 29, 2019
+
+**Plans for Today:**
+1. Write blog summary of the last week
+2. JavaScript (1h)
+3. Python (1h)
+4. Work with DRF - adding Facebook registration and login
+
+**Today's Progress:**
+1. Blog post - done
+2. An hour of JavaScript - video and 3 or 4 tasks on freeCodeCamp
+3. Python - an hour
+4. Messing up with DRF. Tried to refactor code in such a way not to have username in endpoints, but failed. Definitely I don't know how to write tests to check registration , password reset and so on in DRF.
+
+**Thoughts:**
+I feel a bit smitten by Django REST. I can't understand how all things are joined, I can't see the bigger picture. And the tests are like a witchcraft.
+
+**Link to work:**
+* http://makneta.herokuapp.com/post/week-6-of-my-summer-of-code/
+
+**Plans for tomorrow:**
+1. Start writing about using Docker in my app
+2. Check why the registration endpoint doesn't want passwords while login endpoint still wants username. Try to write tests for this.
+3. 1h of JavaScript
+4. 1h of Python 
+
+**Resources:**
+* Learn Python 3 the Hard Way (polish version)
+* Learn JavaScript (Youtube: https://www.youtube.com/watch?v=PkZNo7MFNFg&t=3s )
+* freeCodeCamp Basic JavaScript
+
+**Useful links**:
+* https://www.agiliq.com/blog/2018/05/django-unit-testing/
+* https://django-rest-auth.readthedocs.io/en/latest/faq.html?fbclid=IwAR11jC-wZuEj4io8uL6HFI5D1q-UbDs6jidqt5nWr5dI5d0Rrcpz825MGLg
+* https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/part-one-authentication/
+* https://www.reddit.com/r/django/comments/46d0ju/djangorestframework_how_to_write_tests_to_check/
+* https://www.django-rest-framework.org/api-guide/testing/
+* https://hakibenita.com/django-rest-framework-slow
+* https://pytest-django-testing.readthedocs.io/pl/latest/index.html
+* https://aalvarez.me/posts/testing-django-and-drf-with-pytest/
+* https://semaphoreci.com/community/tutorials/writing-testing-and-deploying-a-django-api-to-heroku-with-semaphore
+
+
 ### Day 85: July 28, 2019
 
 **Plans for Today:**
@@ -22,9 +65,9 @@ http://makneta.herokuapp.com/post/active-links-in-django-and-detail-post-templat
 
 **Plans for tomorrow:**
 1. Write blog summary of the last week
-2. Work with DRF - adding Facebook registration and login
-3. JavaScript (1h)
-4. Python (1h)
+2. JavaScript (1h)
+3. Python (1h)
+4. Work with DRF - adding Facebook registration and login
 
 **Resources:**
 1. Learn JavaScript - youtube: https://www.youtube.com/watch?v=PkZNo7MFNFg&t=3s
