@@ -1,5 +1,41 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 87: July 30, 2019
+
+**Plans for Today:**
+1. tech post -1h
+2. registration, login, logout endpoints with tests in DRF project
+3. JS -1h
+4. Python - 1h
+
+**Today's Progress:**
+1. Started writing about using Postgreqsl in Django blog project
+2. Managed to overwrite register serializer and now I have registration endpoint without user name, but still can't do it the same with login endpoint.
+3. More than 1h of JavaScript
+4. 20 minutes of Python (LPTHW)
+
+**Thoughts:**
+* I haven't taken any course of DRF before, only tried a quickstart once so I'm feeling like a child in a fog. But after today I'm starting understand what serializers are and how I can change them (at least a bit). Now I need to learn what are adapters and how to write them.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. tech post
+2. javascript 1h
+3. python 1/2h - 1h
+4. DRF - login endpoint, tests, user 
+
+**Resources:**
+* Learn Python 3 the Hard Way (polish version)
+* Learn JavaScript (Youtube: https://www.youtube.com/watch?v=PkZNo7MFNFg&t=3s )
+* Django Rest Auth documentation: https://django-rest-auth.readthedocs.io/en/latest/index.html
+*  Django allauth docs: https://django-allauth.readthedocs.io/en/latest/
+
+
+**Useful links:**
+* https://github.com/Tivix/django-rest-auth/blob/master/rest_auth/serializers.py
+* https://thinkster.io/tutorials/django-json-api/authentication
+
 ### Day 86: July 29, 2019
 
 **Plans for Today:**
@@ -24,7 +60,7 @@ I feel a bit smitten by Django REST. I can't understand how all things are joine
 1. Start writing about using Docker in my app
 2. Check why the registration endpoint doesn't want passwords while login endpoint still wants username. Try to write tests for this.
 3. 1h of JavaScript
-4. 1h of Python 
+4. 1h of Python
 
 **Resources:**
 * Learn Python 3 the Hard Way (polish version)
