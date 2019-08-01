@@ -1,5 +1,68 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 89: August 1, 2019
+
+**Plans for Today:**
+1. tech post - first model and list view and detail view
+2. DRF tests, google and twitter login, user
+3. JavaScript 1h
+4. Python 1h (tests)
+
+**Today's Progress:**
+1. started writing about first migrations and post model
+2. DRF added google login
+3. JavaScript on freeCodeCamp - few tasks
+4. 1hour of Python learning about doctest and unittest libraries.
+
+**Thoughts:**
+* I have to spend more time on learning how to write tests, so I'm going to stop reading LPTHW for a while and start learning Python Unit Test from the very beginning.
+* Not my day today. I've been feeling blue because I am still not able to create tests in DRF and I'm not sure if my app working as it should work.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. writing post
+2. DRF create user
+3. JavaScript 1h
+4. Python tests 1h 
+
+**Resources:**
+* https://www.quora.com/What-are-the-good-way-to-write-the-test-cases-for-rest-API
+
+### Day 88: July 31, 2019
+
+**Plans for Today:**
+1. continue tech post
+2. DRF - login endpoint, tests, user
+3. JavaScript 1h or more  
+3. Python 1/2 - 1 h
+
+**Today's Progress:**
+1. wrote about docker-compose
+2. Wrote 4 or 5 lines of code. Fixed the problem with LoginSerializer. There is a difference between REST_AUTH_REGISTER_SERIALIZERS and REST_AUTH_SERIALIZERS. I was trying to add tests but didn't do much.
+3. No Python itself. Was mostly trying to solve DRF problems and understand how to write tests against Registration and Login endpoints.
+
+**Thoughts:**
+1. wrote about docker-compose and ruined my all databases (I mean I needed to make all the migrations once again), I won't continue, because I'm not sure what I'm doing enough. Need to read more first.
+2. Read docs CAREFULLY!!! It will save you hours of google searching.
+I still have problem with understanding like register/login with Facebook endpoint works.
+On the Facebook Login endpoint I'm getting Access token and Code fields and I don't know if it is like it should be or no and if I need to do anything else now.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. start writing tech post about Post Model, PostListView and DetailView
+
+**Resources:**
+
+**Useful links:**
+* Really need to read it carefully: https://www.toptal.com/django/integrate-oauth-2-into-django-drf-back-end
+* http://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/testing-and-ci.html
+* When I will be adding User model: https://iheanyi.com/journal/user-registration-authentication-with-django-django-rest-framework-react-and-redux/
+* social authentication in Django: https://scotch.io/tutorials/django-authentication-with-facebook-instagram-and-linkedin
+* https://medium.com/fbdevclagos/building-a-rest-api-endpoint-for-ticket-app-with-django-part1-3213d8622c9d
+
+
 ### Day 87: July 30, 2019
 
 **Plans for Today:**
@@ -23,7 +86,7 @@
 1. tech post
 2. javascript 1h
 3. python 1/2h - 1h
-4. DRF - login endpoint, tests, user 
+4. DRF - login endpoint, tests, user
 
 **Resources:**
 * Learn Python 3 the Hard Way (polish version)
@@ -2879,7 +2942,6 @@ from scratch without looking for everything online.
 4. https://stackoverflow.com/questions/15246661/downloading-the-fileswhich-are-uploaded-from-media-folder-in-django-1-4-3
 
 ### Day 1: April 24, 2019
-#(delete me or comment me out)
 
 **Plans for Today**:
 Work on a Django downloader app
