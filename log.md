@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 90: August 2, 2019
+
+**Plans for Today:**
+1. Try a few short DRF tutorials
+2. Write tech post
+3. DRF add user
+4. JavaScript 1h
+5. Python tests 1h
+
+**Today's Progress:**
+1. Only DRF - trying to write tests (5h)
+
+**Thoughts:**
+Wrote 2 tests in tears. The first one passed. The second one failed. But without it I wouldn't notice that I need an url for password_reset_confirm. Now I need to find out why I have HTTP 200 when I post a new email to reset a password.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Tech post
+2. Continue writing tests for DRF. And fixing errors.
+3. JavaScript 1h
+
+**Resources:**
+
 ### Day 89: August 1, 2019
 
 **Plans for Today:**
@@ -24,7 +48,7 @@
 1. writing post
 2. DRF create user
 3. JavaScript 1h
-4. Python tests 1h 
+4. Python tests 1h
 
 **Resources:**
 * https://www.quora.com/What-are-the-good-way-to-write-the-test-cases-for-rest-API
