@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 91: August 3, 2019
+
+**Plans for Today:**
+
+1. Tech post
+2. Continue writing tests for DRF. And fixing errors.
+3. JavaScript 1h
+
+**Today's Progress:**
+1. One hour of writing a tech post done
+2. Was working on DRF and learning to use tools such as debugger in pyCharm.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. writing tech post
+2. DRF more tests
+3. JavaScript 1h
+
+**Resources:**
+* https://github.com/Tivix/django-rest-auth/issues/388
+* https://ruddra.com/posts/implementation-of-forgot-reset-password-feature-in-django/
+* https://stackoverflow.com/questions/34897834/how-to-customize-django-rest-auth-password-reset-email-content-template/37493202
+* https://stackoverflow.com/questions/53945056/django-rest-auth-password-reset
+* https://stackoverflow.com/questions/49278917/django-rest-auth-html-email-for-password-reset?rq=1
+* https://stackoverflow.com/questions/51619212/django-form-for-rest-api-password-reset?rq=1
+
 ### Day 90: August 2, 2019
 
 **Plans for Today:**
