@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 92: August 4, 2019
+
+**Plans for Today:**
+1. writing tech post
+2. DRF more tests
+3. JavaScript 1h - a little project (or two)
+
+**Today's Progress:**
+1. Wrote two small JavaScript apps according to youtube tutorials
+2. Finished a blog post about first tests in Django blog
+3. Worked a bit on tests in DRF project but not much
+
+**Thoughts:**
+1. I wrote a short post about tests and I'm not so sure if I was able to express myself clearly enough.
+2. For the last 7 days I've spent 23hrs 10min  only on DRF project and I haven't almost made any progress. 6hrs and 17mins I've spent writing tests and still have only 30+ lines of code. And 5hrs and 9mins I've been reading stackoverflow. I bet the major part of this reading was about tests.
+3. I don't feel that but according to wakatime I spent 7 hours coding (including writing a blog post and my notes in this log)
+
+**Link to work:**
+http://makneta.herokuapp.com/post/first-tests-in-my-django-app/
+
+**Plans for tomorrow:**
+1. write summery of the week and goals for the next one
+2. 1 h of JS
+3. DRF project
+4. Python tests
+5. Start learning React on scrimba - one part at a time.
+
+**Resources:**
+* https://www.lifewire.com/401-unauthorized-error-what-it-is-and-how-to-fix-it-2622934
+* Need to read this carefully tomorrow: https://www.django-rest-framework.org/api-guide/authentication/
+
 ### Day 91: August 3, 2019
 
 **Plans for Today:**
