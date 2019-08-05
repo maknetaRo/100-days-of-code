@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 93: August 5, 2019
+
+**Plans for Today:**
+1. write summery of the week and goals for the next one
+2. 1 h of JS
+3. DRF project
+4. Python tests
+5. Start learning React on scrimba - one part at a time.
+
+**Today's Progress:**
+1. Started React on Scrimba (first 3 lessons last night and 5 more practical today)
+2. JavaScript on youtube - I'm about to start part 105.
+3. Learn some unittest. Decided to start Coursera course: "Learn to Program: Crafting Quality Code" to learn writing code with tests.
+4. Worked a bit on DRF tests but have some issue with password. I don't understand what is raw_password and why it is a missing argument in my app.
+
+**Thoughts:**
+1. As usually when something is new and not too difficult I would like to binge watching videos and doing exercises. But I decided to stop and move to another tasks.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. write a blog posts
+2. JavaScript 1h - continue youtube
+3. React on Scrimba 2-3 parts
+4. Coursera - 2-3 parts
+5. DRF project (although I'm tired with this project because googling is not enough to answer my questions)
+
+**Resources:**
+* Learn JavaScript https://www.youtube.com/watch?v=PkZNo7MFNFg&t=9109s
+* React tutorial: https://scrimba.com/g/glearnreact
+* Coursera - Learn to Program: Crafting Quality Code https://www.coursera.org/learn/program-code/home/welcome
+
 ### Day 92: August 4, 2019
 
 **Plans for Today:**
