@@ -1,5 +1,66 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 95: August 7, 2019
+
+**Plans for Today:**
+1. write tech post
+2. React on Scrimba
+3. Learn JS on Youtube
+4. Python Courser
+5. DRF
+
+**Today's Progress:**
+1. Worked a bit on tests in DRF with my coding partner.
+2. Created an adapter to change a verification email in DRF project
+3. 5 parts of React course
+4. Followed Crafting Quality Code on coursera
+
+**Thoughts:**
+Not my day today. I don't like an emotional roller coaster. Some days I'm high in the sky and the other down in the deepest and the blackest ...
+But it seems I'm starting to grow up (at the age of 45) because I used to loiter about, scroll the internet or binge eating when I was in "poor me" mood but do my job. For the last two days I haven't reached all my goals but most of them.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. write tech post
+2. React on Scrimba
+3. coursera: Crafting Quality Code
+4. DRF ???
+
+**Resources:**
+* React: https://scrimba.com/g/glearnreact
+* Crafting Quality Code in Python: https://www.coursera.org/learn/program-code/home/welcome
+
+### Day 94: August 6, 2019
+
+**Plans for Today:**
+1. JavaScript 1h
+2. React 2-3 parts
+3. Python on Courser 1/2h
+4. DRF
+5. blog post
+
+**Today's Progress:**
+1. Followed a tutorial and created my first browser extension, then read about extensions on MDN.
+2. Did 3 parts of React course on scrimba
+3. Python 1h
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. write tech post
+2. React on Scrimba
+3. Learn JS on Youtube
+4. Python Courser
+5. DRF
+
+**Resources:**
+* https://dev.to/yechielk/writing-your-first-browser-extension-part-1-d5e
+* https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions
+*
+
 ### Day 93: August 5, 2019
 
 **Plans for Today:**
@@ -3087,7 +3148,7 @@ https://www.youtube.com/watch?v=MjwWzBiAMck
 https://www.youtube.com/watch?v=b43JIn-OGZU
 
 <!-- ##Template
-### Day 0: July , 2019
+### Day 0: August , 2019
 
 **Plans for Today:**
 
