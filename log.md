@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 96: August 8, 2019
+
+**Plans for Today:**
+1. -
+2. React on Scrimba
+3. coursera: Crafting Quality Code
+4. DRF ???
+
+**Today's Progress:**
+1. Spent about 3 hours to add custom link to verification email. Wrote a few of different classes, methods, functions, templates, urls to remove them all and write the one that works. First I thought I need to overwrite a view, then that I have to add simple_tag, then I tried to write an CustomAccountAdapter. But it was a bit confusing what method of allauth DefaultAccountAdapter should  I overwrite. I tried to overwrite send_email, send_confirmation_mail and at the end get_email_confirmation_url and now it works. All of these trying different approaches from stackoverflow or from libarary's issues. On the other hand if you want to overwrite url you should look for method with url in name, I suppose so.
+And after doing pull git I had to write missing code, because I wasn't aware that I need to do pull when my each pull request was merged and before I start creating a new branch.
+2. 4 parts of React course done.
+
+**Thoughts:**
+1. I understand everything in React course, but sometimes it's difficult to get remember. I tried to install React on my computer but something doesn't work. I'll think about it tomorrow or after finishing the course.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. DRF - test the method I added today
+2. React Scrimba course
+3. Basic JavaScript - 1h
+4. Python Crafting Quality Code
+
+**Resources:**
+
 ### Day 95: August 7, 2019
 
 **Plans for Today:**
