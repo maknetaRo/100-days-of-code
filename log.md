@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 97: August 9, 2019
+
+**Plans for Today:**
+1. DRF - test the method I added today
+2. React Scrimba course
+3. JavaScript on Khan Academy
+4. Python Crafting Quality Code
+
+**Today's Progress:**
+1. Started learning about DOM on JavaScript-info (did three parts 1.Browser environment, spec, 2. DOM tree and 3. Walking the DOM)
+2. Refreshed my knowledge about reading from files in Python
+3. Did 2 parts of React course. I managed to use my local host to create React app on my computer. (finished p.22)
+
+**Thoughts:**
+* need to take info from txt file and make lists and dictionaries out of it. I have never done such things before, so for an hour I was reviewing how to works with files and trying to write code.
+* React course seems to be very good. I like everything about it but I need to write all the code onto my own computer so I used the official tutorial to have a local development environment. `npx create-react-app app-name` then remove files from src
+cd src `rm -f *` and start adding my own file in src. To run the server:
+`npm start`
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. DRF add tests
+2. JavaScript DOM: https://javascript.info/searching-elements-dom (javascript/javascript-info)
+3. Python - more on files
+4. React continue
+
+**Resources:**
+* official tutorial - how have local development environment: https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial
+* Javascript DOM on javascript.info https://javascript.info/dom-nodes
+
 ### Day 96: August 8, 2019
 
 **Plans for Today:**
