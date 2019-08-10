@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 98: August 10, 2019
+
+**Plans for Today:**
+1. JavaScript DOM
+
+**Today's Progress:**
+1. Read the next two chapters of JavaScript-info DOM, took notes and code along.
+2. Started watching The Net Ninja's DOM series on Youtube
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Continue watching The Net Ninja's series
+2. Continue reading Javascrip-info.
+
+**Resources:**
+* I'm just about to start this chapter: http://javascript.info/dom-attributes-and-properties
+* YT: https://www.youtube.com/watch?v=YIG2_UB-C7o
+
 ### Day 97: August 9, 2019
 
 **Plans for Today:**
