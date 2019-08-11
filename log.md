@@ -1,21 +1,46 @@
 # 100 Days Of Code - Log Round 4
 
-### Day 98: August 10, 2019
+### Day 99: August 11, 2019
 
 **Plans for Today:**
-1. JavaScript DOM
+1. Continue watching The Net Ninja's series
+2. Continue reading Javascrip-info.
+3. Fix colors in my linux screen videos.
 
 **Today's Progress:**
-1. Read the next two chapters of JavaScript-info DOM, took notes and code along.
-2. Started watching The Net Ninja's DOM series on Youtube
+1. I didn't have to fix colors only to download VLC because it was the problem with default video player.
+2. Watched the Net Ninja series up to 17.
 
 **Thoughts:**
 
 **Link to work:**
 
 **Plans for tomorrow:**
+1. Plan the next round and wrote a blog post.
+2. Continue the Net Ninja series
+
+
+**Resources:**
+https://www.w3schools.com/jsref/prop_node_nodetype.asp
+
+### Day 98: August 10, 2019
+
+**Plans for Today:**
+1. JavaScript DOM
+
+**Today's Progress:**
+1. Read the next two chapters of JavaScript-info DOM, took notes and coded along.
+2. Started watching The Net Ninja's DOM series on Youtube
+
+**Thoughts:**
+
+
+**Link to work:**
+
+**Plans for tomorrow:**
 1. Continue watching The Net Ninja's series
 2. Continue reading Javascrip-info.
+3. Fix colors in my linux screen videos.
 
 **Resources:**
 * I'm just about to start this chapter: http://javascript.info/dom-attributes-and-properties
