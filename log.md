@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log Round 4
 
+### Day 100: August 12, 2019
+
+**Plans for Today:**
+1. Plan the next round and wrote a blog post.
+2. Continue the Net Ninja series
+3. One hour of Python
+
+**Today's Progress:**
+1. Learn some arrays methods in Javascript
+2. Finished the DOM tutorial on The Net Ninja channel.
+
+**Thoughts:**
+It's the last day of round 4. I did a bit of this and a bit of that.
+
+**Link to work:**
+https://github.com/maknetaRo/learnVanillaJS
+
+**Plans for tomorrow:**
+*Start a new round*
+1. Work on tip calculator in HTML, CSS and JS
+2. write blog post
+
+**Resources:**
+* https://frontstuff.io/how-to-handle-monetary-values-in-javascript
+
+
 ### Day 99: August 11, 2019
 
 **Plans for Today:**
@@ -21,7 +47,20 @@
 
 
 **Resources:**
-https://www.w3schools.com/jsref/prop_node_nodetype.asp
+For the new round
+* https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be
+* https://www.w3schools.com/jsref/prop_node_nodetype.asp
+* https://vanillajstoolkit.com/reference/
+* https://zellwk.com/blog/how-to-learn-javascript/
+* https://developer.mozilla.org/bm/docs/Web/JavaScript
+* https://devdocs.io/dom_events/
+* https://learnersbucket.com/tutorials/es6/es6-intro/
+* https://ponyfoo.com/articles/es6
+* https://flaviocopes.com/es6/
+* https://javascript.info/
+* https://flaviocopes.com/react-javascript/
+
+
 
 ### Day 98: August 10, 2019
 
