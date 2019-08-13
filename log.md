@@ -2,12 +2,12 @@
 
 ## My Goals:
 * code everyday
-* learn JavaScript: I'm a massive fun of Jennifer Dewalt and her [180 websites project]!(https://jenniferdewalt.com/) as well as [Useless Web project]!(https://theuselessweb.com/) by Tim Holman. And I want to create similar project using vanillaJS.
-[Projects website]!(https://maknetaro.github.io/projects-makneta/)
+* learn JavaScript: I'm a massive fun of Jennifer Dewalt and her 180 websites project https://jenniferdewalt.com/ as well as Useless Web project https://theuselessweb.com/ by Tim Holman. And I want to create similar project using vanillaJS.
+## Projects website https://maknetaro.github.io/projects-makneta/
 * create my portfolio
 * continue learning Django and DRF with tests.
 
-### [Previous round] (https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4)
+#### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4)
 
  ### Day 1: August 13, 2019
 
@@ -17,6 +17,9 @@
 
  **Today's Progress:**
  1. Spent most of my time creating tip calculator in HTML and CSS.
+ So far it looks:
+ ![tip calculator](./images/tipCalculator.png)
+
  2. Created easy click button and change background color page
 
  **Thoughts:**
@@ -32,6 +35,7 @@
  1. another tiny JS project
  2. python  - retrieving data from files (don't like it, but need to stop procrastinating)
  3. learn more about arrays in JavaScript
+
  **Resources:**
 
 # 100 Days Of Code - Log Round 4
