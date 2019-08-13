@@ -1,3 +1,39 @@
+# 100 Days Of Code - Log Round 5
+
+## My Goals:
+* code everyday
+* learn JavaScript: I'm a massive fun of Jennifer Dewalt and her [180 websites project]!(https://jenniferdewalt.com/) as well as [Useless Web project]!(https://theuselessweb.com/) by Tim Holman. And I want to create similar project using vanillaJS.
+[Projects website]!(https://maknetaro.github.io/projects-makneta/)
+* create my portfolio
+* continue learning Django and DRF with tests.
+
+### [Previous round] (https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4)
+
+ ### Day 1: August 13, 2019
+
+ **Plans for Today:**
+ 1. Work on Tip Calculator in HTML, CSS and JavaScript
+ 2. one hour of Python - retrieving data from files
+
+ **Today's Progress:**
+ 1. Spent most of my time creating tip calculator in HTML and CSS.
+ 2. Created easy click button and change background color page
+
+ **Thoughts:**
+ 1. Tip calculator occurred to be too difficult project as for the beginning of my JavaScript learning through creating projects, even reading someone's explanations.
+ I'll be working on it soon.
+ 2. I wanted to have sth done and published, so I created this nice page.
+
+ **Link to work:**
+ * https://maknetaro.github.io/projects-makneta/project2.html
+ * https://github.com/maknetaRo/projects-makneta/blob/master/project2.html
+
+ **Plans for tomorrow:**
+ 1. another tiny JS project
+ 2. python  - retrieving data from files (don't like it, but need to stop procrastinating)
+ 3. learn more about arrays in JavaScript
+ **Resources:**
+
 # 100 Days Of Code - Log Round 4
 
 ### Day 100: August 12, 2019
