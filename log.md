@@ -7,9 +7,63 @@
 * create my portfolio
 * continue learning Django and DRF with tests.
 
-#### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4)
+#### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
- ### Day 1: August 13, 2019
+### Day 2: August 14, 2019
+
+**Plans for Today:**
+1. another tiny JS project
+2. python  - retrieving data from files (don't like it, but need to stop procrastinating)
+3. learn more about arrays in JavaScript
+
+**Today's Progress:**
+1. I used CSS Grid  and JavaScript to create a page with cells that change colour when user hovers mouse over them. First I generated cells using function generateHTML I had learnt from Wes Bos
+`const container = document.querySelector('.container');
+function generateHTML([h,v]) {
+        return `
+            <div class="item h${h} v${v}">
+
+            </div>
+        `;
+    }
+    const digits = Array.from({length: numberOfCells}, () => [1, 1])
+    const html = digits.map(generateHTML).join('');
+    container.innerHTML = html;
+    ``
+
+I also used function randomBgColor that helped me generate random rgb color. I had hard time to use this function properly inside forEach function, because I forget to use return at the end of randomBgColor function.
+
+First my grid had a fixed number of cells, but I wanted to be able to adjust it to the screen size. It took me a longer while to find out excellent properties: window.innerWidth and window.innerHeigth. These two properties and a bit of math and cells almost perfectly fit the screen.
+
+2. Spent some time with Python, too. I retrieved data from text file with the easiest possible way - creating a list (after reading a few articles I link below) and then I started creating lists and dictionaries out of this one.
+
+**Thoughts:**
+1. I'm more than happy that I started this project - learning JavaScript by creating small projects.
+
+**Link to work:**
+* https://maknetaro.github.io/projects-makneta/project3.html
+* https://github.com/maknetaRo/projects-makneta/blob/master/project3.html
+
+**Plans for tomorrow:**
+1. JavaScript small project - want to take input and display on the screen.
+2. Python finish the script I've been working on so far.
+
+**Resources:**
+#### Frontend:
+* https://www.youtube.com/watch?v=qNtJ5p3h2A4
+* https://stackoverflow.com/questions/11516291/css-get-height-of-screen-resolution
+
+#### Python
+* https://www.computerhope.com/issues/ch001721.htm
+* https://stackoverflow.com/questions/36313414/extracting-specific-data-from-a-text-file-in-python
+* https://www.guru99.com/reading-and-writing-files-in-python.html
+* https://ubuntuforums.org/showthread.php?t=1839996
+* https://www.vipinajayakumar.com/parsing-text-with-python/
+* https://programminghistorian.org/en/lessons/working-with-text-files
+* https://www.datacamp.com/community/tutorials/reading-writing-files-python
+* https://www.csestack.org/python-extract-emails-read-file/
+
+### Day 1: August 13, 2019
 
  **Plans for Today:**
  1. Work on Tip Calculator in HTML, CSS and JavaScript
