@@ -21,7 +21,7 @@
 *
 const container = document.querySelector('.container');
 function generateHTML([h,v]) {
-        return `
+        return 
             <div class="item h${h} v${v}">
 
             </div>
