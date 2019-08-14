@@ -18,7 +18,7 @@
 
 **Today's Progress:**
 1. I used CSS Grid  and JavaScript to create a page with cells that change colour when user hovers mouse over them. First I generated cells using function generateHTML I had learnt from Wes Bos
-*
+* 
 ~~~const container = document.querySelector('.container');
 function generateHTML([h,v]) {
         return `
@@ -31,6 +31,7 @@ function generateHTML([h,v]) {
     const html = digits.map(generateHTML).join('');
     container.innerHTML = html;
     ~~~
+*
 
 I also used function randomBgColor that helped me generate random rgb color. I had hard time to use this function properly inside forEach function, because I forget to use return at the end of randomBgColor function.
 
