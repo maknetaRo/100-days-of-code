@@ -9,6 +9,38 @@
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 3: August 15, 2019
+
+**Plans for Today:**
+1. Finish reading and taking notes about array methods in JS
+2. JavaScript small project - want to take input and display on the screen.
+3. Python finish the script I've been working on so far.
+4. This tutorial: https://dev.to/yechielk/writing-your-first-browser-extension-tutorial-part-2-3g9p
+5. DRF test facebook and google
+6. A few simple exercises in JavaScript (handling input)
+7. tech post (1h)
+
+**Today's Progress:**
+1. JavaScript exercise with handling input through prompt
+2. Started to create Hello World website in JavaScript but couldn't concentrate on it. But got an idea and know what I want to do.
+
+**Thoughts:**
+
+**Link to work:**
+https://github.com/maknetaRo/learnVanillaJS/blob/master/helloWorld.html
+
+**Plans for tomorrow:**
+1. Finish reading and taking notes about array methods in JS
+2. JavaScript small project - want to take input and display on the screen.
+3. Python finish the script I've been working on so far.
+4. This tutorial: https://dev.to/yechielk/writing-your-first-browser-extension-tutorial-part-2-3g9p
+5. DRF test facebook and google
+6. A few simple exercises in JavaScript (handling input)
+7. tech post (1h)
+
+**Resources:**
+https://designmodo.com/3d-css3-button/
+
 ### Day 2: August 14, 2019
 
 **Plans for Today:**
@@ -18,6 +50,7 @@
 
 **Today's Progress:**
 1. I used CSS Grid  and JavaScript to create a page with cells that change colour when user hovers mouse over them. First I generated cells using function generateHTML I had learnt from Wes Bos
+
 
 I also used function randomBgColor that helped me generate random rgb color. I had hard time to use this function properly inside forEach function, because I forget to use return at the end of randomBgColor function.
 
@@ -35,6 +68,9 @@ First my grid had a fixed number of cells, but I wanted to be able to adjust it 
 **Plans for tomorrow:**
 1. JavaScript small project - want to take input and display on the screen.
 2. Python finish the script I've been working on so far.
+3. This tutorial: https://dev.to/yechielk/writing-your-first-browser-extension-tutorial-part-2-3g9p
+4. DRF test facebook and google
+
 
 **Resources:**
 #### Frontend:
