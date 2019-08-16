@@ -9,6 +9,30 @@
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 4: August 16, 2019
+
+**Plans for Today:**
+1. Finish reading and taking notes about array methods in JS
+2. Finish JavaScript small project - want to take input and display on the screen.
+3. Python finish the script I've been working on so far.
+
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. New small JS project
+2. Python script
+3. This tutorial: https://dev.to/yechielk/writing-your-first-browser-extension-tutorial-part-2-3g9p
+4. DRF test facebook and google
+5. tech post (1h)
+
+
+**Resources:**
+
 ### Day 3: August 15, 2019
 
 **Plans for Today:**
