@@ -16,12 +16,15 @@
 2. Finish JavaScript small project - want to take input and display on the screen.
 3. Python finish the script I've been working on so far.
 
-
 **Today's Progress:**
+1. Finished  the project I started yesterday. It is not 100% responsive but I still like it.
 
 **Thoughts:**
+Those JavaScript projects take me a lot of time. I wish I could work faster.
 
 **Link to work:**
+https://maknetaro.github.io/projects-makneta/project4.html
+https://github.com/maknetaRo/projects-makneta/blob/master/project4.html
 
 **Plans for tomorrow:**
 1. New small JS project
