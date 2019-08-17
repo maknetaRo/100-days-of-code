@@ -9,6 +9,29 @@
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 5: August 17, 2019
+
+**Plans for Today:**
+1. New small JS project
+2. Python script
+3. This tutorial: https://dev.to/yechielk/writing-your-first-browser-extension-tutorial-part-2-3g9p
+4. DRF test facebook and google
+5. tech post (1h)
+
+**Today's Progress:**
+1. Started guessing game in JavaScript. Stuck on for loop.
+2. Was learning to use "design recipe" in Python functions.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Finish guessing game.
+2. More Python
+
+**Resources:**
+
 ### Day 4: August 16, 2019
 
 **Plans for Today:**
