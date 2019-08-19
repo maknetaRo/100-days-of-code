@@ -3,11 +3,79 @@
 ## My Goals:
 * code everyday
 * learn JavaScript: I'm a massive fun of Jennifer Dewalt and her 180 websites project https://jenniferdewalt.com/ as well as Useless Web project https://theuselessweb.com/ by Tim Holman. And I want to create similar project using vanillaJS.
+
 ## Projects website https://maknetaro.github.io/projects-makneta/
 * create my portfolio
 * continue learning Django and DRF with tests.
 
+### Resources:
+
+#### Python:
+I have a few books and courses and would like to use them:
+1. Coursera Craft Quality Code,  they teach not only Python but more importantly tests
+2. Practical Django2 and Channels
+3. Udemy Python 3 Dive Deep, there are 3 parts and it's about 100 hours.
+4. Test Driven Development in Python (stopped at chap 9)
+5. Powerful Python
+
+#### JavaScript
+1. Eloquent JavaScript
+2.
+
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
+
+### Day 7: August 19, 2019
+
+**Plans for Today:**
+1. Read Eloquent JavaScript (1 chapter)
+2. Practical Programming (1 hour)
+3. DRF project
+4. Start a new JavaScript small project.
+
+**Today's Progress:**
+1. Read chapter 3 of Eloquent Javascript
+2. Started a small project, but animations aren't as easy as I thought.
+3. Did a few simple JavaScript exercises.
+4. Read Practical Programming
+5. Started new project in Django following the tutorial to learn DRF and testing.
+
+**Thoughts:**
+
+**Link to work:**
+* https://github.com/maknetaRo/learnVanillaJS/commit/cb216adac02d27a16785419cdb3cc876e0f27905
+
+**Plans for tomorrow:**
+1. Read Eloquent JavaScript chapter 4
+2. Follow animation tutorial on https://www.kirupa.com/html5/learn_animation.htm
+3. Work on JavaScript project
+4. Read more Practical Programming
+5. Continue Django project.
+
+**Resources:**
+* Eloquent JavaScript
+* Exercises for Programmers
+* Practical Programming
+
+### Day 6: August 18, 2019
+
+**Plans for Today:**
+1. Finish guessing game.
+2. More Python using "design recipe"
+
+**Today's Progress:**
+1. Finished guess my number game.
+2. did a bit of turtle in Python
+
+**Thoughts:**
+I couldn't make the game to end after several trials.
+
+**Link to work:**
+* https://maknetaro.github.io/projects-makneta/project5.html
+* https://github.com/maknetaRo/projects-makneta/blob/master/project5.html
+
+**Plans for tomorrow:**
+
+**Resources:**
 
 ### Day 5: August 17, 2019
 
