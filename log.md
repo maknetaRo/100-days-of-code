@@ -38,8 +38,10 @@ I have a few books and courses and would like to use them:
 3. Did a few simple JavaScript exercises.
 4. Read Practical Programming
 5. Started new project in Django following the tutorial to learn DRF and testing.
+6. Play a bit with Python turtle module.
 
 **Thoughts:**
+1. I decided not to put away my desire to create art with Python and started experimented with turtle module. I can do a small script a time and slowly and gradually create something bigger. 
 
 **Link to work:**
 * https://github.com/maknetaRo/learnVanillaJS/commit/cb216adac02d27a16785419cdb3cc876e0f27905
