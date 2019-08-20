@@ -24,6 +24,35 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 8: August 20, 2019
+
+**Plans for Today:**
+1. Read Eloquent JavaScript chapter 4
+2. Follow animation tutorial on https://www.kirupa.com/html5/learn_animation.htm
+3. Work on JavaScript project
+4. Read more Practical Programming
+5. Continue Django project.
+
+**Today's Progress:**
+1. Read chapter 4 of EJ and did 2 exercises.
+2. Started and finished JavaScript project - guess the word
+
+**Thoughts:**
+* I'm fed up with myself. I'm starting new things to avoid finishing the old ones. I'm loudly repeating that I want to have a dev job, but I'm so afraid of rejection and disappointment and not being good enough that I don't finish the projects to have an excuse not to apply for jobs. I'm afraid of change and of busting my bubble of being a hardworking and  knowledgeable person.
+
+**Link to work:**
+* source code: https://github.com/maknetaRo/projects-makneta/commit/cb0bd7e0fee5f853e3bd83b24ff09761af7b819e
+* website: https://maknetaro.github.io/projects-makneta/project6.html
+
+**Plans for tomorrow:**
+1. Read chapter 5 of Eloquent Javascript
+2. Correct guess the number project
+3. Read Practical Programming
+4. Continue Django project
+
+**Resources:**
+https://stackoverflow.com/questions/25778884/adding-a-guess-loop-to-my-javascript-number-guessing-game
+
 ### Day 7: August 19, 2019
 
 **Plans for Today:**
@@ -41,7 +70,7 @@ I have a few books and courses and would like to use them:
 6. Play a bit with Python turtle module.
 
 **Thoughts:**
-1. I decided not to put away my desire to create art with Python and started experimented with turtle module. I can do a small script a time and slowly and gradually create something bigger. 
+1. I decided not to put away my desire to create art with Python and started experimented with turtle module. I can do a small script a time and slowly and gradually create something bigger.
 
 **Link to work:**
 * https://github.com/maknetaRo/learnVanillaJS/commit/cb216adac02d27a16785419cdb3cc876e0f27905
