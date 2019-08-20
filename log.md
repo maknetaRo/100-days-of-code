@@ -36,6 +36,8 @@ I have a few books and courses and would like to use them:
 **Today's Progress:**
 1. Read chapter 4 of EJ and did 2 exercises.
 2. Started and finished JavaScript project - guess the word
+![guess the word game](./images/project6.png)
+
 
 **Thoughts:**
 * I'm fed up with myself. I'm starting new things to avoid finishing the old ones. I'm loudly repeating that I want to have a dev job, but I'm so afraid of rejection and disappointment and not being good enough that I don't finish the projects to have an excuse not to apply for jobs. I'm afraid of change and of busting my bubble of being a hardworking and  knowledgeable person.
