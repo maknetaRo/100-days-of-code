@@ -41,8 +41,9 @@ I have a few books and courses and would like to use them:
 * I'm fed up with myself. I'm starting new things to avoid finishing the old ones. I'm loudly repeating that I want to have a dev job, but I'm so afraid of rejection and disappointment and not being good enough that I don't finish the projects to have an excuse not to apply for jobs. I'm afraid of change and of busting my bubble of being a hardworking and  knowledgeable person.
 
 **Link to work:**
-* source code: https://github.com/maknetaRo/projects-makneta/commit/cb0bd7e0fee5f853e3bd83b24ff09761af7b819e
+* source code: https://github.com/maknetaRo/projects-makneta/commit/af0a52ea5f61d5110b9f407949e084910ddb710d
 * website: https://maknetaro.github.io/projects-makneta/project6.html
+* first draft: https://github.com/maknetaRo/learnVanillaJS/commit/85ad125e42772292c8cdfed4d5ca594b01e83f2f
 
 **Plans for tomorrow:**
 1. Read chapter 5 of Eloquent Javascript
