@@ -24,6 +24,47 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 9: August 21, 2019
+
+**Plans for Today:**
+1. Read chapter 5 of Eloquent Javascript
+2. Correct guess the number project
+3. Read Practical Programming
+4. Continue Django project
+
+**Today's Progress:**
+1. Read chapter 5 of Eloquent JavaScript
+2. Corrected a bit the logic of Guess the Number game, but not responsiveness of the site.
+3. Read quickly 2 chapters of Practical Programming
+4. Learnt more about txt file manipulation in Python (from Pragmatic Programming and Automate the Boring Stuff with Python)
+5. Watched fantastic video "Making Art with Python" PyCon 2018 and follow along and that is the ouput:
+
+![processing1](./images/processing1.png)
+![processing2](./images/processing2.png)
+![processing3](./images/processing3.png)
+![processing4](./images/processing4.png)
+![processing5](./images/processing5.png)
+
+**Thoughts:**
+1. The book is good, but I don't understand fully the explanation of abstract function. I will have to check any other resources. And make a few exercises.
+2. Thanks to Automate the Boring Stuff With Python I started using file manipulation not only in textbook examples. I think I could use tests created in such a way for my own students.
+3. I also want to create similar program in JavaScript - quiz about capital cities of states in the USA. I hope it will possible to do it as a rather short project.
+4. The idea of generative art speaks to me and I think I will start creating my own projects using processing.py
+
+**Link to work:**
+https://github.com/maknetaRo/projects-makneta/commit/d9975da9cdf2f1663ca2783fa92755e3f50e9d31
+
+**Plans for tomorrow:**
+1. Read chapter 6 of Eloquent JavaScript
+2. Start quiz about capitals of states in the USA
+
+
+**Resources:**
+* https://www.youtube.com/watch?v=u3d-n41Tobw
+* Automate the Boring Stuff With Python
+* Practical Programming
+
+
 ### Day 8: August 20, 2019
 
 **Plans for Today:**
