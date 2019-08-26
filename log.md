@@ -24,6 +24,57 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 11: August 26, 2019
+
+**Plans for Today:**
+1. Work on JavaScript project
+
+**Today's Progress:**
+1. Continued JavaScript for beginners on Youtube (2:36:57)
+2. Started a small project - jokes with punchlines revealed on click
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+Another day off.
+But the day after:
+1. Continue YT course
+2. Continue JS project
+
+**Resources:**
+* https://stackoverflow.com/questions/51221583/how-to-show-array-elements-one-at-a-time-using-only-javascript
+* color palette: https://flatuicolors.com/palette/defo
+
+### Day 10: August 22, 2019
+
+**Plans for Today:**
+1. Read chapter 6 of Eloquent JavaScript
+2. Watch OOP in JavaScript: https://www.youtube.com/watch?v=PFmuCDHHpwk
+3. Start quiz about capitals of states in the USA
+4. https://automatetheboringstuff.com/chapter8/
+
+
+**Today's Progress:**
+1. Read chap 6 for half an hour - it's about OOP in JavaScript.
+2. Started quiz but wrote only a few lines of code.
+3. Started course on HTML5 Canvas on MDN
+
+**Thoughts:**
+1. I'm not good at OOP in Python so it's hard to understand it in JavaScript, too.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Read Automate the boring stuff chapter 8 as a part of my morning routine.
+2. Answer all the questions from this chapter
+3. Do the exercises from the chapter.
+
+
+**Resources:**
+https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
+
 ### Day 9: August 21, 2019
 
 **Plans for Today:**
@@ -57,6 +108,7 @@ https://github.com/maknetaRo/projects-makneta/commit/d9975da9cdf2f1663ca2783fa92
 **Plans for tomorrow:**
 1. Read chapter 6 of Eloquent JavaScript
 2. Start quiz about capitals of states in the USA
+3. https://automatetheboringstuff.com/chapter8/
 
 
 **Resources:**
