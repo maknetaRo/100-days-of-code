@@ -34,6 +34,11 @@ I have a few books and courses and would like to use them:
 2. Started a small project - jokes with punchlines revealed on click
 
 **Thoughts:**
+In the project I started I have jokes with punchline that is revealed on click, but then I want to reveal a new joke on the click. My jokes and punchlines are gathered in a dictionary (I know there is no dictionary in JavaScript but I'm using an object like dictionary in Python.) And I would like to access each joke using forEach:
+`Object.entries(jokes).forEach(([key, value]) => {
+
+  }`
+But for now I have only the last joke displayed. So this is my task for another day with code. 
 
 **Link to work:**
 
