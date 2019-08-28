@@ -24,6 +24,27 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 12: August 28, 2019
+
+**Plans for Today:**
+1. Read more about DOM
+2. Work on JS project
+
+**Today's Progress:**
+1. Read about a bit more about DOM and Events in JS
+2. Tried to do more with my project but got a bit stuck. I think I will have to rewrite my data (use list of objects instead of map) or read more and think once again about what I want to do in this project.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Continue reading
+2. Continue JS project
+
+**Resources:**
+* JavaScript: Novice to Ninja 
+
 ### Day 11: August 26, 2019
 
 **Plans for Today:**
@@ -38,7 +59,7 @@ In the project I started I have jokes with punchline that is revealed on click, 
 `Object.entries(jokes).forEach(([key, value]) => {
 
   }`
-But for now I have only the last joke displayed. So this is my task for another day with code. 
+But for now I have only the last joke displayed. So this is my task for another day with code.
 
 **Link to work:**
 
