@@ -40,7 +40,7 @@ I have a free weekend so I hope to learn and code a lot.
 **Link to work:**
 
 **Plans for tomorrow:**
-1. Read more JavaScript Novice to Ninja and code along
+1. Read more JavaScript Novice to Ninja and code along, mainly about types of events and removing event listeners. 
 2. Try Understanding the DOM tutorial on Digital Ocean
 3. Work on my project
 
