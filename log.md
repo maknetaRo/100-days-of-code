@@ -20,9 +20,33 @@ I have a few books and courses and would like to use them:
 
 #### JavaScript
 1. Eloquent JavaScript
-2.
+2. JavaScript: Novice to Ninja.
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
+
+### Day 13: August 29, 2019
+
+**Plans for Today:**
+1. Reading JavaScript: Novice to Ninja
+2. Work on my JavaScript telling jokes project.
+
+**Today's Progress:**
+1. Read a bit of JavaScript Novice to Ninja (coding along)
+
+**Thoughts:**
+I can't concentrate on code much today because I've been thinking about my daily work. I'm a bit taken aback by the situation and the number of classes I'll be teaching this year. So my head has been spinning around this topic rather than code. I hope when I get up in the morning I will be more productive.
+I have a free weekend so I hope to learn and code a lot.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Read more JavaScript Novice to Ninja and code along
+2. Try Understanding the DOM tutorial on Digital Ocean
+3. Work on my project
+
+**Resources:**
+for tomorrow
+* https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
 
 ### Day 12: August 28, 2019
 
@@ -43,7 +67,7 @@ I have a few books and courses and would like to use them:
 2. Continue JS project
 
 **Resources:**
-* JavaScript: Novice to Ninja 
+* JavaScript: Novice to Ninja
 
 ### Day 11: August 26, 2019
 
