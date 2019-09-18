@@ -24,6 +24,102 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+
+### Day 1: September 18, 2019
+
+**Plans for Today:**
+1. Start Chingu Solo Project
+
+**Today's Progress:**
+1. Started the project and created html file and started adding some styling in css.
+
+**Thoughts:**
+I had to start the 5th round from the beginning because my break was too long.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Continue the project - css styling.
+
+**Resources:**
+
+
+
+### Day 17: September 04, 2019
+
+**Plans for Today:**
+1. Finish JavaScript memory game tutorial
+2. DataWorkShop day 3
+
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+### Day 16: September 03, 2019
+
+**Plans for Today:**
+1. JavaScript DOM tutorial
+2. DataWorkshop challenge day 2
+
+**Today's Progress:**
+1. Started building memory game with Udemy tutorial in JavaScript.
+2. Did NLP project following the tutorial.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Continue dataworkshop challenge
+2. Continue building memory game.
+
+**Resources:**
+
+### Day 15: August 31, 2019
+
+**Plans for Today:**
+1. Finish the JavaScript project (even if it would be crap)
+2. Read next chapter of Novice to Ninja.
+
+**Today's Progress:**
+
+**Thoughts:**
+I'm stuck. I can't make myself doing almost any JavaScript learning/coding and because I decided to focus only on JavaScript I keep procrastinating all days long :-( And it is not because I lack the resources or I can't understand something (I can't sometimes but that is not the point) but because my head thinks that JavaScript is an awful language. I need to change this attitude but don't know how!!!
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+* https://www.youtube.com/watch?v=riDzcEQbX6k
+* https://www.youtube.com/watch?v=ItYye9h_RXg&list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB
+
+### Day 14: August 30, 2019
+
+**Plans for Today:**
+1. Read more JavaScript Novice to Ninja and code along, mainly about types of events and removing event listeners.
+2. Try Understanding the DOM tutorial on Digital Ocean
+3. Work on my project
+
+**Today's Progress:**
+1. Read another chapter of Novice to Ninja
+2. Worked a bit on my project but not much.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
 ### Day 13: August 29, 2019
 
 **Plans for Today:**
@@ -40,7 +136,7 @@ I have a free weekend so I hope to learn and code a lot.
 **Link to work:**
 
 **Plans for tomorrow:**
-1. Read more JavaScript Novice to Ninja and code along, mainly about types of events and removing event listeners. 
+1. Read more JavaScript Novice to Ninja and code along, mainly about types of events and removing event listeners.
 2. Try Understanding the DOM tutorial on Digital Ocean
 3. Work on my project
 
