@@ -24,6 +24,129 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 9: August , 2019
+
+**Plans for Today:**
+1. work on vanillaJS project
+2.learn a bit of JS framework
+3. more processing in Python
+
+**Today's Progress:**
+1. Did three pomodoros of Angular.
+3. Watched and code along one TraversyMedia video - image gallery slider with tumbnails.
+
+**Thoughts:**
+Started learning Angular but it's pretty difficult for me. React or Vue seemed to be easier, but I will give it a chance.
+
+##### My notes about Angular 2.
+ * use Angular CLI (Command Line Interface). (To do it, it is essential to have Node.js install on your system - install npm)
+ - instal: npm install -g angular/cli
+ * start a new app:
+ - ng new app-name
+ * change directory and open code editor:
+ - cd app-name
+ - (code .)
+ * run server and open the application in a browser
+ - ng serve --open
+
+ * Angular app is built out of components - reusable code pieces
+ * Components tasks:
+ - displaying a specific page/section
+ - binding data between the view and the model
+ * What is inside of a component:
+ - template file: HTML View
+ - TypeScript file: Model
+ - style file: CSS
+
+ **Link to work:**
+
+**Plans for tomorrow:**
+1. Watch another Traversy Media video
+2. finish tip calculator project I started weeks ago
+3. Processing in Python
+
+**Resources:**
+1. Angular:
+*  https://www.youtube.com/watch?v=Fdf5aTYRW0E&t=1936s
+*  https://angular.io/tutorial - official tutorial
+*  https://scrimba.com/g/gyourfirstangularapp - scrimba tutorial
+2. JavaScript:
+* https://www.youtube.com/watch?v=afoxd5b0bJo&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=29
+
+planned but didn't manage to take a look at them today
+2. Math Adventures in Python (book)
+3. JavaScript Novice to Ninja
+
+
+### Day 5: September 23, 2019
+
+**Plans for Today:**
+1. Finish CSS part of landing page
+2. Finish one chapter of Math Adventures in Python
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+### Day 4: September 22, 2019
+
+**Plans for Today:**
+
+**Today's Progress:**
+1. 2 hours of CSS - landing page
+2. one function from Math Adventures in Python
+
+**Thoughts:**
+hate CSS and front end part of coding. I don't want to hate it but don't know how to change my attitude.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+### Day 3: September 21, 2019
+
+**Plans for Today:**
+1. Math Adventures in Python - chapter 2
+2. Landing page - continue css
+
+**Today's Progress:**
+1. Did 2 and half chapters of Math Adventures in Python.
+2. Spend half an hour trying to make css grid work as I wanted.
+
+**Thoughts:**
+I must do something wrong because despite using CSS Grid my page isn't responsive :-( )
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. 2 chapters of Math Adventures in Python
+2. More on CSS in Landing Page
+
+**Resources:**
+"Math Adventure in Python"
+
+### Day 2: September 20, 2019
+
+**Plans for Today:**
+
+**Today's Progress:**
+A bit of turtle drawing in Python
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
 
 ### Day 1: September 18, 2019
 
