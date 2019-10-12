@@ -1,12 +1,14 @@
 # 100 Days Of Code - Log Round 5
+# Start: September 18, 2019
 
 ## My Goals:
 * code everyday
 * learn JavaScript: I'm a massive fun of Jennifer Dewalt and her 180 websites project https://jenniferdewalt.com/ as well as Useless Web project https://theuselessweb.com/ by Tim Holman. And I want to create similar project using vanillaJS.
-
 ## Projects website https://maknetaro.github.io/projects-makneta/
 * create my portfolio
-* continue learning Django and DRF with tests.
+* continue learning Django and DRF with tests
+* invest time to learn building modern responsive websites in HTML, CSS and JS
+* experiment with different JS frameworks to choose the one to learn in depth
 
 ### Resources:
 
@@ -17,14 +19,132 @@ I have a few books and courses and would like to use them:
 3. Udemy Python 3 Dive Deep, there are 3 parts and it's about 100 hours.
 4. Test Driven Development in Python (stopped at chap 9)
 5. Powerful Python
+6. Introduction to Computer Science and Media Computation
+7. Math Adventures with Python
+8. Automate the boring stuff with Python
 
 #### JavaScript
 1. Eloquent JavaScript
 2. JavaScript: Novice to Ninja.
+3. https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
+4. https://www.udemy.com/course/advanced-javascript-concepts/
+5. A Smarter Way to Learn JavaScript
+6. http://javascript.info/
+7.
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
-### Day 9: August , 2019
+### Day 21: October 12, 2019
+
+**Plans for Today:**
+1. Scrapy tutorial at least part 3
+2. Start creating "used by" of the cloned website
+3. keep reading Introduction to Computer Science and Media Computation and start writing code from that book.
+
+**Today's Progress:**
+1. Read one chapter of Introduction to Computer Science
+2. Finished 3 part of the scrapy tutorial
+3. Started my own scrapy project that supposed to be a part of Microlearning App
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. continue scarpy tutorial
+2. read at least 2nd chapter of Introduciton to CS and MC
+3. start creating "used by" part of landing page 
+
+**Resources:**
+
+### Day 19-20: October 10-11, 2019
+
+**Today's Progress:**
+* was playing a bit with CherryPy framework
+* started following Advanced JavaScript Concepts udemy course
+* more of scrapy tutorial
+
+
+### Day 17-18: October 8-9, 2019
+
+**Today's Progress:**
+mostly cloning landing page using CSS Grid, flexbox and media query
+yesterday started also  following #Python #scrapy tutorial
+
+
+### Day 15-16: October 6-7, 2019
+
+**Today's Progress:**
+- started a new landing page
+- added a bit of #javascript
+- started an advanced course in #JS
+
+### Day 14: October 5, 2019
+
+**Today's Progress:**
+1. regular expressions in Markup project
+
+### Day 12 - 13: October 3-4, 2019
+
+**Plans for Today:**
+
+**Today's Progress:**
+1. Created html and css of Quotes project
+2. Worked a bit on Netflix clone
+3. Planned next landing page to replicate/clone
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+### Day 11: September 29, 2019
+
+**Plans for Today:**
+1. finish Netflix landing page clone
+
+**Today's Progress:**
+1. started another project in bootstrap and JS about books
+
+**Thoughts:**
+Spent more time watching videos and reading articles about Hacktoberfest and contributing to open source.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+### Day 10: September 28, 2019
+
+**Plans for Today:**
+1. watch traversymedia  yt on vanillaJS
+2. finish my tip calculator
+3. work with #processing in #Python
+4. learn JS framework
+5. find a nice landing page design to practice CSS
+
+**Today's Progress:**
+1. found assets to create a landing page or front page of a website
+2. started cloning Netflix page (following Traversy Media yt video)
+
+**Thoughts:**
+Spent a lot of time looking for simple landing pages
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+Reading about web design:
+* https://internetingishard.com/html-and-css/responsive-design/
+* https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns?hl=en
+
+
+### Day 9: September 27, 2019
 
 **Plans for Today:**
 1. work on vanillaJS project
