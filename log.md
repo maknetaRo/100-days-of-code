@@ -34,6 +34,36 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 22: September 13, 2019
+
+**Plans for Today:**
+1. Follow Scrapy tutorial
+2. Work on building a crawler for my microlearning app
+3. Watch Code! Programming with p5.js or any CSS video from Create[Tutorials & Tips]
+4. Install #jython and #jes on my computer
+5. Work on landing page
+6. Advanced JavaScrip Concepts (2-3 videos)
+
+**Today's Progress:**
+1. p5.js - following tutorial of CodingTrain
+2. almost created "used-by" part of the landing page
+
+**Thoughts:**
+* Working in CSS is a tedious job. I need to find how to align all items horizontally but to make their centers on one line, not their bottoms.
+Need to add some javascript to make video running while scrolling the page.
+* I'm afraid Jython is written in python 2 and although I'm interested in creating digital art using Python I don't think it is worth to spend time on python 2. I have to look for another libraries in Python 3 that can be used for that purpose.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Follow Scrapy tutorial
+2. Work on building a crawler for my microlearning app
+3. Work on landing page
+4. Advanced JavaScrip Concepts (2-3 videos)
+
+**Resources:**
+1. https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
+
 ### Day 21: October 12, 2019
 
 **Plans for Today:**
@@ -53,7 +83,7 @@ I have a few books and courses and would like to use them:
 **Plans for tomorrow:**
 1. continue scarpy tutorial
 2. read at least 2nd chapter of Introduciton to CS and MC
-3. start creating "used by" part of landing page 
+3. start creating "used by" part of landing page
 
 **Resources:**
 
