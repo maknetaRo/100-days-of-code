@@ -34,6 +34,34 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 23: October 14, 2019
+
+**Plans for Today:**
+1. Follow Scrapy tutorial
+2. Work on building a crawler for my microlearning app
+3. Work on landing page
+4. Advanced JavaScrip Concepts (2-3 videos)
+
+**Today's Progress:**
+1. Finished part 5 of the Scrapy tutorial
+2. Build a bit more of my crawler but don't know why it gives me only 3 links while devtools show there are 166 links.
+3. Build sign up form part of landing page, but have problem with styling for mobiles. The input field together with button are wider than the screen.
+
+**Thoughts:**
+Today I did 2 sprints of code - one lasted 2 hours and the second one hour. Before starting each sprint I announced it on twitter.
+
+**Link to work:**
+* https://github.com/maknetaRo/microlearning/commit/47409b4d5eac1f1a36e92d9174f61e3801e22739 
+
+**Plans for tomorrow:**
+1. Find out how to make input field and button work properly. It might have something in common with media queries for screens. I haven't added that to CSS.
+2. Find out why my crawler returns only 3 links.
+3. Start styling another part of the landing page.
+4. Follow udemy tutorial.
+
+**Resources:**
+* Scrapy beginner tutorial: https://www.youtube.com/playlist?list=PLy3juYua7JoVRdRYVjVaBi3Ao65B0Gjyq
+
 ### Day 22: September 13, 2019
 
 **Plans for Today:**
