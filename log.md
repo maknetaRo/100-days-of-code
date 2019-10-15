@@ -44,7 +44,10 @@ I have a few books and courses and would like to use them:
 
 **Today's Progress:**
 1. followed udemy Advanced JavaScript Concepts tutorial (finished part 1)
-2. styled testimonial part of the landing page
+2. styled testimonial part of the landing page, was using flex and started from mobile first
+
+![mobile-first](.images/mobile-first.png)
+![full-page](./images/full-page.png)
 3. read more about Scrapy and corrected my code a bit. Now I have 27 links to groups of links.
 
 **Thoughts:**
