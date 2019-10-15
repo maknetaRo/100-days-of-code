@@ -34,6 +34,35 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 24: October 15, 2019
+
+**Plans for Today:**
+1. Find out how to make input field and button work properly. It might have something in common with media queries for screens. I haven't added that to CSS.
+2. Find out why my crawler returns only 3 links.
+3. Start styling another part of the landing page.
+4. Follow udemy tutorial.
+
+**Today's Progress:**
+1. followed udemy Advanced JavaScript Concepts tutorial (finished part 1)
+2. styled testimonial part of the landing page
+3. read more about Scrapy and corrected my code a bit. Now I have 27 links to groups of links.
+
+**Thoughts:**
+* I'm starting to understand Flexbox better and I'm using it in my project together with CSS Grid
+* The project I'm using Scrapy for is called Microlearning app because I want to scrape each part of the web and send it daily to my email box. So I want to read a bit about a given topic everyday.
+* If I manage to build such an app, I will recreate it to send myself lessons about ART but not daily but weekly.
+
+**Link to work:**
+https://github.com/maknetaRo/microlearning/commit/7cafd2bb26b89c83bd42c50ef52266e1f87f5265
+
+**Plans for tomorrow:**
+1. Find out how to make input field and button work properly. It might have something in common with media queries for screens. I haven't added that to CSS.
+
+**Resources:**
+* https://www.accordbox.com/blog/scrapy-tutorial-series-web-scraping-using-python/
+* https://docs.scrapy.org/en/latest/
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 ### Day 23: October 14, 2019
 
 **Plans for Today:**
@@ -51,7 +80,7 @@ I have a few books and courses and would like to use them:
 Today I did 2 sprints of code - one lasted 2 hours and the second one hour. Before starting each sprint I announced it on twitter.
 
 **Link to work:**
-* https://github.com/maknetaRo/microlearning/commit/47409b4d5eac1f1a36e92d9174f61e3801e22739 
+* https://github.com/maknetaRo/microlearning/commit/47409b4d5eac1f1a36e92d9174f61e3801e22739
 
 **Plans for tomorrow:**
 1. Find out how to make input field and button work properly. It might have something in common with media queries for screens. I haven't added that to CSS.
