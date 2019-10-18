@@ -34,6 +34,74 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 27: October 18, 2019
+
+**Plans for Today:**
+1. Create Frontend Mentor four card feature section project
+2. Continue microlearning app
+3. solve 2-3 Python katas
+4. watch 2-3 JavaScript videos
+
+**Today's Progress:**
+1. Did four card feature section project
+2. started base apparel html & css project
+
+**Thoughts:**
+I'm fed up with following tutorials. I want to learn new things but simply can't follow tuts, I'm dying while watching courses. Only very short and up to point tutorials I can handle. But then I don't remember much.
+
+
+**Link to work:**
+* https://github.com/maknetaRo/frontend-mentor/tree/master/four-cards
+* https://maknetaro.github.io/frontend-mentor/four-cards/index.html
+
+**Plans for tomorrow:**
+1. Continue Frontend Mentor base apparel project
+2. Continue microlearning app
+3. solve 2-3 Python katas
+4. watch 2-3 JavaScript video
+
+**Resources:**
+
+### Day 26: October 17, 2019
+
+**Plans for Today:**
+1. Read more Scrapy documentation and add more features to my microlearning app
+2. Watch 2 or 3 JS videos
+3. Make some Python kata
+4. start writing my portfolio code
+
+**Today's Progress:**
+1. watched 4 Advanced JavaScript Concepts videos
+2. half an hour of reading scrapy tutorial
+
+
+**Thoughts:**
+Feel too tired to learn new things :-(
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+### Day 25: October 16, 2019
+
+**Plans for Today:**
+1. Read more Scrapy documentation and add more features to my microlearning app
+2. Watch 2 or 3 JS videos
+
+**Today's Progress:**
+1. did 3 python kata
+2. read a bit of Scrapy documentation
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
 ### Day 24: October 15, 2019
 
 **Plans for Today:**
