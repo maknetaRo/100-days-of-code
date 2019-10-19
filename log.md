@@ -34,6 +34,33 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 28: October 19, 2019
+
+**Plans for Today:**
+1. Continue Frontend Mentor base apparel project
+2. Continue microlearning app
+3. solve 2-3 Python katas
+4. watch 2-3 JavaScript video
+
+**Today's Progress:**
+1. Did base apparel project but I'm not sure if it's finished. I might change input and add some behavior when the email is incorrect. But I'm not sure.
+
+![mobile-first](./images/apparel-mobile.png)
+![desktop](./images/apparel-desktop.png)
+
+**Thoughts:**
+* If I want to work on frontend layouts I need better, larger monitor because I'm not sure if my work looks good on a good monitor.
+
+**Link to work:**
+* https://maknetaro.github.io/frontend-mentor/apparel/
+* https://github.com/maknetaRo/frontend-mentor/tree/master/apparel
+
+**Plans for tomorrow:**
+1. Continue microlearning app
+
+**Resources:**
+* https://www.frontendmentor.io/
+
 ### Day 27: October 18, 2019
 
 **Plans for Today:**
