@@ -34,6 +34,40 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 30: October 22, 2019
+
+**Plans for Today:**
+
+**Today's Progress:**
+* watched 2 or 3 videos from Advanced JavaScript Concepts (I could hear the voice, but the words were bouncing against my head)
+* was following ebook: A Smarter Way to Learn JavaScript - there are no new concepts so far, but I feel like an idiot, because every time something doesn't work as I thought and I don't know why.  
+
+**Thoughts:**
+Another day under the weather. I challenged myself to add tiny habits to my life. One of them was to open a udemy JavaScript course as soon as I switch my computer on. And I'm spending the evening pulling my hair out of my head because JavaScript is awful. I don't know how to change my attitude towards this language!!!
+
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+### Day 29: October 21, 2019
+
+**Plans for Today:**
+
+**Today's Progress:**
+Made a bit of news part of the landing page
+
+**Thoughts:**
+I am disappointed because the person who supposed to be working with me on the project hasn't done any work yet. I could do everything by myself but I don't know if it is appropriate. And what if he finally shows up. He said that he had a flue (two weeks ago).
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
 ### Day 28: October 19, 2019
 
 **Plans for Today:**
