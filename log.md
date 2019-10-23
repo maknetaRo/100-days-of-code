@@ -34,6 +34,27 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+
+
+### Day 31: October 23, 2019
+
+**Plans for Today:**
+1. Work on landing page(s)
+
+**Today's Progress:**
+1. Made navbar to the collab project
+2. Worked more on another supposed-to-be collab project.
+
+**Thoughts:**
+Screw modesty. I'm a good, no I'm a great developer. I pay a lot of attention to the details and I'm very picky so I sit hours and hours to style single thing.
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Continue both collab pages. 
+
+**Resources:**
+
 ### Day 30: October 22, 2019
 
 **Plans for Today:**
@@ -49,6 +70,8 @@ Another day under the weather. I challenged myself to add tiny habits to my life
 **Link to work:**
 
 **Plans for tomorrow:**
+1. Watch and code Eye Ball Animations: https://www.youtube.com/watch?v=52rKp7P3gIs&t=111s
+2. Continue landing page
 
 **Resources:**
 
