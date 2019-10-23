@@ -51,7 +51,8 @@ Screw modesty. I'm a good, no I'm a great developer. I pay a lot of attention to
 **Link to work:**
 
 **Plans for tomorrow:**
-1. Continue both collab pages. 
+1. Continue both collab pages.
+2. Watch and code Eye Ball Animations: https://www.youtube.com/watch?v=52rKp7P3gIs&t=111s
 
 **Resources:**
 
