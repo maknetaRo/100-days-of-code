@@ -46,7 +46,9 @@ I have a few books and courses and would like to use them:
 2. Worked more on another supposed-to-be collab project.
 
 **Thoughts:**
-Screw modesty. I'm a good, no I'm a great developer. I pay a lot of attention to the details and I'm very picky so I sit hours and hours to style single thing.
+Screw modesty. I'm a good, no I'm a great developer. I pay a lot of attention to the details and I'm very fussy so I sit hours and hours to style single thing.
+My code is still a spaghetti code but I want to build responsive sites from the very beginning. Next step is to learn any css preprocessor or sth like that.
+And I'm also fed up with people who want to collaborate and then they don't show off.
 
 **Link to work:**
 
