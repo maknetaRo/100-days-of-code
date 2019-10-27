@@ -30,11 +30,108 @@ I have a few books and courses and would like to use them:
 4. https://www.udemy.com/course/advanced-javascript-concepts/
 5. A Smarter Way to Learn JavaScript
 6. http://javascript.info/
-7.
+7. https://watchandcode.com/courses/
+
+#### Angular
+1. https://angular.io/docs
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 35: October 27, 2019
 
+**Plans for Today:**
+1. learn Angular
+2. create python script to resize photos
+
+**Today's Progress:**
+1. Created Python script to resize images in bulk (following the tutorial).On my own, I added the checking which side is longer to change the default size accordingly to landscape or portrait orientation.
+2. Followed a bit of Watch And Code (revision)
+3. Finished 3rd part of the official Angular tutorial
+
+**Thoughts:**
+The first time I was reading the Angular official tutorial, I couldn't understand anything, but now it's much better ;-). I'm doing the connections between Angular in Django (in my mind)
+
+**Link to work:**
+1. Python resize_images.py script: https://github.com/maknetaRo/everyday_python/blob/master/resize_images.py
+
+**Plans for tomorrow:**
+1. continue collab project - finish styling header
+2. check the news part of the chingu-12 project
+
+**Resources:**
+1. https://kishstats.com/python/2018/04/27/bulk-image-resizing-python.html
+2. https://watchandcode.com/
+3. https://angular.io/tutorial/toh-pt3 - start here
+
+### Day 34: October 26, 2019
+
+**Plans for Today:**
+1. continue collab project - finish styling header
+2. check the news part of the chingu-12 project
+3. continue django project - booktime
+
+**Today's Progress:**
+1. started todo app in angular but got lost a bit, did mostly styling
+2. started official Angular tutorial
+
+**Thoughts:**
+
+**Link to work:**
+https://github.com/maknetaRo/angular-todo-list
+
+**Plans for tomorrow:**
+1. continue collab project - finish styling header
+2. check the news part of the chingu-12 project
+3. continue django project - booktime
+4. continue Angular official tutorial
+
+
+**Resources:**
+https://angular.io/tutorial/toh-pt1#appmodule - continue from that point
+
+### Day 33: October 25, 2019
+
+**Plans for Today:**
+
+**Today's Progress:**
+1. Finished yt tutorial on Angular
+2. Started reading the free chapter of ng-book The complete book on Angular
+3. Decided to do some Django and started new project booktime  
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. continue collab project - finish styling header
+2. check the news part of the chingu-12 project
+3. continue django project - booktime
+
+**Resources:**
+
+### Day 32: October 24, 2019
+
+**Plans for Today:**
+
+**Today's Progress:**
+1. Started learning Angular (once again)
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Continue landing page for collab project
+2. continue angular course
+
+**Resources:**
+* https://coursetro.com/posts/code/174/Angular-8-Tutorial-&-Crash-Course
+* https://www.youtube.com/watch?v=_TLhUCjY9iA
+
+* the next Angular resource I want to try:
+* https://scotch.io/courses/build-your-first-angular-website/introduction
+* https://angular-2-training-book.rangle.io/why_angular_2
+* https://codecraft.tv/courses/angular/
 
 ### Day 31: October 23, 2019
 
