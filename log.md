@@ -37,6 +37,113 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+
+### Day 38: October 30, 2019
+
+**Plans for Today:**
+1. Watch and code along as much Angular yt tutorial as possible
+2. Work a bit on collab project
+
+**Today's Progress:**
+1. Watched 8 parts of yt Angular tutorial.
+2. Started django-angular app.
+
+**Thoughts:**
+I don't understand much about connecting django to angular app. It's simply a sign that I need to learn more Angular ;-)
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. collab project
+2. chingu projects
+3. continue learning angular
+
+**Resources:**
+* Youtube series about Angular:
+https://www.youtube.com/watch?v=N8FBmB2jme8&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=6
+* https://www.youtube.com/watch?v=z_H-oxQVsPw
+
+### Day 39, 40: November 1, 3, 2019
+
+**Plans for Today:**
+
+
+**Today's Progress:**
+1. wrote Python script "alarm_clock" that opens yt video at a given time
+2. was styling deck part but it occurred that it wasn't needed
+3. was learning more about Angular
+4. solved several problems on Edabit in JavaScript
+
+**Thoughts:**
+1. need  to learn how to use argparse library in python to finish the alarm_clock script
+
+**Link to work:**
+https://github.com/maknetaRo/everyday_python/blob/master/alarmClock/alarm_clock.py
+
+**Plans for tomorrow:**
+1. work on my another collab project
+2. read about argparse in python
+
+**Resources:**
+
+### Day 38: October 31, 2019
+
+**Plans for Today:**
+
+
+**Today's Progress:**
+1. Was learning how to join Angular app with Django REST
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+### Day 37: October 29, 2019
+
+**Plans for Today:**
+1. Python unitests
+2. Work on chingu project
+3. work on collab project
+
+**Today's Progress:**
+1. Watched a bit about tests in Python
+2. Followed Angular tutorial and got stuck.
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+1. https://www.youtube.com/watch?v=FxSsnHeWQBY
+* lost track here: https://angular.io/tutorial/toh-pt4#observable-data
+
+
+
+### Day 36: October 28, 2019
+
+**Plans for Today:**
+1. continue collab project - finish styling header
+2. check the news part of the chingu-12 project
+3. Continue official Angular tutorial.
+
+**Today's Progress:**
+1. Read only about Angular
+
+**Thoughts:**
+
+**Link to work:**
+
+**Plans for tomorrow:**
+
+**Resources:**
+
+
 ### Day 35: October 27, 2019
 
 **Plans for Today:**
