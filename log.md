@@ -37,6 +37,31 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 41: November 4, 2019
+
+**Plans for Today:**
+1. work on my another collab project
+2. read about argparse in python
+
+**Today's Progress:**
+1. did my part of another collab project, now waiting for accepting my pull request
+2. I tried to add argparse to my project but got lost a bit
+3. added some calculations to resize_images project to resize images with other proportions than 3/4
+
+**Thoughts:**
+1. need  to learn how to pass arguments when a few functions are involved
+
+**Link to work:**
+* resize_images: https://github.com/maknetaRo/everyday_python/blob/master/resize_images.py
+
+
+**Plans for tomorrow:**
+1. start another fronted mentor project on my own (HTML and CSS)
+2. work on alarm_clock.py
+3. continue reading about Angular 
+
+**Resources:**
+
 ### Day 39, 40: November 1, 3, 2019
 
 **Plans for Today:**
