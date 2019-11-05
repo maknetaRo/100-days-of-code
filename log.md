@@ -37,6 +37,30 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 42: November 5, 2019
+
+**Plans for Today:**
+1. start another fronted mentor project on my own (HTML and CSS)
+2. work on alarm_clock.py
+3. continue reading about Angular
+
+**Today's Progress:**
+As usually I planned something different but then I reminded myself that November started a few days ago, and Codevember too. So I did 3 CSS projects.
+
+**Thoughts:**
+I like CSS drawing, although I have still a lot of to learn.
+
+**Link to work:**
+* 1: https://codepen.io/Magda_/pen/GRRxqmO
+* 2: https://codepen.io/Magda_/pen/XWWENwQ
+* 3: https://codepen.io/Magda_/pen/GRRxMvo
+
+
+**Plans for tomorrow:**
+1. 1 or 2 Codevember projects
+
+**Resources:**
+
 ### Day 41: November 4, 2019
 
 **Plans for Today:**
@@ -46,7 +70,7 @@ I have a few books and courses and would like to use them:
 **Today's Progress:**
 1. did my part of another collab project, now waiting for accepting my pull request
 2. I tried to add argparse to my project but got lost a bit
-3. added some calculations to resize_images project to resize images with other proportions than 3/4
+3. added some calculations to  resize images with other proportions than 3/4 in my python project
 
 **Thoughts:**
 1. need  to learn how to pass arguments when a few functions are involved
@@ -58,7 +82,7 @@ I have a few books and courses and would like to use them:
 **Plans for tomorrow:**
 1. start another fronted mentor project on my own (HTML and CSS)
 2. work on alarm_clock.py
-3. continue reading about Angular 
+3. continue reading about Angular
 
 **Resources:**
 
