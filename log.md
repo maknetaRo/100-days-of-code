@@ -37,6 +37,46 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 45: November 8, 2019
+
+**Plans for Today:**
+1. November Codevember - at least 1 project
+
+**Today's Progress:**
+1. Instead of creating a CSS drawing I started a new app in Angular as my weekend project.
+
+**Thoughts:**
+1. I want to create app that uses youtube api and going through google api documentation is the hardest part of the whole process.
+The app is supposed to display a list of videos with their title, stats, thumbvideo, date and also the user should be able to add a new video to the list, watch a video, delete a video and add new video to favourites. 
+
+**Link to work:**
+
+**Plans for tomorrow:**
+1. Add responsiveness to chingu project
+2. continue Angular app
+3. create CSS drawing project
+
+**Resources:**
+
+### Day 44: November 7, 2019
+
+**Plans for Today:**
+1. November Codevember - at least 1 project
+
+**Today's Progress:**
+1. Did one CSS drawing
+
+**Thoughts:**
+
+**Link to work:**
+* https://codepen.io/Magda_/pen/gOOzQLg
+
+**Plans for tomorrow:**
+1. 1 or 2 Codevember projects
+
+**Resources:**
+
+
 ### Day 43: November 6, 2019
 
 **Plans for Today:**
