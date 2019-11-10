@@ -37,6 +37,30 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 46: November 10 , 2019
+
+**Plans for Today:**
+1. Add responsiveness to chingu project
+2. continue Angular app
+3. create CSS drawing project
+
+**Today's Progress:**
+1. started CSS drawing - Monopoly board
+
+**Thoughts:**
+I wanted only to have something to pass my time while waiting for the other person to finish his part of our project. And I spent 3 or 4 hours creating the basic board using CSS grid and flexbox and looking for one missing comma for several minutes.
+There is still a lot to do to finish the project.
+
+**Link to work:**
+* https://codepen.io/Magda_/pen/MWWXRrg
+
+**Plans for tomorrow:**
+1. add responsiveness to collab project
+2. continue monopoly board in css
+3. continue angular project (if I have enough time)
+
+**Resources:**
+
 ### Day 45: November 8, 2019
 
 **Plans for Today:**
@@ -47,7 +71,7 @@ I have a few books and courses and would like to use them:
 
 **Thoughts:**
 1. I want to create app that uses youtube api and going through google api documentation is the hardest part of the whole process.
-The app is supposed to display a list of videos with their title, stats, thumbvideo, date and also the user should be able to add a new video to the list, watch a video, delete a video and add new video to favourites. 
+The app is supposed to display a list of videos with their title, stats, thumbvideo, date and also the user should be able to add a new video to the list, watch a video, delete a video and add new video to favourites.
 
 **Link to work:**
 
