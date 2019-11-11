@@ -37,7 +37,35 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
-### Day 46: November 10 , 2019
+### Day 47: November 10, 2019
+
+**Plans for Today:**
+1. add responsiveness to collab project
+2. continue monopoly board in css
+3. continue angular project (if I have enough time)
+
+**Today's Progress:**
+1. finished chingu project (almost 8 hours)
+2. did some more monopoly game (almost 4 hours)
+
+**Thoughts:**
+* It was my longest day coding - I spent almost 12 hours writing code or writing code. Wakatime shows 3 hr and 46 minutes of browsing but I was creating project on CodePen.
+* I had to left the Monopoly board project left unfinished because I needed to finish chingu collab project.
+* almost 8 hours spent writing chingu project
+
+**Link to work:**
+* code https://github.com/chingu-voyages/v12-toucans-team-06
+* life version: https://chingu-voyages.github.io/v12-toucans-team-06/index.html
+* monopoly unfinished: https://codepen.io/Magda_/pen/MWWXRrg
+
+**Plans for tomorrow:**
+* rest
+* continue monopoly CSS board
+* more Angular (maybe)
+
+**Resources:**
+
+### Day 46: November 9, 2019
 
 **Plans for Today:**
 1. Add responsiveness to chingu project
