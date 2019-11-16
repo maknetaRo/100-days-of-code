@@ -37,6 +37,30 @@ I have a few books and courses and would like to use them:
 
 #### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-4
 
+### Day 52-53: October 15-16 , 2019
+
+**Plans for Today:**
+
+**Today's Progress:**
+1. Yesterday I started following a Sass tutorial on yt
+2. Today: I created a small CSS project  on codepen called: Math
+3. And started another Frontend Mentor challenge and styled a layout for 1440px desktop
+
+**Thoughts:**
+
+**Link to work:**
+1. Math CSS project: https://codepen.io/Magda_/full/eYYQovM
+2. tracking component: https://maknetaro.github.io/frontend-mentor/tracking/
+and code: https://github.com/maknetaRo/frontend-mentor/tree/master/tracking
+
+**Plans for tomorrow:**
+1. Continue tracking component project
+2. work a bit on microlearing app
+3. CSS drawing
+
+**Resources:**
+* https://www.youtube.com/watch?v=_a5j7KoflTs&t=4474s
+
 ### Day 47: November 10, 2019
 
 **Plans for Today:**
