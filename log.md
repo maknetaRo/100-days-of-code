@@ -1,3 +1,20 @@
+# 100 Days Of Code - Log Round 6
+# Start: March 1, 2020
+
+## My General Goals:
+* code everyday
+* create my CV and portfolio
+* start looking for a web developer job - send my applications
+
+* more small vanilla JavaScript projects
+* learn Angular building small apps
+* master CSS
+* build Angular - Django learning app
+* work on Chingu projects
+
+#### Previous round:  https://github.com/maknetaRo/100-days-of-code/blob/master/log.md#100-days-of-code---log-round-5
+
+
 # 100 Days Of Code - Log Round 5
 # Start: September 18, 2019
 
