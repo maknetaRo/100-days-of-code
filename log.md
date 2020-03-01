@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log Round 6
 # Start: March 1, 2020
 
-## My General Goals:
+## My Goals:
 * code everyday
 * create my CV and portfolio
 * start looking for a web developer job - send my applications
