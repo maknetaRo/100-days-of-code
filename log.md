@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log Round 6
-# Start: March 1, 2020
+# Start: March 9, 2020
 
 ## My Goals:
 * code everyday
